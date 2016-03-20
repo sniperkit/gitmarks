@@ -10,4 +10,10 @@
     "hash": "bea5cf1cea453784c6edc867df0a71a1", 
     "uri": "http://www.syncfusion.com/resources/techportal/ebooks", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1caba2e7294bb70d6b7918aa1d94f074", 
+    "uri": "http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/", 
+    "title": "Functional architecture is Ports and Adapters"
 }
