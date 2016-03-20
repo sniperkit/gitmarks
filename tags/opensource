@@ -28,4 +28,10 @@
     "hash": "28db76f4a058a1aa9d92333379f2075c", 
     "uri": "https://sourceforge.net/p/ed448goldilocks/code/ci/decaf/tree/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4c196dad601414361878f4f407aceb4a", 
+    "uri": "https://eprint.iacr.org/2015/625.pdf", 
+    "title": "[No Title]"
 }
