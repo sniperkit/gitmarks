@@ -40,4 +40,10 @@
     "hash": "df6fb41f0031e6fb7adb371d575466a8", 
     "uri": "http://en.wikibooks.org/wiki/F_Sharp_Programming", 
     "title": "F# Programming - Wikibooks, open books for an open world"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "62d31f222e4654a4d73c5411170cebf7", 
+    "uri": "http://en.wikipedia.org/wiki/Currying#Contrast_with_partial_function_application", 
+    "title": "Currying - Wikipedia, the free encyclopedia"
 }
