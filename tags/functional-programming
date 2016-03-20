@@ -46,4 +46,10 @@
     "hash": "62d31f222e4654a4d73c5411170cebf7", 
     "uri": "http://en.wikipedia.org/wiki/Currying#Contrast_with_partial_function_application", 
     "title": "Currying - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "90d1f529c83723301a87bf04adbe1c67", 
+    "uri": "http://lambda-the-ultimate.org/node/2266#comment-33625", 
+    "title": "Currying != Generalized Partial Application?! | Lambda the Ultimate"
 }
