@@ -16,4 +16,10 @@
     "hash": "1caba2e7294bb70d6b7918aa1d94f074", 
     "uri": "http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/", 
     "title": "Functional architecture is Ports and Adapters"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "55ee9a7def3af251d2436d286f5fa399", 
+    "uri": "http://eed3si9n.com/learning-scalaz/learning-scalaz.pdf", 
+    "title": "[No Title]"
 }
