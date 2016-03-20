@@ -10,4 +10,10 @@
     "hash": "0354d3816e140cf21b03c0b6fc101404", 
     "uri": "http://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html", 
     "title": "Lecture Notes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "beb82db7c47ca33d5f7bbc2a5d540b56", 
+    "uri": "http://practicalcryptography.com/cryptanalysis/text-characterisation/statistics/", 
+    "title": "Practical Cryptography"
 }
