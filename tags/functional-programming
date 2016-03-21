@@ -76,4 +76,10 @@
     "hash": "4ac6cf9e1694ba1a5e3c6f43493c9d80", 
     "uri": "http://msdn.microsoft.com/en-us/library/ee353894.aspx", 
     "title": "List.fold&lt;'T,'State&gt; Function (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "961702fb551ff134dd2a765653202d10", 
+    "uri": "http://codebetter.com/matthewpodwysocki/2008/08/13/recursing-on-recursion-continuation-passing/", 
+    "title": "Recursing on Recursion &#8211; Continuation Passing | Matthew Podwysocki"
 }
