@@ -52,4 +52,10 @@
     "hash": "90d1f529c83723301a87bf04adbe1c67", 
     "uri": "http://lambda-the-ultimate.org/node/2266#comment-33625", 
     "title": "Currying != Generalized Partial Application?! | Lambda the Ultimate"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "640409798af1508695dbbc9ae881eff3", 
+    "uri": "http://en.wikipedia.org/wiki/Tail_call", 
+    "title": "Tail call - Wikipedia, the free encyclopedia"
 }

@@ -10,4 +10,10 @@
     "hash": "62d31f222e4654a4d73c5411170cebf7", 
     "uri": "http://en.wikipedia.org/wiki/Currying#Contrast_with_partial_function_application", 
     "title": "Currying - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "640409798af1508695dbbc9ae881eff3", 
+    "uri": "http://en.wikipedia.org/wiki/Tail_call", 
+    "title": "Tail call - Wikipedia, the free encyclopedia"
 }
