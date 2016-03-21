@@ -154,4 +154,10 @@
     "hash": "be54b26dce958a62ce3c07eaf8f4af11", 
     "uri": "http://en.wikipedia.org/wiki/Monad_(functional_programming)", 
     "title": "Monad (functional programming) - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fd90110dba2226845a172ddd6ed33408", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233199.aspx", 
+    "title": "Verbose Syntax (F#)"
 }
