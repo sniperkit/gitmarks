@@ -16,4 +16,10 @@
     "hash": "640409798af1508695dbbc9ae881eff3", 
     "uri": "http://en.wikipedia.org/wiki/Tail_call", 
     "title": "Tail call - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f8b0b0c46e9972717c9f6f64280b67b", 
+    "uri": "http://en.wikipedia.org/wiki/Closure_(computer_programming)", 
+    "title": "Closure (computer programming) - Wikipedia, the free encyclopedia"
 }

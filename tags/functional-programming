@@ -100,4 +100,10 @@
     "hash": "e7cc24b22cc5787dc869a493a2bf22b8", 
     "uri": "http://msdn.microsoft.com/en-us/library/hh967652.aspx", 
     "title": "F# Collection Types"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f8b0b0c46e9972717c9f6f64280b67b", 
+    "uri": "http://en.wikipedia.org/wiki/Closure_(computer_programming)", 
+    "title": "Closure (computer programming) - Wikipedia, the free encyclopedia"
 }
