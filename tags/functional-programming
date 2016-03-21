@@ -64,4 +64,10 @@
     "hash": "4405171bc247a9c78a0ad7f01c37d13b", 
     "uri": "http://liangwu.wordpress.com/2010/07/17/the-basic-of-recursive-function-in-f/", 
     "title": "The Basic of Recursive Function in F# | On the way to be great..."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d837a93b4f45283337a497df7c004911", 
+    "uri": "http://msdn.microsoft.com/en-us/library/ee370239.aspx", 
+    "title": "List.reduce&lt;'T&gt; Function (F#)"
 }
