@@ -10,4 +10,10 @@
     "hash": "df6fb41f0031e6fb7adb371d575466a8", 
     "uri": "http://en.wikibooks.org/wiki/F_Sharp_Programming", 
     "title": "F# Programming - Wikibooks, open books for an open world"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fecbb83e68ae87a6228687b6014b58fa", 
+    "uri": "http://msdn.microsoft.com/en-us/library/ee353738.aspx", 
+    "title": "Collections.List Module (F#)"
 }
