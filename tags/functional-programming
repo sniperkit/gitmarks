@@ -148,4 +148,10 @@
     "hash": "ca488e7115c17fd9fe7e3fb1cef68adc", 
     "uri": "http://msdn.microsoft.com/en-us/library/dd233182.aspx", 
     "title": "Computation Expressions (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "be54b26dce958a62ce3c07eaf8f4af11", 
+    "uri": "http://en.wikipedia.org/wiki/Monad_(functional_programming)", 
+    "title": "Monad (functional programming) - Wikipedia, the free encyclopedia"
 }

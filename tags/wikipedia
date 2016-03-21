@@ -28,4 +28,10 @@
     "hash": "8819c6a4288b27e6dd46978d75cc6ad3", 
     "uri": "https://en.wikipedia.org/wiki/Binary_tree", 
     "title": "Binary tree - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "be54b26dce958a62ce3c07eaf8f4af11", 
+    "uri": "http://en.wikipedia.org/wiki/Monad_(functional_programming)", 
+    "title": "Monad (functional programming) - Wikipedia, the free encyclopedia"
 }
