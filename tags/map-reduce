@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "2c8c450d43d933b472018f47c184e8a2", 
-    "uri": "http://prismproof.org/index.html", 
-    "title": "Project: The Mathematical Mesh"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
     "hash": "23cea5201162c7f74279923a7c1b5455", 
     "uri": "http://codecube.net/2009/02/mapreduce-in-c-using-linq/", 
     "title": "MapReduce in C# using LINQ"
