@@ -142,4 +142,10 @@
     "hash": "6371dd86c8e63792acaeaf1c6ecd5b77", 
     "uri": "http://msdn.microsoft.com/en-us/library/ee353754.aspx", 
     "title": "Core.Operators Module (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca488e7115c17fd9fe7e3fb1cef68adc", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233182.aspx", 
+    "title": "Computation Expressions (F#)"
 }
