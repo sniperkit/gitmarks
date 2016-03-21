@@ -58,4 +58,10 @@
     "hash": "640409798af1508695dbbc9ae881eff3", 
     "uri": "http://en.wikipedia.org/wiki/Tail_call", 
     "title": "Tail call - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4405171bc247a9c78a0ad7f01c37d13b", 
+    "uri": "http://liangwu.wordpress.com/2010/07/17/the-basic-of-recursive-function-in-f/", 
+    "title": "The Basic of Recursive Function in F# | On the way to be great..."
 }
