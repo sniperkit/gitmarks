@@ -88,4 +88,10 @@
     "hash": "fecbb83e68ae87a6228687b6014b58fa", 
     "uri": "http://msdn.microsoft.com/en-us/library/ee353738.aspx", 
     "title": "Collections.List Module (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96ac1bb2751ef369c8673c73a33648c2", 
+    "uri": "http://blogs.msdn.com/b/fsharpteam/archive/2011/07/08/tail-calls-in-fsharp.aspx", 
+    "title": "Tail calls in F# | Visual Studio F# Team Blog"
 }
