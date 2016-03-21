@@ -10,4 +10,10 @@
     "hash": "4ac6cf9e1694ba1a5e3c6f43493c9d80", 
     "uri": "http://msdn.microsoft.com/en-us/library/ee353894.aspx", 
     "title": "List.fold&lt;'T,'State&gt; Function (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3e9978d8c99c933e18e45a1ff31294e6", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233226%28v=vs.110%29.aspx", 
+    "title": "Discriminated Unions (F#)"
 }
