@@ -34,4 +34,10 @@
     "hash": "0143071ac58a750d57a3a9cbe7545fcf", 
     "uri": "http://msdn.microsoft.com/en-us/library/dd233186.aspx", 
     "title": "Reference Cells (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "40e9b2fa1c4eaa7e7b9d759d7912ddc7", 
+    "uri": "http://lorgonblog.wordpress.com/2008/04/06/catamorphisms-part-two/", 
+    "title": "Catamorphisms, part two &laquo; Inside F#"
 }
