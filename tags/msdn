@@ -28,4 +28,10 @@
     "hash": "a0d577dda1b3055973fbd846dffccad9", 
     "uri": "http://msdn.microsoft.com/en-us/library/dd233248.aspx", 
     "title": "Active Patterns (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0143071ac58a750d57a3a9cbe7545fcf", 
+    "uri": "http://msdn.microsoft.com/en-us/library/dd233186.aspx", 
+    "title": "Reference Cells (F#)"
 }
