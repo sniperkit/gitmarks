@@ -22,4 +22,10 @@
     "hash": "5bbea03a3fabe9d19ffbf3feed55d424", 
     "uri": "http://msdn.microsoft.com/en-us/library/dd233240.aspx", 
     "title": "Resource Management: The use Keyword (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d850cc3e33c0db631546e6a78376680b", 
+    "uri": "http://msdn.microsoft.com/en-us/vstudio/hh388569", 
+    "title": "Visual F#"
 }
