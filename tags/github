@@ -40,4 +40,10 @@
     "hash": "a77a5f8d21aca93262506dcf7f884ad2", 
     "uri": "https://github.com/haiwen/seafile", 
     "title": "GitHub - haiwen/seafile: Open source cloud storage with file encryption and group sharing, and emphasis on reliability and high performance."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e358c15a8ca6f381fce013a406f2dcc6", 
+    "uri": "https://github.com/netblue30/firejail", 
+    "title": "GitHub - netblue30/firejail: Linux namespaces and seccomp-bpf sandbox"
 }

@@ -4,4 +4,10 @@
     "hash": "b6acfe6859f790bf8ca181a89bbbf666", 
     "uri": "http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/", 
     "title": "Bash Shortcuts For Maximum Productivity"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e358c15a8ca6f381fce013a406f2dcc6", 
+    "uri": "https://github.com/netblue30/firejail", 
+    "title": "GitHub - netblue30/firejail: Linux namespaces and seccomp-bpf sandbox"
 }

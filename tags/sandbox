@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "2c3bffe643243878132df92e310ef7f5", 
-    "uri": "https://www.rackaid.com/blog/scan-wordpress/", 
-    "title": "How To Scan WordPress Like a Hacker"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
     "hash": "e358c15a8ca6f381fce013a406f2dcc6", 
     "uri": "https://github.com/netblue30/firejail", 
     "title": "GitHub - netblue30/firejail: Linux namespaces and seccomp-bpf sandbox"
