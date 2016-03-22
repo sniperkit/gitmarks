@@ -184,4 +184,10 @@
     "hash": "d850cc3e33c0db631546e6a78376680b", 
     "uri": "http://msdn.microsoft.com/en-us/vstudio/hh388569", 
     "title": "Visual F#"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2b6db8a589620e67e8cb03644fea6a7f", 
+    "uri": "https://en.wikipedia.org/wiki/QuickCheck", 
+    "title": "QuickCheck - Wikipedia, the free encyclopedia"
 }

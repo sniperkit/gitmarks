@@ -40,4 +40,10 @@
     "hash": "e167e6a562ac195a311eb4aa1d771c2c", 
     "uri": "http://en.wikipedia.org/wiki/Random_number_generation#Computational_methods", 
     "title": "Random number generation - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2b6db8a589620e67e8cb03644fea6a7f", 
+    "uri": "https://en.wikipedia.org/wiki/QuickCheck", 
+    "title": "QuickCheck - Wikipedia, the free encyclopedia"
 }
