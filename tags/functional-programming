@@ -172,4 +172,10 @@
     "hash": "5bbea03a3fabe9d19ffbf3feed55d424", 
     "uri": "http://msdn.microsoft.com/en-us/library/dd233240.aspx", 
     "title": "Resource Management: The use Keyword (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "15383be54c6a5dab19147a1e29138e3e", 
+    "uri": "https://github.com/cliftonm/DatabaseExplorer", 
+    "title": "GitHub - cliftonm/DatabaseExplorer: Source code for the Imperative to Functional Programming e-book that I wrote and is published by Syncfusion."
 }
