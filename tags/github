@@ -22,4 +22,10 @@
     "hash": "2c8c450d43d933b472018f47c184e8a2", 
     "uri": "http://prismproof.org/index.html", 
     "title": "Project: The Mathematical Mesh"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "08efbc137d06163b10e8654570accca8", 
+    "uri": "https://syncthing.net/", 
+    "title": "Syncthing"
 }
