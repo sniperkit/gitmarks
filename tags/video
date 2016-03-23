@@ -4,4 +4,10 @@
     "hash": "96b0ef86ef9cdb7f5458957e9a304623", 
     "uri": "http://www.infoq.com/presentations/categories-functional-programming", 
     "title": "Categories for the Working Programmer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42e83aacf379e733fc2c8d0b2d7b08cd", 
+    "uri": "https://egghead.io/series/getting-started-with-redux", 
+    "title": "[No Title]"
 }
