@@ -190,4 +190,10 @@
     "hash": "2b6db8a589620e67e8cb03644fea6a7f", 
     "uri": "https://en.wikipedia.org/wiki/QuickCheck", 
     "title": "QuickCheck - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "037ea079eb4ddb2f031062fb2b0f0cd9", 
+    "uri": "http://ramdajs.com/0.19.1/index.html", 
+    "title": "Ramda Documentation"
 }

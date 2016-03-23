@@ -4,4 +4,10 @@
     "hash": "66d7cbbdbb648ab4f1d5b934097f0bab", 
     "uri": "https://baconjs.github.io/", 
     "title": "Bacon.js - Functional Reactive Programming library for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "037ea079eb4ddb2f031062fb2b0f0cd9", 
+    "uri": "http://ramdajs.com/0.19.1/index.html", 
+    "title": "Ramda Documentation"
 }
