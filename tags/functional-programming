@@ -196,4 +196,10 @@
     "hash": "037ea079eb4ddb2f031062fb2b0f0cd9", 
     "uri": "http://ramdajs.com/0.19.1/index.html", 
     "title": "Ramda Documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bf81c969787dde6a72973cb600074b09", 
+    "uri": "https://github.com/lodash/lodash/wiki/FP-Guide", 
+    "title": "FP Guide \u00b7 lodash/lodash Wiki \u00b7 GitHub"
 }
