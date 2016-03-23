@@ -10,4 +10,10 @@
     "hash": "0da436996d32330982293f0acb0f3484", 
     "uri": "https://software.intel.com/en-us/python-distribution", 
     "title": "Python* Distribution | Intel\u00ae Developer Zone"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a408ffa7ca904bd0ef24f8b8b0360cc4", 
+    "uri": "http://dmlc.cs.washington.edu/xgboost.html", 
+    "title": "XGBoost"
 }
