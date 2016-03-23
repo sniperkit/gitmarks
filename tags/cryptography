@@ -39,5 +39,5 @@
     "creator": "alansamet", 
     "hash": "4c196dad601414361878f4f407aceb4a", 
     "uri": "https://eprint.iacr.org/2015/625.pdf", 
-    "title": "[No Title]"
+    "title": "experimental implementation of a new 448-bit elliptic-curve called Ed448-Goldilocks"
 }
