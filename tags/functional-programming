@@ -220,4 +220,10 @@
     "hash": "8cadc163177051e5adcf968875647605", 
     "uri": "http://pinboard.in/t:ramda/", 
     "title": "Pinboard bookmarks tagged ramda"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "07430a7d43dd81d8067d98a5c928fcb2", 
+    "uri": "https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch6.html", 
+    "title": "Chapter 6: Example Application | mostly-adequate-guide"
 }
