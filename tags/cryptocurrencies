@@ -4,4 +4,10 @@
     "hash": "9b370be9c07b3c668d314a2f05bea2f2", 
     "uri": "https://credacash.com/", 
     "title": "CredaCash\u2122 &#8211; Powering the Digital Economy"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9d50f6940f1d6de47f94d8e6606c4b55", 
+    "uri": "https://petertodd.org/2013/disentangling-crypto-coin-mining", 
+    "title": "Disentangling Crypto-Coin Mining: Timestamping, Proof-of-Publication, and Validation"
 }
