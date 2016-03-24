@@ -244,4 +244,10 @@
     "hash": "42aeefdf71972dfc8d5a040b4d2ef1f6", 
     "uri": "https://www.haskell.org/hoogle/", 
     "title": "  Hoogle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6054bc548ae5039f0c80883fa8020704", 
+    "uri": "http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf", 
+    "title": "[No Title]"
 }
