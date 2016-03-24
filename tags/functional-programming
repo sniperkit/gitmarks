@@ -250,4 +250,10 @@
     "hash": "6054bc548ae5039f0c80883fa8020704", 
     "uri": "http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "31e5ac35b9e26d7d67fe16ab14e4392d", 
+    "uri": "http://folktalejs.org/", 
+    "title": "Overview - The Folktale framework for generic programming in JavaScript"
 }
