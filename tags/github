@@ -82,4 +82,10 @@
     "hash": "5b134a7abf6faa51adf07143487948c2", 
     "uri": "https://facebook.github.io/react/docs/thinking-in-react.html", 
     "title": "Thinking in React | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f14e80aec43d9ff5c33c645a96d59b9f", 
+    "uri": "https://github.com/donnut/typescript-ramda", 
+    "title": "GitHub - donnut/typescript-ramda: TypeScript&#39;s type definitions for Ramda"
 }

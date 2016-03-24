@@ -64,4 +64,10 @@
     "hash": "226990a3fa6594b94fdfe4c22e826d63", 
     "uri": "http://flowtype.org/", 
     "title": "Flow | A static type checker for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f14e80aec43d9ff5c33c645a96d59b9f", 
+    "uri": "https://github.com/donnut/typescript-ramda", 
+    "title": "GitHub - donnut/typescript-ramda: TypeScript&#39;s type definitions for Ramda"
 }
