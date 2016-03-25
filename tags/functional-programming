@@ -292,4 +292,10 @@
     "hash": "bece746df1b9efd9022c6b16fc8a212c", 
     "uri": "https://rawgit.com/loop-recur/lambdajs/master/docs/docs.html", 
     "title": "Lambdajs Documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "313a4e8f57dd8432c396f388f8f1eba7", 
+    "uri": "https://github.com/ramda/ramdangular", 
+    "title": "GitHub - ramda/ramdangular: Ramda adapter for AngularJS"
 }
