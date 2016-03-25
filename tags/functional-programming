@@ -274,4 +274,10 @@
     "hash": "339aee62b30b06ac12b61f4176543996", 
     "uri": "https://patternsinfp.wordpress.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a77102290385c50227a11d63d46940b0", 
+    "uri": "http://dev.stephendiehl.com/hask/", 
+    "title": "What I Wish I Knew When Learning Haskell 2.3 ( Stephen Diehl )"
 }
