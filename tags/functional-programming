@@ -280,4 +280,10 @@
     "hash": "a77102290385c50227a11d63d46940b0", 
     "uri": "http://dev.stephendiehl.com/hask/", 
     "title": "What I Wish I Knew When Learning Haskell 2.3 ( Stephen Diehl )"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "24382ace49c823240eb690bc0557e150", 
+    "uri": "https://github.com/loop-recur/lambdajs", 
+    "title": "GitHub - loop-recur/lambdajs"
 }

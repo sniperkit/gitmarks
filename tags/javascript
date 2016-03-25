@@ -94,4 +94,10 @@
     "hash": "b135550e4e5a4a78b4577f9b408bd9cc", 
     "uri": "https://github.com/fantasyland/fantasy-land", 
     "title": "GitHub - fantasyland/fantasy-land: Specification for interoperability of common algebraic structures in JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "24382ace49c823240eb690bc0557e150", 
+    "uri": "https://github.com/loop-recur/lambdajs", 
+    "title": "GitHub - loop-recur/lambdajs"
 }
