@@ -112,4 +112,10 @@
     "hash": "24382ace49c823240eb690bc0557e150", 
     "uri": "https://github.com/loop-recur/lambdajs", 
     "title": "GitHub - loop-recur/lambdajs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bece746df1b9efd9022c6b16fc8a212c", 
+    "uri": "https://rawgit.com/loop-recur/lambdajs/master/docs/docs.html", 
+    "title": "Lambdajs Documentation"
 }
