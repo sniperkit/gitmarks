@@ -112,4 +112,10 @@
     "hash": "313a4e8f57dd8432c396f388f8f1eba7", 
     "uri": "https://github.com/ramda/ramdangular", 
     "title": "GitHub - ramda/ramdangular: Ramda adapter for AngularJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42de7ec1b9ffe2df59bb2161fc584c79", 
+    "uri": "https://github.com/oreillymedia/beautiful_javascript", 
+    "title": "GitHub - oreillymedia/beautiful_javascript"
 }

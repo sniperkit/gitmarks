@@ -22,4 +22,10 @@
     "hash": "07430a7d43dd81d8067d98a5c928fcb2", 
     "uri": "https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch6.html", 
     "title": "Chapter 6: Example Application | mostly-adequate-guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42de7ec1b9ffe2df59bb2161fc584c79", 
+    "uri": "https://github.com/oreillymedia/beautiful_javascript", 
+    "title": "GitHub - oreillymedia/beautiful_javascript"
 }
