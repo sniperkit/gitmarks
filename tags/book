@@ -40,4 +40,10 @@
     "hash": "b7a30551b0775d25bd84f583cbc6d1f8", 
     "uri": "http://learnyouahaskell.com/chapters", 
     "title": "Chapters - Learn You a Haskell for Great Good!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3f05a84de4572e8e30244279d72710b6", 
+    "uri": "https://leanpub.com/javascriptallongesix/read", 
+    "title": "Read JavaScript Allong\u00e9, the &quot;Six&quot; Edition | Leanpub"
 }
