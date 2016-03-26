@@ -142,4 +142,10 @@
     "hash": "84610344a4db40bd40646d742d273a4f", 
     "uri": "http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/", 
     "title": "Boost the Performance of an AngularJS Application Using Immutable Data &#8211; Minko Gechev's blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bb4fd8098940486edb6855b3d668be47", 
+    "uri": "Boost the Performance of an AngularJS Application Using Immutable Data", 
+    "title": "[No Title]"
 }
