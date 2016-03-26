@@ -22,4 +22,10 @@
     "hash": "a77102290385c50227a11d63d46940b0", 
     "uri": "http://dev.stephendiehl.com/hask/", 
     "title": "What I Wish I Knew When Learning Haskell 2.3 ( Stephen Diehl )"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5f4580c5e3d56d7ffa69259449a0ee53", 
+    "uri": "http://book.realworldhaskell.org/read/", 
+    "title": "Real World Haskell"
 }
