@@ -166,4 +166,10 @@
     "hash": "ceb3dda9af298a78969206ca0efb0b57", 
     "uri": "bacon.js bindings for angularJs", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9c86886d64b5317992f6108c6f374b6d", 
+    "uri": "http://reactivex.io/learnrx/", 
+    "title": "Functional Programming in Javascript"
 }
