@@ -142,4 +142,10 @@
     "hash": "572b2345570d3c8a1c5867043ee226e8", 
     "uri": "https://github.com/jashkenas/coffeescript/wiki", 
     "title": "Home \u00b7 jashkenas/coffeescript Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "84610344a4db40bd40646d742d273a4f", 
+    "uri": "http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/", 
+    "title": "Boost the Performance of an AngularJS Application Using Immutable Data &#8211; Minko Gechev's blog"
 }
