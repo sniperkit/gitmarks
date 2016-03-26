@@ -310,4 +310,10 @@
     "hash": "5f4580c5e3d56d7ffa69259449a0ee53", 
     "uri": "http://book.realworldhaskell.org/read/", 
     "title": "Real World Haskell"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b7a30551b0775d25bd84f583cbc6d1f8", 
+    "uri": "http://learnyouahaskell.com/chapters", 
+    "title": "Chapters - Learn You a Haskell for Great Good!"
 }
