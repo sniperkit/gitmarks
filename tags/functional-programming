@@ -316,4 +316,10 @@
     "hash": "b7a30551b0775d25bd84f583cbc6d1f8", 
     "uri": "http://learnyouahaskell.com/chapters", 
     "title": "Chapters - Learn You a Haskell for Great Good!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c01cea4f56b6a01482a2226b55e13f17", 
+    "uri": "https://github.com/lauripiispanen/angular-bacon", 
+    "title": "GitHub - lauripiispanen/angular-bacon: Angular-bacon.js bindings"
 }

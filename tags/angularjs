@@ -16,4 +16,10 @@
     "hash": "bb4fd8098940486edb6855b3d668be47", 
     "uri": "Boost the Performance of an AngularJS Application Using Immutable Data", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c01cea4f56b6a01482a2226b55e13f17", 
+    "uri": "https://github.com/lauripiispanen/angular-bacon", 
+    "title": "GitHub - lauripiispanen/angular-bacon: Angular-bacon.js bindings"
 }
