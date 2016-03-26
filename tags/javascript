@@ -190,4 +190,10 @@
     "hash": "231843bce0d6e6a3f8e5b5c1e41323c6", 
     "uri": "solutions for hardcore functional programming in javascript", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "74865de4dc7a7947c06ad9a39f00581f", 
+    "uri": "https://github.com/jkup/functional-javascript", 
+    "title": "GitHub - jkup/functional-javascript: A list of functional javascript resources"
 }
