@@ -394,4 +394,10 @@
     "hash": "45823ab3e948bf070dd2b207067e24c2", 
     "uri": "http://github.com/technomancy/leiningen", 
     "title": "GitHub - technomancy/leiningen: Automate Clojure projects without setting your hair on fire."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2fa1f29d94374997616eaff2e74435f5", 
+    "uri": "http://dev.clojure.org/display/doc/Getting+Started", 
+    "title": "Getting Started - Clojure Documentation - Clojure Development"
 }
