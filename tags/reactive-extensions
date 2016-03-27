@@ -22,4 +22,10 @@
     "hash": "ecf47e5afab2d4c45e9343982fd5f8ea", 
     "uri": "interactive tutorial", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "20e2340166bd4260bd6bed635f6e1691", 
+    "uri": "https://github.com/omcljs/om/", 
+    "title": "GitHub - omcljs/om: ClojureScript interface to Facebook&#39;s React"
 }
