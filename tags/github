@@ -172,4 +172,10 @@
     "hash": "231843bce0d6e6a3f8e5b5c1e41323c6", 
     "uri": "solutions for hardcore functional programming in javascript", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cca462fb68deee3f28cffdf60e1c13a5", 
+    "uri": "http://clojure.org/about/clojurescript", 
+    "title": "Clojure - ClojureScript"
 }

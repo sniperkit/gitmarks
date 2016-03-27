@@ -364,4 +364,10 @@
     "hash": "cb52dcfaf3038fcef0dcd61e05820e80", 
     "uri": "https://leanpub.com/javascriptallongesix", 
     "title": "JavaScript\u2026  by Reg \u201craganwald\u201d Braithwaite [PDF/iPad/Kindle]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cca462fb68deee3f28cffdf60e1c13a5", 
+    "uri": "http://clojure.org/about/clojurescript", 
+    "title": "Clojure - ClojureScript"
 }
