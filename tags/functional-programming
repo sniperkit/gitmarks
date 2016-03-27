@@ -388,4 +388,10 @@
     "hash": "03c81ace500b3f9de93338d16b3743fb", 
     "uri": "https://docs.google.com/presentation/d/1WmIH538r0ubjW5zfKh43I1_Up4OnqQnNhICETyDnhSI/", 
     "title": "Pristine master slides - Google Slides"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "45823ab3e948bf070dd2b207067e24c2", 
+    "uri": "http://github.com/technomancy/leiningen", 
+    "title": "GitHub - technomancy/leiningen: Automate Clojure projects without setting your hair on fire."
 }

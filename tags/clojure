@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "cca462fb68deee3f28cffdf60e1c13a5", 
-    "uri": "http://clojure.org/about/clojurescript", 
-    "title": "Clojure - ClojureScript"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
     "hash": "45823ab3e948bf070dd2b207067e24c2", 
     "uri": "http://github.com/technomancy/leiningen", 
     "title": "GitHub - technomancy/leiningen: Automate Clojure projects without setting your hair on fire."
