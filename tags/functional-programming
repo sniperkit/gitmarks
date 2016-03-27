@@ -418,4 +418,10 @@
     "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
     "uri": "http://java.ociweb.com/mark/clojure/article.html", 
     "title": "Clojure - Functional Programming for the JVM"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a22784f9c6a4735106befa452456969f", 
+    "uri": "https://github.com/begriffs/immutube", 
+    "title": "GitHub - begriffs/immutube: Youtube + functors, a most unlikely combo"
 }
