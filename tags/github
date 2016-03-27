@@ -178,4 +178,10 @@
     "hash": "cca462fb68deee3f28cffdf60e1c13a5", 
     "uri": "http://clojure.org/about/clojurescript", 
     "title": "Clojure - ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "566e0981021bea73a848157cd6ac170c", 
+    "uri": "https://gist.github.com/seanxwh/cf87d244456f4a392a7d", 
+    "title": "Hardcore Functional JS- Future,Bacon&amp;etc \u00b7 GitHub"
 }
