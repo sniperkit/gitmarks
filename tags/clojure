@@ -22,4 +22,10 @@
     "hash": "9b5e58843782d95fe5abb965865802ef", 
     "uri": "http://pinboard.in/t:clojure/", 
     "title": "Pinboard bookmarks tagged clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
+    "uri": "http://java.ociweb.com/mark/clojure/article.html", 
+    "title": "Clojure - Functional Programming for the JVM"
 }
