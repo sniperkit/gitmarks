@@ -286,4 +286,10 @@
     "hash": "7f2820dee9229964c163a2bfeefdcaff", 
     "uri": "http://www.reactexamples.com/", 
     "title": "Access denied | www.reactexamples.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "67ba088cf2514782ef3f2f67dff50d1a", 
+    "uri": "http://jsfiddle.net/69z2wepo/9519/", 
+    "title": "React Base Fiddle (JSX) - JSFiddle"
 }
