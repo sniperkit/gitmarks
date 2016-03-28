@@ -40,4 +40,10 @@
     "hash": "d25d2fbe3cfc4971c841c2fc497a6a2d", 
     "uri": "http://stackoverflow.com/questions/20947191/using-reactjs-with-angularjs", 
     "title": "Access denied | stackoverflow.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c99b73aff06e7aa1e8aa78d4db8264c", 
+    "uri": "http://www.slideshare.net/borisdinkevich/using-reactjs-in-angularjs", 
+    "title": "Using ReactJS in AngularJS"
 }
