@@ -46,4 +46,10 @@
     "hash": "6e06edca0eb68e77ce861dd3361c513e", 
     "uri": "https://github.com/przeor/react-router-flux-starter-kit/", 
     "title": "GitHub - przeor/react-router-flux-starter-kit: [ReactJS+FLUX+Parse example] a starter kit for reactjs flux project - including react-router &amp; FB oauth"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f695fd79b1b9378cff77d954a9738d7a", 
+    "uri": "http://redux.js.org/index.html", 
+    "title": "Read Me | Redux"
 }
