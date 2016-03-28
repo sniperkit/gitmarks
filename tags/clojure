@@ -28,4 +28,10 @@
     "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
     "uri": "http://java.ociweb.com/mark/clojure/article.html", 
     "title": "Clojure - Functional Programming for the JVM"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c6240a53eeff889a0b425cecac176458", 
+    "uri": "http://www.braveclojure.com/", 
+    "title": "Learn to Program the World's Most Bodacious Language with Clojure for the Brave and True"
 }

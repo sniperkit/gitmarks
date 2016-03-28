@@ -52,4 +52,10 @@
     "hash": "cb52dcfaf3038fcef0dcd61e05820e80", 
     "uri": "https://leanpub.com/javascriptallongesix", 
     "title": "JavaScript\u2026  by Reg \u201craganwald\u201d Braithwaite [PDF/iPad/Kindle]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c6240a53eeff889a0b425cecac176458", 
+    "uri": "http://www.braveclojure.com/", 
+    "title": "Learn to Program the World's Most Bodacious Language with Clojure for the Brave and True"
 }
