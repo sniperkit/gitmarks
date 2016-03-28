@@ -10,4 +10,10 @@
     "hash": "9a4311bc8b1d10f84ceacee12109ae6b", 
     "uri": "Functional JavaScript Resources", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b952108f7f461a818ee61c9df5644439", 
+    "uri": "https://github.com/xgrommx/awesome-redux", 
+    "title": "GitHub - xgrommx/awesome-redux: Awesome list of Redux examples and middlewares"
 }
