@@ -46,4 +46,10 @@
     "hash": "7efb8fd61a06ae8cd574c3aa81d963ab", 
     "uri": "http://www.infoq.com/presentations/Simple-Made-Easy", 
     "title": "Simple Made Easy"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c50ffc9e28755d3b622c8852e52817db", 
+    "uri": "http://clojure.org/api/cheatsheet", 
+    "title": "Clojure - Cheatsheet"
 }
