@@ -52,4 +52,10 @@
     "hash": "f695fd79b1b9378cff77d954a9738d7a", 
     "uri": "http://redux.js.org/index.html", 
     "title": "Read Me | Redux"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2776d20b984badef72174eda0273043e", 
+    "uri": "https://facebook.github.io/react/docs/jsx-in-depth.html", 
+    "title": "JSX in Depth | React"
 }

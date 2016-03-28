@@ -4,4 +4,10 @@
     "hash": "cadba83f9ec5047635fd99f968fb32ff", 
     "uri": "http://facebook.github.io/react/docs/reusable-components.html", 
     "title": "Reusable Components | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2776d20b984badef72174eda0273043e", 
+    "uri": "https://facebook.github.io/react/docs/jsx-in-depth.html", 
+    "title": "JSX in Depth | React"
 }
