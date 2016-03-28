@@ -76,4 +76,10 @@
     "hash": "4f88648dac4800e3e3262b54eb03949f", 
     "uri": "http://jsfiddle.net/69z2wepo/9525/", 
     "title": "React Base Fiddle (JSX) - JSFiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6b9f52aa2704d3a1140f7db67f80af34", 
+    "uri": "https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming", 
+    "title": "Reactive Programming - What is RxJS? - rx Video Tutorial #free @eggheadio"
 }
