@@ -208,4 +208,10 @@
     "hash": "ee80d9181d930a1b37a3b9cb932bc28a", 
     "uri": "https://github.com/ramda/ramda/wiki/Cookbook", 
     "title": "Cookbook \u00b7 ramda/ramda Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5caa3e589cbb0182d6962b1612149837", 
+    "uri": "https://github.com/panayi/calculator", 
+    "title": "GitHub - panayi/calculator: A calculator built with React, Redux and Ramda"
 }
