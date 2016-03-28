@@ -52,4 +52,10 @@
     "hash": "c50ffc9e28755d3b622c8852e52817db", 
     "uri": "http://clojure.org/api/cheatsheet", 
     "title": "Clojure - Cheatsheet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c964db9b7c92622c08d9b16a361421a", 
+    "uri": "http://readwrite.com/2011/07/01/free-e-books-on-clojure/", 
+    "title": "10+ Free Resources for Learning Clojure - ReadWrite"
 }
