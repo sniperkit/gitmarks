@@ -4,4 +4,10 @@
     "hash": "2bafaa611841903ba5f0fc9cfc0c017e", 
     "uri": "https://github.com/davezuko/react-redux-starter-kit", 
     "title": "GitHub - davezuko/react-redux-starter-kit: Get started with React, Redux, and React-Router!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6e06edca0eb68e77ce861dd3361c513e", 
+    "uri": "https://github.com/przeor/react-router-flux-starter-kit/", 
+    "title": "GitHub - przeor/react-router-flux-starter-kit: [ReactJS+FLUX+Parse example] a starter kit for reactjs flux project - including react-router &amp; FB oauth"
 }

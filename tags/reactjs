@@ -40,4 +40,10 @@
     "hash": "cadba83f9ec5047635fd99f968fb32ff", 
     "uri": "http://facebook.github.io/react/docs/reusable-components.html", 
     "title": "Reusable Components | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6e06edca0eb68e77ce861dd3361c513e", 
+    "uri": "https://github.com/przeor/react-router-flux-starter-kit/", 
+    "title": "GitHub - przeor/react-router-flux-starter-kit: [ReactJS+FLUX+Parse example] a starter kit for reactjs flux project - including react-router &amp; FB oauth"
 }
