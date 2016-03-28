@@ -94,4 +94,10 @@
     "hash": "611a3ba43c7c53f23adcedefb14e015f", 
     "uri": "https://github.com/Reactive-Extensions/RxJS", 
     "title": "GitHub - Reactive-Extensions/RxJS: The Reactive Extensions for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "152791b3b2bbbe1eb42645eb7bef5f47", 
+    "uri": "http://xgrommx.github.io/rx-book/", 
+    "title": "Introduction | RxJS - Javascript library for functional reactive programming."
 }
