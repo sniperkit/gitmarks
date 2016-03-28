@@ -88,4 +88,10 @@
     "hash": "fb5c64dc505723945e25c475261b7f4d", 
     "uri": "https://egghead.io/series/introduction-to-reactive-programming", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "611a3ba43c7c53f23adcedefb14e015f", 
+    "uri": "https://github.com/Reactive-Extensions/RxJS", 
+    "title": "GitHub - Reactive-Extensions/RxJS: The Reactive Extensions for JavaScript"
 }
