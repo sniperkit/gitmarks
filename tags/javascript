@@ -310,4 +310,10 @@
     "hash": "f695fd79b1b9378cff77d954a9738d7a", 
     "uri": "http://redux.js.org/index.html", 
     "title": "Read Me | Redux"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc1ac20bb674682da20993d3e252dc36", 
+    "uri": "https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree", 
+    "title": "Redux: The Single Immutable State Tree - js Video Tutorial #free @eggheadio"
 }
