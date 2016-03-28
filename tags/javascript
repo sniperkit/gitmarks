@@ -256,4 +256,10 @@
     "hash": "d8158b422a76b9e4e5206d3eb457106e", 
     "uri": "http://jsfiddle.net/vjeux/kb3gN/", 
     "title": "Edit fiddle - JSFiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dbc8910c46d4c22c3d348324f287838c", 
+    "uri": "https://github.com/rileyteige/learn-react-js", 
+    "title": "GitHub - rileyteige/learn-react-js: Learning ReactJS by following along with the Pluralsight course &quot;React Fundamentals&quot;."
 }
