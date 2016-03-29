@@ -4,4 +4,10 @@
     "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
     "uri": "http://java.ociweb.com/mark/clojure/article.html", 
     "title": "Clojure - Functional Programming for the JVM"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4977925de57bb871f721333ffd832270", 
+    "uri": "http://conal.net/fran/tutorial.htm", 
+    "title": "Composing Reactive Animations"
 }

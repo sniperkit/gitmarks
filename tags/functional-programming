@@ -442,4 +442,10 @@
     "hash": "5caa3e589cbb0182d6962b1612149837", 
     "uri": "https://github.com/panayi/calculator", 
     "title": "GitHub - panayi/calculator: A calculator built with React, Redux and Ramda"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4977925de57bb871f721333ffd832270", 
+    "uri": "http://conal.net/fran/tutorial.htm", 
+    "title": "Composing Reactive Animations"
 }
