@@ -352,4 +352,10 @@
     "hash": "71dc717a2236dc77b19414c9dc5022a5", 
     "uri": "http://cycle.js.org/", 
     "title": "Cycle.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6dc0ea3a2720108145eaae0ac7b708e6", 
+    "uri": "http://blog.edanschwartz.com/2015/09/18/dead-simple-rxjs-todo-list/", 
+    "title": "Edan Schwartz- Web Developer"
 }
