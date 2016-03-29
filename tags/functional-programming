@@ -466,4 +466,10 @@
     "hash": "7658f240dc087d12398ddd2531b6cc84", 
     "uri": "http://apfelmus.nfshost.com/blog/2011/03/28-essence-frp.html", 
     "title": "apfelmus - Reactive-banana and the essence of FRP"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ccdfdebd27f2e86d28f41283f078b7b3", 
+    "uri": "https://egghead.io/series/cycle-js-fundamentals", 
+    "title": "[No Title]"
 }
