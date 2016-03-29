@@ -130,4 +130,10 @@
     "hash": "41eadcad569bcd6125a8b37374923dcc", 
     "uri": "http://pinboard.in/t:reactive-programming/", 
     "title": "Pinboard bookmarks tagged reactive-programming"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6948d27dad5d9d41c1e02042d37fe52f", 
+    "uri": "https://github.com/Reactive-Extensions/rx.angular.js", 
+    "title": "GitHub - Reactive-Extensions/rx.angular.js: AngularJS Bindings for RxJS"
 }

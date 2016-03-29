@@ -46,4 +46,10 @@
     "hash": "1c99b73aff06e7aa1e8aa78d4db8264c", 
     "uri": "http://www.slideshare.net/borisdinkevich/using-reactjs-in-angularjs", 
     "title": "Using ReactJS in AngularJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6948d27dad5d9d41c1e02042d37fe52f", 
+    "uri": "https://github.com/Reactive-Extensions/rx.angular.js", 
+    "title": "GitHub - Reactive-Extensions/rx.angular.js: AngularJS Bindings for RxJS"
 }
