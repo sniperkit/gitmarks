@@ -334,4 +334,10 @@
     "hash": "611a3ba43c7c53f23adcedefb14e015f", 
     "uri": "https://github.com/Reactive-Extensions/RxJS", 
     "title": "GitHub - Reactive-Extensions/RxJS: The Reactive Extensions for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7658f240dc087d12398ddd2531b6cc84", 
+    "uri": "http://apfelmus.nfshost.com/blog/2011/03/28-essence-frp.html", 
+    "title": "apfelmus - Reactive-banana and the essence of FRP"
 }

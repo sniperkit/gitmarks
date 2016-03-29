@@ -460,4 +460,10 @@
     "hash": "b03ccaa749e01db0a6c61a42412f6b7c", 
     "uri": "https://wiki.haskell.org/FRP", 
     "title": "Functional Reactive Programming - HaskellWiki"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7658f240dc087d12398ddd2531b6cc84", 
+    "uri": "http://apfelmus.nfshost.com/blog/2011/03/28-essence-frp.html", 
+    "title": "apfelmus - Reactive-banana and the essence of FRP"
 }
