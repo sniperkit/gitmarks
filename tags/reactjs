@@ -64,4 +64,10 @@
     "hash": "dc1ac20bb674682da20993d3e252dc36", 
     "uri": "https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree", 
     "title": "Redux: The Single Immutable State Tree - js Video Tutorial #free @eggheadio"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9ac82afc3dda73f95d8a54f0fdc69e41", 
+    "uri": "https://github.com/staltz/awesome-react", 
+    "title": "GitHub - staltz/awesome-react: A collection of awesome React libraries, resources and shiny things."
 }

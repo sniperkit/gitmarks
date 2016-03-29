@@ -28,4 +28,10 @@
     "hash": "b03ccaa749e01db0a6c61a42412f6b7c", 
     "uri": "https://wiki.haskell.org/FRP", 
     "title": "Functional Reactive Programming - HaskellWiki"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9ac82afc3dda73f95d8a54f0fdc69e41", 
+    "uri": "https://github.com/staltz/awesome-react", 
+    "title": "GitHub - staltz/awesome-react: A collection of awesome React libraries, resources and shiny things."
 }
