@@ -448,4 +448,10 @@
     "hash": "4977925de57bb871f721333ffd832270", 
     "uri": "http://conal.net/fran/tutorial.htm", 
     "title": "Composing Reactive Animations"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c0ee79506cac19f478e91a7c5b611a5a", 
+    "uri": "http://conal.net/papers/icfp97/", 
+    "title": "[No Title]"
 }
