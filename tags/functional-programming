@@ -454,4 +454,10 @@
     "hash": "c0ee79506cac19f478e91a7c5b611a5a", 
     "uri": "http://conal.net/papers/icfp97/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b03ccaa749e01db0a6c61a42412f6b7c", 
+    "uri": "https://wiki.haskell.org/FRP", 
+    "title": "Functional Reactive Programming - HaskellWiki"
 }

@@ -22,4 +22,10 @@
     "hash": "611a3ba43c7c53f23adcedefb14e015f", 
     "uri": "https://github.com/Reactive-Extensions/RxJS", 
     "title": "GitHub - Reactive-Extensions/RxJS: The Reactive Extensions for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b03ccaa749e01db0a6c61a42412f6b7c", 
+    "uri": "https://wiki.haskell.org/FRP", 
+    "title": "Functional Reactive Programming - HaskellWiki"
 }
