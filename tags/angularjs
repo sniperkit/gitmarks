@@ -58,4 +58,10 @@
     "hash": "d3bc9c505b9e08104398916166aa136b", 
     "uri": "https://angular-ui.github.io/bootstrap/#/getting_started", 
     "title": "Angular directives for Bootstrap"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "15529afb9cf30189805c3f08aa01b8c9", 
+    "uri": "http://ngmodules.org/", 
+    "title": "Popular Modules - AngularJS Modules, Plugins and Directives"
 }
