@@ -226,4 +226,10 @@
     "hash": "be5af1161b4b3325ee35cb26673ce98d", 
     "uri": "https://simplewebrtc.com/", 
     "title": "SimpleWebRTC.js from &amp;yet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6f7003b59600abd0c67c36ca683aae63", 
+    "uri": "https://github.com/bumptech/glide", 
+    "title": "GitHub - bumptech/glide: An image loading and caching library for Android focused on smooth scrolling"
 }

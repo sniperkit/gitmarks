@@ -16,4 +16,10 @@
     "hash": "8072366c80880d7344b3ff867b9b174d", 
     "uri": "https://www.google.com/design/spec/style/color.html#", 
     "title": "Color - Style - Google design guidelines"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6f7003b59600abd0c67c36ca683aae63", 
+    "uri": "https://github.com/bumptech/glide", 
+    "title": "GitHub - bumptech/glide: An image loading and caching library for Android focused on smooth scrolling"
 }
