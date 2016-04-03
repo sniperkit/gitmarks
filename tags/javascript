@@ -358,4 +358,10 @@
     "hash": "6dc0ea3a2720108145eaae0ac7b708e6", 
     "uri": "http://blog.edanschwartz.com/2015/09/18/dead-simple-rxjs-todo-list/", 
     "title": "Edan Schwartz- Web Developer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "352141a40eed9ccbca8b677ff8b5046e", 
+    "uri": "http://jasmine.github.io/", 
+    "title": "Jasmine: Behavior-Driven JavaScript"
 }

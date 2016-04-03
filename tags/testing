@@ -4,4 +4,10 @@
     "hash": "2b6db8a589620e67e8cb03644fea6a7f", 
     "uri": "https://en.wikipedia.org/wiki/QuickCheck", 
     "title": "QuickCheck - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "352141a40eed9ccbca8b677ff8b5046e", 
+    "uri": "http://jasmine.github.io/", 
+    "title": "Jasmine: Behavior-Driven JavaScript"
 }
