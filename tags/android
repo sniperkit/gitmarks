@@ -28,4 +28,10 @@
     "hash": "1253883f9e58b18d67ed0bdf5db3c809", 
     "uri": "http://developer.android.com/intl/ru/tools/performance/index.html", 
     "title": "Performance Profiling Tools | Android Developers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e5d6412e50f06c02fe41df5a2dcd6dec", 
+    "uri": "http://developer.android.com/intl/ru/training/articles/perf-tips.html", 
+    "title": "Performance Tips | Android Developers"
 }
