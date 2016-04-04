@@ -10,4 +10,10 @@
     "hash": "23cea5201162c7f74279923a7c1b5455", 
     "uri": "http://codecube.net/2009/02/mapreduce-in-c-using-linq/", 
     "title": "MapReduce in C# using LINQ"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a04402ba4f0fdfafe458bf0b4b0327be", 
+    "uri": "https://github.com/Azure/amqpnetlite", 
+    "title": "GitHub - Azure/amqpnetlite: AMQP 1.0 .NET Client Library"
 }
