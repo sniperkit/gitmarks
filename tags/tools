@@ -58,4 +58,10 @@
     "hash": "6deccfb2da9c8368d8355602a9bba853", 
     "uri": "https://danielmiessler.com/study/tmux/", 
     "title": "A tmux Primer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e122dcbf17c0aa53b87fb0e8f4f2abfe", 
+    "uri": "https://www.systemcodegeeks.com/shell-scripting/bash/linux-cut-examples/", 
+    "title": "Access denied | www.systemcodegeeks.com used CloudFlare to restrict access"
 }
