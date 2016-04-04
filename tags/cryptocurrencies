@@ -10,4 +10,10 @@
     "hash": "9d50f6940f1d6de47f94d8e6606c4b55", 
     "uri": "https://petertodd.org/2013/disentangling-crypto-coin-mining", 
     "title": "Disentangling Crypto-Coin Mining: Timestamping, Proof-of-Publication, and Validation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "998bec417c89ef62e050f247d4a3962e", 
+    "uri": "https://taler.net/", 
+    "title": "[No Title]"
 }
