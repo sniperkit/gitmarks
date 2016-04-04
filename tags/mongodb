@@ -4,4 +4,10 @@
     "hash": "6ffd53c5b2e5960439c2afaa9c21ee5b", 
     "uri": "https://github.com/dominionenterprises/mongo-queue-csharp", 
     "title": "GitHub - dominionenterprises/mongo-queue-csharp: C# message queue using MongoDB as a backend"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ccfdb7a98da67a283e6eb12bf57f4696", 
+    "uri": "https://www.udacity.com/course/data-wrangling-with-mongodb--ud032", 
+    "title": "Data Wrangling with MongoDB | Udacity"
 }
