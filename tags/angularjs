@@ -64,4 +64,10 @@
     "hash": "15529afb9cf30189805c3f08aa01b8c9", 
     "uri": "http://ngmodules.org/", 
     "title": "Popular Modules - AngularJS Modules, Plugins and Directives"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7c38254ca02fb2c2d65d51838bc1634e", 
+    "uri": "https://www.youtube.com/watch?v=HCR7i5F5L8c", 
+    "title": "Google I/O 2013 - Design Decisions in AngularJS - YouTube"
 }
