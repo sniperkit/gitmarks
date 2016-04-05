@@ -82,4 +82,10 @@
     "hash": "c1164a77995347941c2bf9a62da15439", 
     "uri": "http://tinyurl.com/AngularJSJumpStart", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe57cbc79fd36020192cf0a1c611aa40", 
+    "uri": "http://weblogs.asp.net/dwahlin/angularjs-in-60-ish-minutes-the-ebook", 
+    "title": "Dan Wahlin - AngularJS in 60-ish Minutes \u2013 The eBook"
 }
