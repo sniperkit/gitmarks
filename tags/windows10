@@ -10,4 +10,10 @@
     "hash": "fad6a6d341e977b336200d5e364abca0", 
     "uri": "https://ms-iot.github.io/content/en-US/AdafruitMakerKit.htm", 
     "title": "Adafruit Starter Pack for Windows 10 IoT Core on Raspberry Pi 2 - Windows IoT"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b196e4ce5a7f1b6a91514a25bd42ac7b", 
+    "uri": "http://odetocode.com/blogs/scott/archive/2016/02/16/back-in-time-with-windows-iot.aspx", 
+    "title": "Back In Time with Windows IoT"
 }
