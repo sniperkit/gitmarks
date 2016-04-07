@@ -4,4 +4,10 @@
     "hash": "705b57d8c5ce8783440a0e12ac866819", 
     "uri": "https://www.adafruit.com/products/2702", 
     "title": "Access denied | www.adafruit.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fad6a6d341e977b336200d5e364abca0", 
+    "uri": "https://ms-iot.github.io/content/en-US/AdafruitMakerKit.htm", 
+    "title": "Adafruit Starter Pack for Windows 10 IoT Core on Raspberry Pi 2 - Windows IoT"
 }
