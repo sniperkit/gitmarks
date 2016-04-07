@@ -478,4 +478,10 @@
     "hash": "71dc717a2236dc77b19414c9dc5022a5", 
     "uri": "http://cycle.js.org/", 
     "title": "Cycle.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "344d44955e202dfd98c2a79fe3a6513f", 
+    "uri": "http://debug.elm-lang.org/", 
+    "title": "Home"
 }
