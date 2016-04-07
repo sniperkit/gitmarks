@@ -160,4 +160,10 @@
     "hash": "476988c925e6a151aaa10266dac6d6a2", 
     "uri": "https://www.google.com/?gfe_rd=cr&ei=kpv7Vr72DMGG8Qeokb-ACg&gws_rd=ssl#tbm=vid&q=reactive-extensions+angular.js+videos", 
     "title": "Google"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "18e9d5c9d3a66e2d5cc9cb6aebb211df", 
+    "uri": "https://github.com/ReactiveX/RxJava/wiki/Creating-Observables", 
+    "title": "Creating Observables \u00b7 ReactiveX/RxJava Wiki \u00b7 GitHub"
 }
