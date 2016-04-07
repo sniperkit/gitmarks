@@ -136,4 +136,10 @@
     "hash": "6948d27dad5d9d41c1e02042d37fe52f", 
     "uri": "https://github.com/Reactive-Extensions/rx.angular.js", 
     "title": "GitHub - Reactive-Extensions/rx.angular.js: AngularJS Bindings for RxJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d38d69ca23170665b8e882c56bd83139", 
+    "uri": "https://github.com/ninya-io/ninya.io", 
+    "title": "GitHub - ninya-io/ninya.io: Find StackOverflow users near you by tags and reputation"
 }
