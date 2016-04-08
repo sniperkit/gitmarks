@@ -28,4 +28,10 @@
     "hash": "35f516ca3127f825754a03db3d747adb", 
     "uri": "http://mongodb.github.io/mongo-csharp-driver/", 
     "title": "MongoDB .NET Driver"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a3273f03508785567ba9e9106fb9b564", 
+    "uri": "http://stackexchange.github.io/dapper-dot-net/", 
+    "title": "Dapper-dot-net by StackExchange"
 }
