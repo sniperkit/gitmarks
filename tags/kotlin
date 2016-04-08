@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "alansamet", 
-    "hash": "18e9d5c9d3a66e2d5cc9cb6aebb211df", 
-    "uri": "https://github.com/ReactiveX/RxJava/wiki/Creating-Observables", 
-    "title": "Creating Observables \u00b7 ReactiveX/RxJava Wiki \u00b7 GitHub"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "alansamet", 
     "hash": "2f1ea7e37a5df2eec32f59ecaf9605e8", 
     "uri": "http://tomstechnicalblog.blogspot.co.uk/2016/02/kotlin-rxjava-what-rxjava-should-be.html", 
     "title": "Thomas Nield: Kotlin + RxJava = Functional Powerhouse"
