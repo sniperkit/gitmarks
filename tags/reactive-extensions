@@ -172,4 +172,10 @@
     "hash": "1ea480e6032fc5e80d71675802c43ce9", 
     "uri": "https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/creating.md#cold-vs-hot-observables", 
     "title": "RxJS/creating.md at master \u00b7 Reactive-Extensions/RxJS \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "646e4a9ed5255561f80274f11ccd6c2b", 
+    "uri": "https://github.com/canalplus/rx-player", 
+    "title": "GitHub - canalplus/rx-player: HTML5 video player with some reactive programming inside"
 }

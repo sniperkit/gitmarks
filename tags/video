@@ -16,4 +16,10 @@
     "hash": "7efb8fd61a06ae8cd574c3aa81d963ab", 
     "uri": "http://www.infoq.com/presentations/Simple-Made-Easy", 
     "title": "Simple Made Easy"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "646e4a9ed5255561f80274f11ccd6c2b", 
+    "uri": "https://github.com/canalplus/rx-player", 
+    "title": "GitHub - canalplus/rx-player: HTML5 video player with some reactive programming inside"
 }
