@@ -10,4 +10,10 @@
     "hash": "ccfdb7a98da67a283e6eb12bf57f4696", 
     "uri": "https://www.udacity.com/course/data-wrangling-with-mongodb--ud032", 
     "title": "Data Wrangling with MongoDB | Udacity"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42b80e772a29f29d3c90563bb80a3e41", 
+    "uri": "https://blog.i3arnon.com/2015/12/16/async-linq-to-objects-over-mongodb/", 
+    "title": "Async LINQ To Objects Over MongoDB | Bar Arnon"
 }
