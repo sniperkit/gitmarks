@@ -76,4 +76,10 @@
     "hash": "1c964db9b7c92622c08d9b16a361421a", 
     "uri": "http://readwrite.com/2011/07/01/free-e-books-on-clojure/", 
     "title": "10+ Free Resources for Learning Clojure - ReadWrite"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e5d635f7f5feaae660e755c8895998a9", 
+    "uri": "http://exploringjs.com/es6/", 
+    "title": "Exploring ES6"
 }
