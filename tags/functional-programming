@@ -484,4 +484,10 @@
     "hash": "344d44955e202dfd98c2a79fe3a6513f", 
     "uri": "http://debug.elm-lang.org/", 
     "title": "Home"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a12277a9aeea7222244ad110eac0bea1", 
+    "uri": "http://jlongster.com/Transducers.js--A-JavaScript-Library-for-Transformation-of-Data", 
+    "title": "Transducers.js: A JavaScript Library for Transformation of Data"
 }

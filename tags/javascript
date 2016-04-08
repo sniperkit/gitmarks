@@ -394,4 +394,10 @@
     "hash": "e5d635f7f5feaae660e755c8895998a9", 
     "uri": "http://exploringjs.com/es6/", 
     "title": "Exploring ES6"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a12277a9aeea7222244ad110eac0bea1", 
+    "uri": "http://jlongster.com/Transducers.js--A-JavaScript-Library-for-Transformation-of-Data", 
+    "title": "Transducers.js: A JavaScript Library for Transformation of Data"
 }

@@ -184,4 +184,10 @@
     "hash": "f79aba50fe0b47df1471df872920478d", 
     "uri": "https://github.com/Reactive-Extensions/RxJS-DOM", 
     "title": "GitHub - Reactive-Extensions/RxJS-DOM: HTML DOM Bindings for the Reactive Extensions for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a12277a9aeea7222244ad110eac0bea1", 
+    "uri": "http://jlongster.com/Transducers.js--A-JavaScript-Library-for-Transformation-of-Data", 
+    "title": "Transducers.js: A JavaScript Library for Transformation of Data"
 }
