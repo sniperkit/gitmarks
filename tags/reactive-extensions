@@ -190,4 +190,10 @@
     "hash": "a12277a9aeea7222244ad110eac0bea1", 
     "uri": "http://jlongster.com/Transducers.js--A-JavaScript-Library-for-Transformation-of-Data", 
     "title": "Transducers.js: A JavaScript Library for Transformation of Data"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cbe5e6fc4c0d9b04ea1d14d7c485df61", 
+    "uri": "https://github.com/jlongster/transducers.js", 
+    "title": "GitHub - jlongster/transducers.js: A small library for generalized transformation of data (inspired by Clojure&#39;s transducers)"
 }
