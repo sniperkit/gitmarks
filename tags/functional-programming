@@ -496,4 +496,10 @@
     "hash": "cbe5e6fc4c0d9b04ea1d14d7c485df61", 
     "uri": "https://github.com/jlongster/transducers.js", 
     "title": "GitHub - jlongster/transducers.js: A small library for generalized transformation of data (inspired by Clojure&#39;s transducers)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "39d4cc7f9ce3484da1da199efe21f890", 
+    "uri": "https://github.com/cognitect-labs/transducers-js", 
+    "title": "GitHub - cognitect-labs/transducers-js: Transducers for JavaScript"
 }
