@@ -16,4 +16,10 @@
     "hash": "dd7b2d13bd22d7104b32abb7ce042827", 
     "uri": "http://kotlin.link/", 
     "title": "Kotlin is Awesome!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c583d5e397ad68a8bd1a3342219d90cb", 
+    "uri": "https://github.com/Kotlin/kotlin-koans", 
+    "title": "GitHub - Kotlin/kotlin-koans: Kotlin workshop"
 }
