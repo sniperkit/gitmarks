@@ -52,4 +52,10 @@
     "hash": "972f5e9f57091c6c9ccd1213b9c704ee", 
     "uri": "http://blog.jetbrains.com/kotlin/2015/11/webinar-recording-functional-programming-with-kotlin/", 
     "title": "Webinar Recording: Functional Programming with Kotlin | Kotlin Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "091edda1cb967046184c4c446d96ac2d", 
+    "uri": "https://github.com/zsoltk/RxAndroidLibs", 
+    "title": "GitHub - zsoltk/RxAndroidLibs: A curated list of libraries to aid reactive development on Android"
 }
