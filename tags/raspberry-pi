@@ -22,4 +22,10 @@
     "hash": "7c6f4e1f79b4c1d7810cf7862813df84", 
     "uri": "https://www.microsoft.com/en-us/download/details.aspx?id=48232&751be11f-ede8-5a0c-058c-2ee190a24fa6=True", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c52883ce0bb069b774dbdaf17a6dd746", 
+    "uri": "http://thenewstack.io/tutorial-prototyping-a-sensor-node-and-iot-gateway-with-arduino-and-raspberry-pi-part-1/", 
+    "title": "[No Title]"
 }
