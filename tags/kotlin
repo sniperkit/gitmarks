@@ -22,4 +22,10 @@
     "hash": "c583d5e397ad68a8bd1a3342219d90cb", 
     "uri": "https://github.com/Kotlin/kotlin-koans", 
     "title": "GitHub - Kotlin/kotlin-koans: Kotlin workshop"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0ef6dd55878ef29147094440950678b", 
+    "uri": "http://antonioleiva.com/kotlin-android-developers/", 
+    "title": "Kotlin for Android Developers: The book - Antonio Leiva"
 }
