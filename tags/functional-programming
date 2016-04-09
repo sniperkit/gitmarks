@@ -514,4 +514,10 @@
     "hash": "dd7b2d13bd22d7104b32abb7ce042827", 
     "uri": "http://kotlin.link/", 
     "title": "Kotlin is Awesome!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d6b2a211118ef280b132a106a23907d6", 
+    "uri": "https://github.com/xgrommx/awesome-functional-programming", 
+    "title": "GitHub - xgrommx/awesome-functional-programming: Yet another resource for collecting articles, videos etc. regarding functional programming"
 }
