@@ -22,4 +22,10 @@
     "hash": "646e4a9ed5255561f80274f11ccd6c2b", 
     "uri": "https://github.com/canalplus/rx-player", 
     "title": "GitHub - canalplus/rx-player: HTML5 video player with some reactive programming inside"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "972f5e9f57091c6c9ccd1213b9c704ee", 
+    "uri": "http://blog.jetbrains.com/kotlin/2015/11/webinar-recording-functional-programming-with-kotlin/", 
+    "title": "Webinar Recording: Functional Programming with Kotlin | Kotlin Blog"
 }

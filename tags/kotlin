@@ -4,4 +4,10 @@
     "hash": "2f1ea7e37a5df2eec32f59ecaf9605e8", 
     "uri": "http://tomstechnicalblog.blogspot.co.uk/2016/02/kotlin-rxjava-what-rxjava-should-be.html", 
     "title": "Thomas Nield: Kotlin + RxJava = Functional Powerhouse"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "972f5e9f57091c6c9ccd1213b9c704ee", 
+    "uri": "http://blog.jetbrains.com/kotlin/2015/11/webinar-recording-functional-programming-with-kotlin/", 
+    "title": "Webinar Recording: Functional Programming with Kotlin | Kotlin Blog"
 }

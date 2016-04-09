@@ -502,4 +502,10 @@
     "hash": "39d4cc7f9ce3484da1da199efe21f890", 
     "uri": "https://github.com/cognitect-labs/transducers-js", 
     "title": "GitHub - cognitect-labs/transducers-js: Transducers for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "972f5e9f57091c6c9ccd1213b9c704ee", 
+    "uri": "http://blog.jetbrains.com/kotlin/2015/11/webinar-recording-functional-programming-with-kotlin/", 
+    "title": "Webinar Recording: Functional Programming with Kotlin | Kotlin Blog"
 }
