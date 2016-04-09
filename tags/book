@@ -82,4 +82,10 @@
     "hash": "e5d635f7f5feaae660e755c8895998a9", 
     "uri": "http://exploringjs.com/es6/", 
     "title": "Exploring ES6"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fb45422fc9d5674ef149fa54b4676473", 
+    "uri": "https://github.com/LeeCampbell/RxCookbook", 
+    "title": "GitHub - LeeCampbell/RxCookbook: Collection of recipes and snippets helping you create useful Rx code"
 }
