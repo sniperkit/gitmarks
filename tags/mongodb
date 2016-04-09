@@ -46,4 +46,10 @@
     "hash": "b27797a20ff0c346039a0e9f77ee356d", 
     "uri": "http://www.tutorialspoint.com/mongodb/mongodb_overview.htm", 
     "title": "MongoDB Overview"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a03cc2ab9a32be52358796902484bdd4", 
+    "uri": "https://github.com/ramnes/awesome-mongodb", 
+    "title": "GitHub - ramnes/awesome-mongodb: A curated list of awesome MongoDB resources, libraries, tools and applications"
 }
