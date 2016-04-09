@@ -412,4 +412,10 @@
     "hash": "39d4cc7f9ce3484da1da199efe21f890", 
     "uri": "https://github.com/cognitect-labs/transducers-js", 
     "title": "GitHub - cognitect-labs/transducers-js: Transducers for JavaScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dcfb40a20902873451a26ae85145c5ed", 
+    "uri": "https://github.com/ichpuchtli/awesome-rxjs", 
+    "title": "GitHub - ichpuchtli/awesome-rxjs: A collection of awesome RxJS resources"
 }

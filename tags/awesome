@@ -34,4 +34,10 @@
     "hash": "9ac82afc3dda73f95d8a54f0fdc69e41", 
     "uri": "https://github.com/staltz/awesome-react", 
     "title": "GitHub - staltz/awesome-react: A collection of awesome React libraries, resources and shiny things."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dcfb40a20902873451a26ae85145c5ed", 
+    "uri": "https://github.com/ichpuchtli/awesome-rxjs", 
+    "title": "GitHub - ichpuchtli/awesome-rxjs: A collection of awesome RxJS resources"
 }
