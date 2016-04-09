@@ -22,4 +22,10 @@
     "hash": "cca462fb68deee3f28cffdf60e1c13a5", 
     "uri": "http://clojure.org/about/clojurescript", 
     "title": "Clojure - ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef98a971218b5e006807e0373b8fbf13", 
+    "uri": "http://www.introtorx.com/", 
+    "title": "Introduction to Rx"
 }
