@@ -10,4 +10,10 @@
     "hash": "972f5e9f57091c6c9ccd1213b9c704ee", 
     "uri": "http://blog.jetbrains.com/kotlin/2015/11/webinar-recording-functional-programming-with-kotlin/", 
     "title": "Webinar Recording: Functional Programming with Kotlin | Kotlin Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd7b2d13bd22d7104b32abb7ce042827", 
+    "uri": "http://kotlin.link/", 
+    "title": "Kotlin is Awesome!"
 }
