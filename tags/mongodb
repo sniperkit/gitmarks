@@ -58,4 +58,10 @@
     "hash": "715e9bd912bbccfabb44fee576ea5220", 
     "uri": "https://docs.mongodb.org/manual/reference/operator/", 
     "title": "Operators &mdash; MongoDB Manual 3.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9780775cbce9944750dace33b5264dd3", 
+    "uri": "https://docs.mongodb.org/manual/reference/operator/query/type/", 
+    "title": "$type &mdash; MongoDB Manual 3.2"
 }
