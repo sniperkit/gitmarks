@@ -52,4 +52,10 @@
     "hash": "a03cc2ab9a32be52358796902484bdd4", 
     "uri": "https://github.com/ramnes/awesome-mongodb", 
     "title": "GitHub - ramnes/awesome-mongodb: A curated list of awesome MongoDB resources, libraries, tools and applications"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "715e9bd912bbccfabb44fee576ea5220", 
+    "uri": "https://docs.mongodb.org/manual/reference/operator/", 
+    "title": "Operators &mdash; MongoDB Manual 3.2"
 }
