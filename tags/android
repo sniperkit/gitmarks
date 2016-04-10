@@ -82,4 +82,10 @@
     "hash": "ba8069a66e0c0163d0bb6c62d970869c", 
     "uri": "http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/", 
     "title": "Access denied | blog.danlew.net used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c5208d84a529b956bafa1af3d8b08d25", 
+    "uri": "http://www.captechconsulting.com/blogs/getting-started-with-rxjava-and-android", 
+    "title": "Getting Started with RxJava and Android"
 }
