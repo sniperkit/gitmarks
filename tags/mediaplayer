@@ -4,4 +4,10 @@
     "hash": "646e4a9ed5255561f80274f11ccd6c2b", 
     "uri": "https://github.com/canalplus/rx-player", 
     "title": "GitHub - canalplus/rx-player: HTML5 video player with some reactive programming inside"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ea330c8848ed033defe8db0874f2b5fa", 
+    "uri": "https://github.com/google/ExoPlayer", 
+    "title": "GitHub - google/ExoPlayer: An extensible media player for Android"
 }
