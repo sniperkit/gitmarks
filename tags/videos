@@ -10,4 +10,10 @@
     "hash": "dc1ac20bb674682da20993d3e252dc36", 
     "uri": "https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree", 
     "title": "Redux: The Single Immutable State Tree - js Video Tutorial #free @eggheadio"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f5afeda1853975525d502160ddd42458", 
+    "uri": "https://msdn.microsoft.com/en-us/data/gg577611.aspx", 
+    "title": "Beginner's Guide to Reactive Extensions for .NET"
 }
