@@ -64,4 +64,10 @@
     "hash": "ea330c8848ed033defe8db0874f2b5fa", 
     "uri": "https://github.com/google/ExoPlayer", 
     "title": "GitHub - google/ExoPlayer: An extensible media player for Android"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5b282c15c738617d338acaddc434593f", 
+    "uri": "http://www.androiddesignpatterns.com/2013/04/retaining-objects-across-config-changes.html", 
+    "title": "Handling Configuration Changes with Fragments | Android Design Patterns"
 }
