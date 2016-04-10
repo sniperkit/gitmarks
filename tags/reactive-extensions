@@ -256,4 +256,10 @@
     "hash": "2410546f3b3d44ad606c47dddb4bb209", 
     "uri": "https://github.com/kaushikgopal/RxJava-Android-Samples", 
     "title": "GitHub - kaushikgopal/RxJava-Android-Samples: Learning RxJava for Android by example"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ba8069a66e0c0163d0bb6c62d970869c", 
+    "uri": "http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/", 
+    "title": "Access denied | blog.danlew.net used CloudFlare to restrict access"
 }
