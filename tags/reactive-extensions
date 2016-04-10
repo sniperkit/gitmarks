@@ -238,4 +238,10 @@
     "hash": "3314b907fe4508b662e8adc89032761e", 
     "uri": "https://github.com/eleventigers/awesome-rxjava", 
     "title": "GitHub - eleventigers/awesome-rxjava: Useful resources for working with RxJava"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5ad2173a6d0747cf34df02cd3ab29248", 
+    "uri": "https://social.msdn.microsoft.com/Forums/en-US/d459291a-4245-45ba-8888-35e07f7cf5b2/rx-sample-of-qbservable-provider-for-wmi-events-linq-to-wql?forum=rx", 
+    "title": "[No Title]"
 }
