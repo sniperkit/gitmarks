@@ -76,4 +76,10 @@
     "hash": "78ef254fedd63b10051c99b7fb502a0f", 
     "uri": "https://github.com/scottie1984/mongo-func", 
     "title": "GitHub - scottie1984/mongo-func: A functional approach to MongoDB"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2af7aea22acda7ecde923d219c7b92cf", 
+    "uri": "https://docs.mongodb.org/manual/tutorial/store-javascript-function-on-server/", 
+    "title": "Store a JavaScript Function on the Server &mdash; MongoDB Manual 3.2"
 }
