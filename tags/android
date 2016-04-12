@@ -100,4 +100,10 @@
     "hash": "8e9d8726c9601a345ddfcf1a0688ede9", 
     "uri": "http://developer.android.com/intl/ru/reference/android/media/MediaPlayer.OnTimedTextListener.html", 
     "title": "MediaPlayer.OnTimedTextListener | Android Developers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b5d03eb32ef93230d50d9e27e2c50814", 
+    "uri": "http://stackoverflow.com/questions/32573823/how-to-use-signalr-in-android", 
+    "title": "Access denied | stackoverflow.com used CloudFlare to restrict access"
 }
