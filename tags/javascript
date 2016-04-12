@@ -424,4 +424,10 @@
     "hash": "8deea2f22f371b1ebf85647fa4d37d82", 
     "uri": "http://gregorowicz.blogspot.com/2010/12/using-underscorejs-with-mongodb.html", 
     "title": "Andy's Blog: Using Underscore.js with MongoDB"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "78ef254fedd63b10051c99b7fb502a0f", 
+    "uri": "https://github.com/scottie1984/mongo-func", 
+    "title": "GitHub - scottie1984/mongo-func: A functional approach to MongoDB"
 }
