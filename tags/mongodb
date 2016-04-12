@@ -64,4 +64,10 @@
     "hash": "9780775cbce9944750dace33b5264dd3", 
     "uri": "https://docs.mongodb.org/manual/reference/operator/query/type/", 
     "title": "$type &mdash; MongoDB Manual 3.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8deea2f22f371b1ebf85647fa4d37d82", 
+    "uri": "http://gregorowicz.blogspot.com/2010/12/using-underscorejs-with-mongodb.html", 
+    "title": "Andy's Blog: Using Underscore.js with MongoDB"
 }

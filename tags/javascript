@@ -418,4 +418,10 @@
     "hash": "dcfb40a20902873451a26ae85145c5ed", 
     "uri": "https://github.com/ichpuchtli/awesome-rxjs", 
     "title": "GitHub - ichpuchtli/awesome-rxjs: A collection of awesome RxJS resources"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8deea2f22f371b1ebf85647fa4d37d82", 
+    "uri": "http://gregorowicz.blogspot.com/2010/12/using-underscorejs-with-mongodb.html", 
+    "title": "Andy's Blog: Using Underscore.js with MongoDB"
 }
