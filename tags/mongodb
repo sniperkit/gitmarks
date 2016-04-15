@@ -94,4 +94,10 @@
     "hash": "97640a950738693091e8cc20eb53eb35", 
     "uri": "http://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835", 
     "title": "Access denied | code.tutsplus.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3dbf57d6f71f5922195be0fcc8d1455", 
+    "uri": "https://github.com/pcarrasco23/FootlooseFinancialServices", 
+    "title": "GitHub - pcarrasco23/FootlooseFinancialServices: Sample online banking system using C#, .NET, SQL Server, Entity Framework, MongoDB, WCF, WebAPI, AngularJS, and AWS EC2 and SNS/Lamba"
 }
