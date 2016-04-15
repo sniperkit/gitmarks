@@ -52,4 +52,10 @@
     "hash": "027e481fce70d78b3db49fd2fa289716", 
     "uri": "https://www.raspberrypi.org/forums/viewtopic.php?f=40&t=6424", 
     "title": "Raspberry Pi &bull; View topic - Punnet - a print at home cardboard case"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ed188373b19d98bb114ce1ed84cd534b", 
+    "uri": "https://learn.adafruit.com/mcp230xx-gpio-expander-on-the-raspberry-pi/overview", 
+    "title": "Access denied | learn.adafruit.com used CloudFlare to restrict access"
 }
