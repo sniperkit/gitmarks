@@ -94,4 +94,10 @@
     "hash": "d38d69ca23170665b8e882c56bd83139", 
     "uri": "https://github.com/ninya-io/ninya.io", 
     "title": "GitHub - ninya-io/ninya.io: Find StackOverflow users near you by tags and reputation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "25fde6096fcddce3a48d3c1668d4c6b6", 
+    "uri": "http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html", 
+    "title": "Getting Started with Django Rest Framework and AngularJS"
 }

@@ -22,4 +22,10 @@
     "hash": "e1a281f000f78e202d7dcae194609563", 
     "uri": "https://deals.sourceforge.net/sales/the-ultimate-python-web-development-bundle", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "25fde6096fcddce3a48d3c1668d4c6b6", 
+    "uri": "http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html", 
+    "title": "Getting Started with Django Rest Framework and AngularJS"
 }
