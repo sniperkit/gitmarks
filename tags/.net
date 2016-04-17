@@ -46,4 +46,10 @@
     "hash": "f5afeda1853975525d502160ddd42458", 
     "uri": "https://msdn.microsoft.com/en-us/data/gg577611.aspx", 
     "title": "Beginner's Guide to Reactive Extensions for .NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3abb0ccede3c722029d7be692101d4dc", 
+    "uri": "http://www.talkingdotnet.com/how-to-fix-dnx-project-start-up-error-in-vs-2015/", 
+    "title": "Access denied | www.talkingdotnet.com used CloudFlare to restrict access"
 }
