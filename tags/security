@@ -22,4 +22,10 @@
     "hash": "d9adfdfbae5ad259246c698722ea9bc9", 
     "uri": "https://sourceforge.net/projects/hjt/", 
     "title": "HiJackThis | SourceForge.net"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8dac10302620c743c1bf408f4f6c4511", 
+    "uri": "https://docs.asp.net/en/latest/security/app-secrets.html", 
+    "title": "Safe Storage of Application Secrets &mdash; ASP.NET  documentation"
 }
