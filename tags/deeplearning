@@ -16,4 +16,10 @@
     "hash": "36c252cd7a9759f563811416c7a823ae", 
     "uri": "http://ufldl.stanford.edu/tutorial/", 
     "title": "Unsupervised Feature Learning and Deep Learning Tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1200f39cf0582132bb309f126b512dca", 
+    "uri": "http://www.deeplearningbook.org/", 
+    "title": "Deep Learning"
 }
