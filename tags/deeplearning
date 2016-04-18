@@ -10,4 +10,10 @@
     "hash": "d52824f845689f645943aa3840e4c039", 
     "uri": "https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html", 
     "title": "Vector Representations of Words"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "36c252cd7a9759f563811416c7a823ae", 
+    "uri": "http://ufldl.stanford.edu/tutorial/", 
+    "title": "Unsupervised Feature Learning and Deep Learning Tutorial"
 }
