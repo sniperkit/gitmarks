@@ -64,4 +64,10 @@
     "hash": "995e4a5b1084f25ff18c9442121167fb", 
     "uri": "http://deviq.com/explicit-dependencies-principle/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8d7bc46b9f7e4b25ec58398f5c335414", 
+    "uri": "http://stackoverflow.com/questions/tagged/spring-data-mongodb", 
+    "title": "Access denied | stackoverflow.com used CloudFlare to restrict access"
 }
