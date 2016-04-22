@@ -4,4 +4,10 @@
     "hash": "a0de7c5076c2d6e6d22f785535e2d57f", 
     "uri": "https://bitnami.com/stack/alfresco", 
     "title": "Alfresco Community Cloud Hosting, Alfresco Community Hosting - Installers and VM"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "34a41e9964e3d20b5f68d905c04a4205", 
+    "uri": "https://bitnami.com/stack/alfresco/cloud/google", 
+    "title": "Alfresco Community Cloud Hosting on Google Cloud Platform"
 }
