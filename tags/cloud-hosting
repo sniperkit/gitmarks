@@ -10,4 +10,10 @@
     "hash": "47cd11d7fbfde2559029b4ff769b8f30", 
     "uri": "http://www.indexden.com/", 
     "title": "IndexDen - full-text search as a service, hosted search API, 100% compatible with IndexTank API (IndexTank alternative)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0de7c5076c2d6e6d22f785535e2d57f", 
+    "uri": "https://bitnami.com/stack/alfresco", 
+    "title": "Alfresco Community Cloud Hosting, Alfresco Community Hosting - Installers and VM"
 }
