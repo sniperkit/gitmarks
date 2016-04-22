@@ -436,4 +436,10 @@
     "hash": "2af7aea22acda7ecde923d219c7b92cf", 
     "uri": "https://docs.mongodb.org/manual/tutorial/store-javascript-function-on-server/", 
     "title": "Store a JavaScript Function on the Server &mdash; MongoDB Manual 3.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0e955b4d298ec06b13aa5097caf1c8b6", 
+    "uri": "http://casajasmina.arduino.cc/projects/aker-kits/", 
+    "title": "AKER Kits | "
 }

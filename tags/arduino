@@ -22,4 +22,10 @@
     "hash": "24e102eb7811208d0ad3c5ec031510bb", 
     "uri": "http://www.diy-thermocam.net/", 
     "title": "A cheap thermographic camera based on the FLIR Lepton - DIY-Thermocam - A do-it-yourself thermal imager"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0e955b4d298ec06b13aa5097caf1c8b6", 
+    "uri": "http://casajasmina.arduino.cc/projects/aker-kits/", 
+    "title": "AKER Kits | "
 }
