@@ -82,4 +82,10 @@
     "hash": "b2f666a90695ace32efda04793210374", 
     "uri": "http://eprint.iacr.org/2016/386", 
     "title": "Cryptology ePrint Archive: Report 2016/386"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c1ec27389ffbb34bbf26deb2f9f7ee6b", 
+    "uri": "https://github.com/holiman/loclass", 
+    "title": null
 }
