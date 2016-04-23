@@ -448,4 +448,10 @@
     "hash": "d02e2dead34deb114632f85e6ad4067c", 
     "uri": "http://node-ardx.org/", 
     "title": "Arduino Experimenter&#39;s Guide for NodeJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "608f887298c0e9a822f37e4c0346c9aa", 
+    "uri": "https://github.com/timekit-io/booking-js", 
+    "title": "GitHub - timekit-io/booking-js: Make a beautiful embeddable booking widget in minutes"
 }
