@@ -70,4 +70,10 @@
     "hash": "d9adfdfbae5ad259246c698722ea9bc9", 
     "uri": "https://sourceforge.net/projects/hjt/", 
     "title": "HiJackThis | SourceForge.net"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "21b66bab5f65ad29c0b90eb3b84a539c", 
+    "uri": "https://github.com/droope/droopescan", 
+    "title": "GitHub - droope/droopescan: A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal &amp; Silverstripe."
 }

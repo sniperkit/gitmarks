@@ -82,4 +82,10 @@
     "hash": "7ebd3be62c30d162e6e926941bd0c95d", 
     "uri": "https://github.com/vlall/darksearch", 
     "title": null
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "21b66bab5f65ad29c0b90eb3b84a539c", 
+    "uri": "https://github.com/droope/droopescan", 
+    "title": "GitHub - droope/droopescan: A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal &amp; Silverstripe."
 }
