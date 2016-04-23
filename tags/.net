@@ -64,4 +64,10 @@
     "hash": "5101a1cdb1e6a8617443a9cd7c252a12", 
     "uri": "https://www.dotnetcodegeeks.com/", 
     "title": "Access denied | www.dotnetcodegeeks.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca5cd6ad6a992fa13509cc64660c3412", 
+    "uri": "https://www.sentinelone.com/blogs/teaching-an-old-rat-new-tricks/", 
+    "title": "403 Forbidden"
 }
