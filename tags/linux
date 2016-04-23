@@ -40,4 +40,10 @@
     "hash": "8963e6e1b58e1c778bc8f541c91bc303", 
     "uri": "https://www.systemcodegeeks.com/", 
     "title": "Access denied | www.systemcodegeeks.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "de428ac0b5e87843ce923eb9ca9e4190", 
+    "uri": "https://github.com/tldr-pages/tldr/", 
+    "title": "GitHub - tldr-pages/tldr: Simplified and community-driven man pages"
 }
