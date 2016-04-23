@@ -28,4 +28,10 @@
     "hash": "25fde6096fcddce3a48d3c1668d4c6b6", 
     "uri": "http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html", 
     "title": "Getting Started with Django Rest Framework and AngularJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3b271700c03392b600301cefc1d1784e", 
+    "uri": "http://ericpony.github.io/z3py-tutorial/guide-examples.htm", 
+    "title": "Z3Py Guide"
 }
