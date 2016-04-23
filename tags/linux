@@ -46,4 +46,10 @@
     "hash": "de428ac0b5e87843ce923eb9ca9e4190", 
     "uri": "https://github.com/tldr-pages/tldr/", 
     "title": "GitHub - tldr-pages/tldr: Simplified and community-driven man pages"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "889d902cc55e9785d49bdbe53eef202a", 
+    "uri": "https://github.com/quarkslab/binmap", 
+    "title": "GitHub - quarkslab/binmap: system scanner"
 }
