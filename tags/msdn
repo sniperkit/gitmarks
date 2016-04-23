@@ -34,4 +34,10 @@
     "hash": "0143071ac58a750d57a3a9cbe7545fcf", 
     "uri": "http://msdn.microsoft.com/en-us/library/dd233186.aspx", 
     "title": "Reference Cells (F#)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c47dc681fc9a8ea51e36086b47408541", 
+    "uri": "https://msdn.microsoft.com/en-us/library/ff524512%28v=vs.93%29.aspx", 
+    "title": "Getting Started (Solver Foundation)"
 }

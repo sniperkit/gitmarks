@@ -34,4 +34,10 @@
     "hash": "a3273f03508785567ba9e9106fb9b564", 
     "uri": "http://stackexchange.github.io/dapper-dot-net/", 
     "title": "Dapper-dot-net by StackExchange"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c47dc681fc9a8ea51e36086b47408541", 
+    "uri": "https://msdn.microsoft.com/en-us/library/ff524512%28v=vs.93%29.aspx", 
+    "title": "Getting Started (Solver Foundation)"
 }
