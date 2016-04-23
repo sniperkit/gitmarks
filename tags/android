@@ -112,4 +112,10 @@
     "hash": "0cfc070c83a3871c5dd057e77d54b34a", 
     "uri": "https://github.com/dps/piui", 
     "title": "GitHub - dps/piui: Add a UI to your standalone Raspberry Pi project using your Android phone"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "19e46005615b3fa629979a67d092da09", 
+    "uri": "https://github.com/CyanogenMod/android_build/tree/cm-13.0/target/product/security", 
+    "title": "android_build/target/product/security at cm-13.0 \u00b7 CyanogenMod/android_build \u00b7 GitHub"
 }

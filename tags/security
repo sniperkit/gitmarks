@@ -28,4 +28,10 @@
     "hash": "8dac10302620c743c1bf408f4f6c4511", 
     "uri": "https://docs.asp.net/en/latest/security/app-secrets.html", 
     "title": "Safe Storage of Application Secrets &mdash; ASP.NET  documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "19e46005615b3fa629979a67d092da09", 
+    "uri": "https://github.com/CyanogenMod/android_build/tree/cm-13.0/target/product/security", 
+    "title": "android_build/target/product/security at cm-13.0 \u00b7 CyanogenMod/android_build \u00b7 GitHub"
 }
