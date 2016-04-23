@@ -100,4 +100,10 @@
     "hash": "3b271700c03392b600301cefc1d1784e", 
     "uri": "http://ericpony.github.io/z3py-tutorial/guide-examples.htm", 
     "title": "Z3Py Guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c6a35e71145a415e730ddb9736b71d28", 
+    "uri": "https://github.com/Z3Prover/z3", 
+    "title": "GitHub - Z3Prover/z3: The Z3 Theorem Prover"
 }
