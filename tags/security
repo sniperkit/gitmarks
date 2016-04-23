@@ -106,4 +106,10 @@
     "hash": "c6a35e71145a415e730ddb9736b71d28", 
     "uri": "https://github.com/Z3Prover/z3", 
     "title": "GitHub - Z3Prover/z3: The Z3 Theorem Prover"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6aaa017e9e3e6cdf1742c95e47a31c0c", 
+    "uri": "http://code.google.com/p/sipvicious", 
+    "title": "GitHub - sandrogauci/sipvicious: SIPVicious suite is a set of tools that can be used to audit SIP based VoIP systems."
 }
