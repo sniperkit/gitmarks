@@ -40,4 +40,10 @@
     "hash": "df6fb41f0031e6fb7adb371d575466a8", 
     "uri": "http://en.wikibooks.org/wiki/F_Sharp_Programming", 
     "title": "F# Programming - Wikibooks, open books for an open world"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ce50303fc432f8cfeb1cc67e95db3e8b", 
+    "uri": "https://github.com/thejameskyle/babel-handbook", 
+    "title": "GitHub - thejameskyle/babel-handbook: A guided handbook on how to use Babel and how to create plugins for Babel."
 }

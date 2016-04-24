@@ -454,4 +454,10 @@
     "hash": "608f887298c0e9a822f37e4c0346c9aa", 
     "uri": "https://github.com/timekit-io/booking-js", 
     "title": "GitHub - timekit-io/booking-js: Make a beautiful embeddable booking widget in minutes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ce50303fc432f8cfeb1cc67e95db3e8b", 
+    "uri": "https://github.com/thejameskyle/babel-handbook", 
+    "title": "GitHub - thejameskyle/babel-handbook: A guided handbook on how to use Babel and how to create plugins for Babel."
 }
