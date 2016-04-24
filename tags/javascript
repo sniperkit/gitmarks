@@ -460,4 +460,10 @@
     "hash": "ce50303fc432f8cfeb1cc67e95db3e8b", 
     "uri": "https://github.com/thejameskyle/babel-handbook", 
     "title": "GitHub - thejameskyle/babel-handbook: A guided handbook on how to use Babel and how to create plugins for Babel."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3fa95cc9111d69be63e607a2db9c755c", 
+    "uri": "http://koajs.com/", 
+    "title": "Koa - next generation web framework for node.js"
 }
