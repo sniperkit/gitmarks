@@ -106,4 +106,10 @@
     "hash": "3493d1b7fe76640ef98e5ccf42f16005", 
     "uri": "http://facebook.github.io/react/docs/tutorial.html", 
     "title": "Tutorial | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fda64297ee396263233842270313ec64", 
+    "uri": "https://www.youtube.com/watch?v=DgVS-zXgMTk&feature=youtu.be", 
+    "title": "Pete Hunt: React - Rethinking Best Practices (updated) - JSConf.Asia 2013 - YouTube"
 }

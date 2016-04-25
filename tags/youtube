@@ -40,4 +40,10 @@
     "hash": "2f8a4e5a996f0142cb96c9c7e5e54436", 
     "uri": "https://www.youtube.com/watch?v=XxVg_s8xAms&feature=youtu.be", 
     "title": "Introduction to React.js - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fda64297ee396263233842270313ec64", 
+    "uri": "https://www.youtube.com/watch?v=DgVS-zXgMTk&feature=youtu.be", 
+    "title": "Pete Hunt: React - Rethinking Best Practices (updated) - JSConf.Asia 2013 - YouTube"
 }
