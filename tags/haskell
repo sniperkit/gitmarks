@@ -34,4 +34,10 @@
     "hash": "b7a30551b0775d25bd84f583cbc6d1f8", 
     "uri": "http://learnyouahaskell.com/chapters", 
     "title": "Chapters - Learn You a Haskell for Great Good!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e1ee3b5f3a13014a1ba842d4312d8cbb", 
+    "uri": "https://github.com/staltz/awesome-react#react-and-haskell", 
+    "title": "GitHub - staltz/awesome-react: A collection of awesome React libraries, resources and shiny things."
 }
