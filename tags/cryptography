@@ -88,4 +88,10 @@
     "hash": "c1ec27389ffbb34bbf26deb2f9f7ee6b", 
     "uri": "https://github.com/holiman/loclass", 
     "title": null
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7167049eaa6a3c95b22d80df2ebfc51b", 
+    "uri": "https://github.com/dedis/cothority", 
+    "title": "GitHub - dedis/cothority: Scalable collective authority prototype"
 }
