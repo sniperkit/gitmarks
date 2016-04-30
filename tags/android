@@ -130,4 +130,10 @@
     "hash": "1c3689af3d36131e03130ec8c4a9d07b", 
     "uri": "http://clojure-android.info/", 
     "title": "Clojure on Android"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "37944a4ce402bc5d547884988b5303ee", 
+    "uri": "https://github.com/pw4ever/tbnl", 
+    "title": "GitHub - pw4ever/tbnl: TBNL: Rule your Android, as the Root, fully programmable, in Clojure"
 }
