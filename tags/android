@@ -136,4 +136,10 @@
     "hash": "37944a4ce402bc5d547884988b5303ee", 
     "uri": "https://github.com/pw4ever/tbnl", 
     "title": "GitHub - pw4ever/tbnl: TBNL: Rule your Android, as the Root, fully programmable, in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7f8d68ba453fb8ecfe6fe376ea6ea259", 
+    "uri": "https://github.com/oakes/Nightweb", 
+    "title": "GitHub - oakes/Nightweb: An anonymous P2P social network in Clojure"
 }
