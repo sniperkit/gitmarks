@@ -64,4 +64,10 @@
     "hash": "88cadba7bb2bfb90cc5ebbfe3ec18e60", 
     "uri": "https://github.com/alda-lang/alda", 
     "title": "GitHub - alda-lang/alda: A music programming language for musicians."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c3689af3d36131e03130ec8c4a9d07b", 
+    "uri": "http://clojure-android.info/", 
+    "title": "Clojure on Android"
 }

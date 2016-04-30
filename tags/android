@@ -124,4 +124,10 @@
     "hash": "d9fc9c83e4ffb6e8a55e3d8eeacf2d78", 
     "uri": "https://xakep.ru/2016/04/20/android-api/?", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c3689af3d36131e03130ec8c4a9d07b", 
+    "uri": "http://clojure-android.info/", 
+    "title": "Clojure on Android"
 }
