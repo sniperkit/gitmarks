@@ -10,4 +10,10 @@
     "hash": "9fe27a4127c6896f54419bffa38679e5", 
     "uri": "http://www.ccs.neu.edu/home/dherman/research/tutorials/monads-for-schemers.txt", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d3537ae1b2de93e7215b3a512792ea23", 
+    "uri": "http://www.lispmachine.net/", 
+    "title": "LISP Information and Resources"
 }

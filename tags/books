@@ -46,4 +46,10 @@
     "hash": "ce50303fc432f8cfeb1cc67e95db3e8b", 
     "uri": "https://github.com/thejameskyle/babel-handbook", 
     "title": "GitHub - thejameskyle/babel-handbook: A guided handbook on how to use Babel and how to create plugins for Babel."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d3537ae1b2de93e7215b3a512792ea23", 
+    "uri": "http://www.lispmachine.net/", 
+    "title": "LISP Information and Resources"
 }
