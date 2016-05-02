@@ -106,4 +106,10 @@
     "hash": "02eb0e24360593f2adbcac576b65a68d", 
     "uri": "https://github.com/alexander-yakushev/events/blob/master/tutorial.md", 
     "title": "events/tutorial.md at master \u00b7 alexander-yakushev/events \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "236f7db26bdabe1f60e38326b15862fe", 
+    "uri": "https://github.com/gorillalabs/sparkling", 
+    "title": "GitHub - gorillalabs/sparkling: A Clojure library for Apache Spark: fast, fully-features, and developer friendly"
 }
