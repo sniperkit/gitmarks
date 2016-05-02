@@ -94,4 +94,10 @@
     "hash": "1cfd8898dc5cc8a4a4c42f74b1cb3663", 
     "uri": "https://github.com/emezeske/lein-cljsbuild", 
     "title": "GitHub - emezeske/lein-cljsbuild: Leiningen plugin to make ClojureScript development easy."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d4bec42b9a4813b6ea568bdde99fffde", 
+    "uri": "https://github.com/clojure-android/lein-droid/wiki/Tutorial", 
+    "title": "Tutorial \u00b7 clojure-android/lein-droid Wiki \u00b7 GitHub"
 }
