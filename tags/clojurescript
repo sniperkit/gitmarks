@@ -4,4 +4,10 @@
     "hash": "1cfd8898dc5cc8a4a4c42f74b1cb3663", 
     "uri": "https://github.com/emezeske/lein-cljsbuild", 
     "title": "GitHub - emezeske/lein-cljsbuild: Leiningen plugin to make ClojureScript development easy."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "219ae199b5143f8023f6f9796f211663", 
+    "uri": "https://github.com/clojure/clojurescript/", 
+    "title": "GitHub - clojure/clojurescript: Clojure to JS compiler"
 }
