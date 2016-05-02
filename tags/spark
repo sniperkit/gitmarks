@@ -10,4 +10,10 @@
     "hash": "236f7db26bdabe1f60e38326b15862fe", 
     "uri": "https://github.com/gorillalabs/sparkling", 
     "title": "GitHub - gorillalabs/sparkling: A Clojure library for Apache Spark: fast, fully-features, and developer friendly"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7423cc3d83626dd77030dc062314df39", 
+    "uri": "http://mishadoff.com/blog/spark-in-clojure/", 
+    "title": "Spark in Clojure"
 }
