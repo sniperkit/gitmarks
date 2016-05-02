@@ -16,4 +16,10 @@
     "hash": "7423cc3d83626dd77030dc062314df39", 
     "uri": "http://mishadoff.com/blog/spark-in-clojure/", 
     "title": "Spark in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1516238ca9efa45f73cfad88cb1a2af3", 
+    "uri": "https://github.com/Microsoft/Mobius", 
+    "title": "GitHub - Microsoft/Mobius: C# language binding and extensions to Apache Spark"
 }
