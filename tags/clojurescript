@@ -22,4 +22,10 @@
     "hash": "a363f8b2d3c84a7403269ac930a8d842", 
     "uri": "https://keminglabs.com/c2/", 
     "title": "C2: Clojure(Script) data visualization"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d2d8c404ef353162ef6b464948847f02", 
+    "uri": "https://github.com/ibdknox/jayq", 
+    "title": "GitHub - ibdknox/jayq: A ClojureScript wrapper for jQuery"
 }
