@@ -118,4 +118,10 @@
     "hash": "7423cc3d83626dd77030dc062314df39", 
     "uri": "http://mishadoff.com/blog/spark-in-clojure/", 
     "title": "Spark in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1022879d1582451c6c42ef5b3af06e8", 
+    "uri": "https://github.com/clojure/core.logic/", 
+    "title": "GitHub - clojure/core.logic"
 }

@@ -10,4 +10,10 @@
     "hash": "219ae199b5143f8023f6f9796f211663", 
     "uri": "https://github.com/clojure/clojurescript/", 
     "title": "GitHub - clojure/clojurescript: Clojure to JS compiler"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1022879d1582451c6c42ef5b3af06e8", 
+    "uri": "https://github.com/clojure/core.logic/", 
+    "title": "GitHub - clojure/core.logic"
 }
