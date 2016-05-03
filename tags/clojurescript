@@ -16,4 +16,10 @@
     "hash": "d1022879d1582451c6c42ef5b3af06e8", 
     "uri": "https://github.com/clojure/core.logic/", 
     "title": "GitHub - clojure/core.logic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a363f8b2d3c84a7403269ac930a8d842", 
+    "uri": "https://keminglabs.com/c2/", 
+    "title": "C2: Clojure(Script) data visualization"
 }
