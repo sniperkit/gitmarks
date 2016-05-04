@@ -130,4 +130,10 @@
     "hash": "128a7047d99f7e487125d3f3c23b9bf2", 
     "uri": "http://hypirion.com/musings/understanding-persistent-vector-pt-1", 
     "title": "polymatheia - Understanding Clojure's Persistent Vector, pt. 1"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "23b3cbcacd19408a5f74febdd74f004a", 
+    "uri": "https://aphyr.com/posts/319-clojure-from-the-ground-up-debugging", 
+    "title": "Clojure from the ground up: debugging"
 }
