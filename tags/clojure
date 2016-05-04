@@ -124,4 +124,10 @@
     "hash": "d1022879d1582451c6c42ef5b3af06e8", 
     "uri": "https://github.com/clojure/core.logic/", 
     "title": "GitHub - clojure/core.logic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "128a7047d99f7e487125d3f3c23b9bf2", 
+    "uri": "http://hypirion.com/musings/understanding-persistent-vector-pt-1", 
+    "title": "polymatheia - Understanding Clojure's Persistent Vector, pt. 1"
 }
