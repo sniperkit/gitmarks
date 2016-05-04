@@ -136,4 +136,10 @@
     "hash": "23b3cbcacd19408a5f74febdd74f004a", 
     "uri": "https://aphyr.com/posts/319-clojure-from-the-ground-up-debugging", 
     "title": "Clojure from the ground up: debugging"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47a3123628a83a5fba854623dc5fae26", 
+    "uri": "https://gist.github.com/ghoseb/287710/", 
+    "title": "Clojure ns syntax cheat-sheet \u00b7 GitHub"
 }
