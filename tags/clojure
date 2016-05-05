@@ -142,4 +142,10 @@
     "hash": "47a3123628a83a5fba854623dc5fae26", 
     "uri": "https://gist.github.com/ghoseb/287710/", 
     "title": "Clojure ns syntax cheat-sheet \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cd66e32d03ad9f40018f17ada9f3dc3f", 
+    "uri": "https://github.com/clojure-android/neko", 
+    "title": "GitHub - clojure-android/neko: The Clojure/Android Toolkit"
 }
