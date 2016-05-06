@@ -148,4 +148,10 @@
     "hash": "cd66e32d03ad9f40018f17ada9f3dc3f", 
     "uri": "https://github.com/clojure-android/neko", 
     "title": "GitHub - clojure-android/neko: The Clojure/Android Toolkit"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e20fd93877c1624cf08ef4042ba3333e", 
+    "uri": "http://clojuredocs.org", 
+    "title": "Community-Powered Clojure Documentation and Examples | ClojureDocs"
 }

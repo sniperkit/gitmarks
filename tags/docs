@@ -46,4 +46,10 @@
     "hash": "198b295b9f5ee544923b52ecf051b9d6", 
     "uri": "https://developers.google.com/closure/library/", 
     "title": "Closure Library  &nbsp;|&nbsp; Google Developers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e20fd93877c1624cf08ef4042ba3333e", 
+    "uri": "http://clojuredocs.org", 
+    "title": "Community-Powered Clojure Documentation and Examples | ClojureDocs"
 }
