@@ -172,4 +172,10 @@
     "hash": "1ed2f30e2187eb9c3fb6111c2f88152b", 
     "uri": "https://clojure.github.io/clojure/clojure.java.io-api.html", 
     "title": "clojure.java.io - Clojure v1.8 API documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7bd756463d2da5b34290f34ce6b67e68", 
+    "uri": "https://github.com/wiseman/turboshrimp", 
+    "title": "GitHub - wiseman/turboshrimp: Clojure API for the Parrot AR.Drone."
 }
