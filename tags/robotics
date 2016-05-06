@@ -4,4 +4,10 @@
     "hash": "7bd756463d2da5b34290f34ce6b67e68", 
     "uri": "https://github.com/wiseman/turboshrimp", 
     "title": "GitHub - wiseman/turboshrimp: Clojure API for the Parrot AR.Drone."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "951226c200b8552eb15ab13ec0cb3ace", 
+    "uri": "https://github.com/gigasquid/clj-drone", 
+    "title": "GitHub - gigasquid/clj-drone: Clojure Copter - Control for the AR Parrot Drone"
 }
