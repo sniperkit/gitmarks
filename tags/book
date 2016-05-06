@@ -106,4 +106,10 @@
     "hash": "9aaa3a87c12e5a9efdfd0cb3bef6816a", 
     "uri": "https://leanpub.com/reactspeedcoding/read", 
     "title": "Read React Speed Coding | Leanpub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cf7789e394c71ed4246b51100555de76", 
+    "uri": "http://funcool.github.io/clojurescript-unraveled/", 
+    "title": "ClojureScript Unraveled"
 }

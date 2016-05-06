@@ -34,4 +34,10 @@
     "hash": "f2ba51f2fd246b6d42942259de8f01a6", 
     "uri": "http://pinboard.in/t:clojurescript/", 
     "title": "Pinboard bookmarks tagged clojurescript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cf7789e394c71ed4246b51100555de76", 
+    "uri": "http://funcool.github.io/clojurescript-unraveled/", 
+    "title": "ClojureScript Unraveled"
 }
