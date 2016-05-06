@@ -46,4 +46,10 @@
     "hash": "fda64297ee396263233842270313ec64", 
     "uri": "https://www.youtube.com/watch?v=DgVS-zXgMTk&feature=youtu.be", 
     "title": "Pete Hunt: React - Rethinking Best Practices (updated) - JSConf.Asia 2013 - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1f79aa6772d67d4fb4fbccbbda28400a", 
+    "uri": "https://www.youtube.com/watch?v=f6kdp27TYZs", 
+    "title": "Google I/O 2012 - Go Concurrency Patterns - YouTube"
 }
