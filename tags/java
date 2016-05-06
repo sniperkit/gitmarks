@@ -34,4 +34,10 @@
     "hash": "b5b775e328584346b342c1465d3f06e6", 
     "uri": "http://clojure.org/java_interop#Java%20Interop-The%20Dot%20special%20form", 
     "title": "Clojure - Java Interop"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "216d8125a4cc6935d749615c80ea699d", 
+    "uri": "https://docs.oracle.com/javase/7/docs/api/java/nio/file/package-summary.html", 
+    "title": "java.nio.file (Java Platform SE 7 )"
 }
