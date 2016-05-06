@@ -40,4 +40,10 @@
     "hash": "216d8125a4cc6935d749615c80ea699d", 
     "uri": "https://docs.oracle.com/javase/7/docs/api/java/nio/file/package-summary.html", 
     "title": "java.nio.file (Java Platform SE 7 )"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6b6d03349d5dacf0936f098d629a0424", 
+    "uri": "http://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html", 
+    "title": "java.io (Java Platform SE 7 )"
 }
