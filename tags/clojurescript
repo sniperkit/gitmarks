@@ -28,4 +28,10 @@
     "hash": "d2d8c404ef353162ef6b464948847f02", 
     "uri": "https://github.com/ibdknox/jayq", 
     "title": "GitHub - ibdknox/jayq: A ClojureScript wrapper for jQuery"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f2ba51f2fd246b6d42942259de8f01a6", 
+    "uri": "http://pinboard.in/t:clojurescript/", 
+    "title": "Pinboard bookmarks tagged clojurescript"
 }
