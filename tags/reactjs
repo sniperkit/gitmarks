@@ -124,4 +124,10 @@
     "hash": "e1ee3b5f3a13014a1ba842d4312d8cbb", 
     "uri": "https://github.com/staltz/awesome-react#react-and-haskell", 
     "title": "GitHub - staltz/awesome-react: A collection of awesome React libraries, resources and shiny things."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9aaa3a87c12e5a9efdfd0cb3bef6816a", 
+    "uri": "https://leanpub.com/reactspeedcoding/read", 
+    "title": "Read React Speed Coding | Leanpub"
 }
