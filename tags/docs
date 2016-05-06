@@ -58,4 +58,10 @@
     "hash": "b5b775e328584346b342c1465d3f06e6", 
     "uri": "http://clojure.org/java_interop#Java%20Interop-The%20Dot%20special%20form", 
     "title": "Clojure - Java Interop"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d44ca1b0bf0b514ba5aeac3bf6bda89c", 
+    "uri": "http://www.braveclojure.com/multimethods-records-protocols/", 
+    "title": "Creating and Extending Abstractions with Multimethods, Protocols, and Records | Clojure for the Brave and True"
 }
