@@ -166,4 +166,10 @@
     "hash": "43efad31a7dea7fd9918c3ca3bf8d7ab", 
     "uri": "http://www.braveclojure.com/java/", 
     "title": "Working with the JVM | Clojure for the Brave and True"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1ed2f30e2187eb9c3fb6111c2f88152b", 
+    "uri": "https://clojure.github.io/clojure/clojure.java.io-api.html", 
+    "title": "clojure.java.io - Clojure v1.8 API documentation"
 }
