@@ -208,4 +208,10 @@
     "hash": "1c6585031134e6227ed2ccb475d5c3f0", 
     "uri": "https://github.com/jonase/eastwood", 
     "title": "GitHub - jonase/eastwood: Clojure lint tool"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5f4660f53a7ae02de1c81c81f399e948", 
+    "uri": "https://github.com/technomancy/leiningen/blob/stable/doc/TUTORIAL.md", 
+    "title": "leiningen/TUTORIAL.md at stable \u00b7 technomancy/leiningen \u00b7 GitHub"
 }
