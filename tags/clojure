@@ -226,4 +226,10 @@
     "hash": "e5f4e6defa41eaafb8f170923c3ea2a7", 
     "uri": "https://www.reddit.com/r/clojure", 
     "title": "Too Many Requests"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ac28106e3db0204e2d1b7159035c2a28", 
+    "uri": "https://www.niwi.nz/cljs-workshop/", 
+    "title": "ClojureScript Tutorial"
 }

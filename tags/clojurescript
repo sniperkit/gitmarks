@@ -40,4 +40,10 @@
     "hash": "cf7789e394c71ed4246b51100555de76", 
     "uri": "http://funcool.github.io/clojurescript-unraveled/", 
     "title": "ClojureScript Unraveled"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ac28106e3db0204e2d1b7159035c2a28", 
+    "uri": "https://www.niwi.nz/cljs-workshop/", 
+    "title": "ClojureScript Tutorial"
 }
