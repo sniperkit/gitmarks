@@ -16,4 +16,10 @@
     "hash": "f5afeda1853975525d502160ddd42458", 
     "uri": "https://msdn.microsoft.com/en-us/data/gg577611.aspx", 
     "title": "Beginner's Guide to Reactive Extensions for .NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d599ec3d4913909dca59dae8a34e32d3", 
+    "uri": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/", 
+    "title": "Video Lectures | Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare"
 }

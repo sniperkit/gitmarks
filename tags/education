@@ -4,4 +4,10 @@
     "hash": "4944d53a2e38f9d5ed3d3b42d848512a", 
     "uri": "https://deals.sourceforge.net/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d599ec3d4913909dca59dae8a34e32d3", 
+    "uri": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/", 
+    "title": "Video Lectures | Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare"
 }
