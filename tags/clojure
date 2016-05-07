@@ -196,4 +196,10 @@
     "hash": "d44ca1b0bf0b514ba5aeac3bf6bda89c", 
     "uri": "http://www.braveclojure.com/multimethods-records-protocols/", 
     "title": "Creating and Extending Abstractions with Multimethods, Protocols, and Records | Clojure for the Brave and True"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "132d9381bc3abc19b62e72326675f95c", 
+    "uri": "http://www.clojure-toolbox.com/", 
+    "title": "The Clojure Toolbox"
 }
