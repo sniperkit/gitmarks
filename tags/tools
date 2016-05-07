@@ -100,4 +100,10 @@
     "hash": "f70b6f273f6a3b2c981296f69e575ff7", 
     "uri": "https://www.reddit.com/r/Nightcode/", 
     "title": "Too Many Requests"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c6585031134e6227ed2ccb475d5c3f0", 
+    "uri": "https://github.com/jonase/eastwood", 
+    "title": "GitHub - jonase/eastwood: Clojure lint tool"
 }

@@ -202,4 +202,10 @@
     "hash": "132d9381bc3abc19b62e72326675f95c", 
     "uri": "http://www.clojure-toolbox.com/", 
     "title": "The Clojure Toolbox"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c6585031134e6227ed2ccb475d5c3f0", 
+    "uri": "https://github.com/jonase/eastwood", 
+    "title": "GitHub - jonase/eastwood: Clojure lint tool"
 }
