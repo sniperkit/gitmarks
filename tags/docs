@@ -64,4 +64,10 @@
     "hash": "d44ca1b0bf0b514ba5aeac3bf6bda89c", 
     "uri": "http://www.braveclojure.com/multimethods-records-protocols/", 
     "title": "Creating and Extending Abstractions with Multimethods, Protocols, and Records | Clojure for the Brave and True"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "561ad3fa08bedb922f089f3328cc063b", 
+    "uri": "http://google.github.io/closure-library/api/", 
+    "title": "Index"
 }
