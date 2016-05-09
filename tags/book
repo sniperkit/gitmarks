@@ -112,4 +112,10 @@
     "hash": "cf7789e394c71ed4246b51100555de76", 
     "uri": "http://funcool.github.io/clojurescript-unraveled/", 
     "title": "ClojureScript Unraveled"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "815aac1a9ef1346a910f94d65d9f9c01", 
+    "uri": "https://github.com/jdeisenberg/etudes-for-clojurescript", 
+    "title": "GitHub - jdeisenberg/etudes-for-clojurescript: Practice exercises for beginning ClojureScript programmers"
 }

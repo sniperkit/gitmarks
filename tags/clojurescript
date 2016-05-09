@@ -64,4 +64,10 @@
     "hash": "6cff9cf535f32e30289fda4c99d17203", 
     "uri": "http://cljs.info/cheatsheet/", 
     "title": "ClojureScript Cheatsheet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "815aac1a9ef1346a910f94d65d9f9c01", 
+    "uri": "https://github.com/jdeisenberg/etudes-for-clojurescript", 
+    "title": "GitHub - jdeisenberg/etudes-for-clojurescript: Practice exercises for beginning ClojureScript programmers"
 }
