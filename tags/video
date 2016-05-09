@@ -52,4 +52,10 @@
     "hash": "7bda4226611c5cad7be358f14d25c1f2", 
     "uri": "http://confreaks.tv/videos/mwjs2014-asynchronous-javascript-at-netflix", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f3a337cffd922bf52b49920f7d8fb70d", 
+    "uri": "http://confreaks.tv/videos/mwjs2014-adding-even-more-fun-to-functional-programming-with-rxjs", 
+    "title": "[No Title]"
 }
