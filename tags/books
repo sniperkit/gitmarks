@@ -64,4 +64,10 @@
     "hash": "db21cfa22eb8a6fd8b56247edcf3fbdd", 
     "uri": "http://www.usingcsp.com/", 
     "title": "Index of /"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c0d15711dfb82b50dea7ecbd9cb57d40", 
+    "uri": "https://github.com/omcljs/om-cookbook", 
+    "title": "GitHub - omcljs/om-cookbook: Home of Om recipes"
 }
