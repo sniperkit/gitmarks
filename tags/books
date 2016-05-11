@@ -70,4 +70,10 @@
     "hash": "c0d15711dfb82b50dea7ecbd9cb57d40", 
     "uri": "https://github.com/omcljs/om-cookbook", 
     "title": "GitHub - omcljs/om-cookbook: Home of Om recipes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "97934fec79884849cc24715fa525a11b", 
+    "uri": "https://github.com/magomimmo/modern-cljs", 
+    "title": "GitHub - magomimmo/modern-cljs: A series of tutorials on ClojureScript"
 }
