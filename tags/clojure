@@ -262,4 +262,10 @@
     "hash": "bcbef71069d6d0a384b1e01597c7e7be", 
     "uri": "https://github.com/Datomic/day-of-datomic", 
     "title": "GitHub - Datomic/day-of-datomic: Sample Code for Day of Datomic presentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "14b4115a4f91afd302fcac5dd2335341", 
+    "uri": "https://github.com/ring-clojure/ring/wiki", 
+    "title": "Home \u00b7 ring-clojure/ring Wiki \u00b7 GitHub"
 }
