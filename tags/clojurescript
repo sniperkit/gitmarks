@@ -88,4 +88,10 @@
     "hash": "97934fec79884849cc24715fa525a11b", 
     "uri": "https://github.com/magomimmo/modern-cljs", 
     "title": "GitHub - magomimmo/modern-cljs: A series of tutorials on ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f7a63d4c51eb03b22c1c3ce051656174", 
+    "uri": "http://slimerjs.org/", 
+    "title": "SlimerJS"
 }
