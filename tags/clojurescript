@@ -112,4 +112,10 @@
     "hash": "281331486d5c709b6e670524c2dda339", 
     "uri": "http://himera.herokuapp.com/synonym.html", 
     "title": "Himera Synonym"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f2347803e91ae13641d5adb772393b6f", 
+    "uri": "http://www.lispcast.com/mastering-client-side-routing-with-secretary-and-goog-history", 
+    "title": "Mastering ClojureScript Routing with Secretary and goog.History | LispCast"
 }
