@@ -10,4 +10,10 @@
     "hash": "1d998a41b302a6f1adb2065c93112e33", 
     "uri": "http://web4.cs.ucl.ac.uk/staff/D.Barber/publications/AMLAutoDiff.pdf", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "af212f0a3892d47f18c85547096002e6", 
+    "uri": "http://www.slideshare.net/borgesleonardo/high-performance-web-apps-in-om-react-and-clojurescript", 
+    "title": "High Performance web apps in Om, React and ClojureScript"
 }
