@@ -274,4 +274,10 @@
     "hash": "3cb4c5958772583cf99f8d29e917f8ed", 
     "uri": "http://www.ibm.com/developerworks/library/j-clojure-protocols/", 
     "title": "Solving the Expression Problem with Clojure 1.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f881a9b36572d42e7e0adbdbf9370148", 
+    "uri": "https://cursive-ide.com/userguide/", 
+    "title": "Cursive: Getting Started"
 }
