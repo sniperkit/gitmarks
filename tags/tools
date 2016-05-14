@@ -118,4 +118,10 @@
     "hash": "80244a5f59335a2ba0ce721b211e61c1", 
     "uri": "https://www.sakaiproject.org/node/105", 
     "title": "Download Sakai | Sakai"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96977c02c8f54c2851accf4378aece3a", 
+    "uri": "https://conemu.github.io/en/", 
+    "title": "ConEmu - Handy Windows Terminal"
 }

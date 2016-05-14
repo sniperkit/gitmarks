@@ -28,4 +28,10 @@
     "hash": "889d902cc55e9785d49bdbe53eef202a", 
     "uri": "https://github.com/quarkslab/binmap", 
     "title": "GitHub - quarkslab/binmap: system scanner"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96977c02c8f54c2851accf4378aece3a", 
+    "uri": "https://conemu.github.io/en/", 
+    "title": "ConEmu - Handy Windows Terminal"
 }
