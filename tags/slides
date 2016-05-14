@@ -16,4 +16,10 @@
     "hash": "af212f0a3892d47f18c85547096002e6", 
     "uri": "http://www.slideshare.net/borgesleonardo/high-performance-web-apps-in-om-react-and-clojurescript", 
     "title": "High Performance web apps in Om, React and ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f37ec9456589e13fdca4f60e592d415b", 
+    "uri": "https://speakerdeck.com/mklappstuhl/desktop-apps-with-clojurescript", 
+    "title": "Desktop Apps with ClojureScript // Speaker Deck"
 }

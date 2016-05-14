@@ -4,4 +4,10 @@
     "hash": "3e5e5da57f07ff2f541041839360b90c", 
     "uri": "https://www.youtube.com/watch?v=tBnu2JmK4p0", 
     "title": "Desktop Apps with ClojureScript - Martin Klepsch - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f37ec9456589e13fdca4f60e592d415b", 
+    "uri": "https://speakerdeck.com/mklappstuhl/desktop-apps-with-clojurescript", 
+    "title": "Desktop Apps with ClojureScript // Speaker Deck"
 }
