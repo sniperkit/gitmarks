@@ -4,4 +4,10 @@
     "hash": "876a8178aec4017527342569ea16a25d", 
     "uri": "https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0#!", 
     "title": "Introduction to Functional Programming | edX"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "144a313d19c35e23be9e0d7688ae4dce", 
+    "uri": "https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8", 
+    "title": "Introduction to Computer Science and Programming Using Python | edX"
 }
