@@ -172,4 +172,10 @@
     "hash": "11ae10a47beeb0ed2b18828ae5469c2e", 
     "uri": "https://www.geekbooks.me/search?q=sensors", 
     "title": "Search Results - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cab20fa12c3235e50650ce4dc05704bf", 
+    "uri": "https://www.geekbooks.me/tag/view/r", 
+    "title": "R - GeekBooks - Free Tech PDF eBook Library"
 }
