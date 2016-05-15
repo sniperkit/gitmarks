@@ -106,4 +106,10 @@
     "hash": "aea2c5c6240087e0426c43688a2cb8b0", 
     "uri": "https://www.geekbooks.me/tag/view/googleanalytics", 
     "title": "Google Analytics - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6fe5bb0a17a872120e7b723c16443e3a", 
+    "uri": "https://www.geekbooks.me/tag/view/gcc", 
+    "title": "GCC - GeekBooks - Free Tech PDF eBook Library"
 }
