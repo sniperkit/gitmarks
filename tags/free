@@ -70,4 +70,10 @@
     "hash": "6a5f8b1e75accb60c548f4847aff76a9", 
     "uri": "https://www.geekbooks.me/tag/view/internetofthings", 
     "title": "Internet of Things - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6f56f937cd1301f452561395f9a040bf", 
+    "uri": "https://www.geekbooks.me/tag/view/fsharp", 
+    "title": "F# - GeekBooks - Free Tech PDF eBook Library"
 }
