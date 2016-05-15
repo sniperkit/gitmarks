@@ -136,4 +136,10 @@
     "hash": "dff92d3131efafc85c57b22944eae0cc", 
     "uri": "https://github.com/awkay/om-tutorial", 
     "title": "GitHub - awkay/om-tutorial: WORK IN PROGRESS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "08e4176513b8ce7da69fb9cf6bfbf0ce", 
+    "uri": "https://github.com/plumatic/om-tools", 
+    "title": "GitHub - plumatic/om-tools: Tools for building Om applications"
 }
