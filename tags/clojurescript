@@ -148,4 +148,10 @@
     "hash": "f99ad86b45a04477ca933e78e48b271c", 
     "uri": "http://blog.goose.haus", 
     "title": "Goose Haus"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3b03b64a1fe004abf9bf994c24209493", 
+    "uri": "http://pinboard.in/t:core.async/", 
+    "title": "Pinboard bookmarks tagged core.async"
 }
