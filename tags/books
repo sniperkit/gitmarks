@@ -196,4 +196,10 @@
     "hash": "00c23bc7b22456f48475fe06d0a15fe8", 
     "uri": "https://www.geekbooks.me/tag/view/linux", 
     "title": "Linux - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "daa41da2cb2badd36e280c844e025499", 
+    "uri": "https://www.geekbooks.me/tag/view/audio", 
+    "title": "Audio - GeekBooks - Free Tech PDF eBook Library"
 }
