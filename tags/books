@@ -148,4 +148,10 @@
     "hash": "746f14908341f9e1cb67b1f2a0bff551", 
     "uri": "https://www.geekbooks.me/tag/view/android", 
     "title": "Android - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2ab3c5327c836e3579bcec390cfafc7c", 
+    "uri": "https://www.geekbooks.me/tag/view/aspnet", 
+    "title": "ASP.NET - GeekBooks - Free Tech PDF eBook Library"
 }
