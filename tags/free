@@ -46,4 +46,10 @@
     "hash": "48beca0bd5772bb02a40c94b7bd706e1", 
     "uri": "https://www.geekbooks.me/tag/view/gitlab", 
     "title": "GitLab - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "aea2c5c6240087e0426c43688a2cb8b0", 
+    "uri": "https://www.geekbooks.me/tag/view/googleanalytics", 
+    "title": "Google Analytics - GeekBooks - Free Tech PDF eBook Library"
 }
