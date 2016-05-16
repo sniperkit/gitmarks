@@ -28,4 +28,10 @@
     "hash": "36b263a023a94abc0689a553921cdb91", 
     "uri": "https://github.com/gigasquid/clj-roomba", 
     "title": "GitHub - gigasquid/clj-roomba: Sample project to control your Roomba with the Clojure REPL"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3ff7a64d748d971e622516ebf8d79c2f", 
+    "uri": "https://github.com/gigasquid/roomba-drone-friends", 
+    "title": "GitHub - gigasquid/roomba-drone-friends: Roomba and AR Drone are Friends"
 }
