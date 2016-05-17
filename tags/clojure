@@ -292,4 +292,10 @@
     "hash": "3ff7a64d748d971e622516ebf8d79c2f", 
     "uri": "https://github.com/gigasquid/roomba-drone-friends", 
     "title": "GitHub - gigasquid/roomba-drone-friends: Roomba and AR Drone are Friends"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b58344056747ebcd3a6c38244412d745", 
+    "uri": "https://habrahabr.ru/post/173071/", 
+    "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0441\u0442\u043e\u0438\u0442 \u0438\u0437\u0443\u0447\u0438\u0442\u044c Clojure? / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"
 }
