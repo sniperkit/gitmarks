@@ -316,4 +316,10 @@
     "hash": "35777546f25749f5e778745a76baf251", 
     "uri": "https://vimeo.com/11236603", 
     "title": "Clojure 1.2 Protocols on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b3a906ac454c8bf42658c9b2bc639094", 
+    "uri": "https://vimeo.com/cognitect/videos", 
+    "title": "Cognitect&rsquo;s Videos on Vimeo"
 }
