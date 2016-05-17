@@ -310,4 +310,10 @@
     "hash": "9d660e3f6cd25641055f2985cdb5d6d2", 
     "uri": "http://planet.clojure.in/", 
     "title": "Planet Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "35777546f25749f5e778745a76baf251", 
+    "uri": "https://vimeo.com/11236603", 
+    "title": "Clojure 1.2 Protocols on Vimeo"
 }

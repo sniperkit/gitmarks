@@ -58,4 +58,10 @@
     "hash": "f3a337cffd922bf52b49920f7d8fb70d", 
     "uri": "http://confreaks.tv/videos/mwjs2014-adding-even-more-fun-to-functional-programming-with-rxjs", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "35777546f25749f5e778745a76baf251", 
+    "uri": "https://vimeo.com/11236603", 
+    "title": "Clojure 1.2 Protocols on Vimeo"
 }
