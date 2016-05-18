@@ -22,4 +22,10 @@
     "hash": "144a313d19c35e23be9e0d7688ae4dce", 
     "uri": "https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8", 
     "title": "Introduction to Computer Science and Programming Using Python | edX"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cade6cb529a8a612012622126931301c", 
+    "uri": "https://github.com/jtoy/awesome-tensorflow/", 
+    "title": "GitHub - jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources http://tensorflow.org"
 }
