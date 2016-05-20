@@ -10,4 +10,10 @@
     "hash": "7b000441edbdda779dfb96b90c09fbf0", 
     "uri": "https://news.ycombinator.com/item?id=11719543", 
     "title": "Academics Make Theoretical Breakthrough in Random Number Generation | Hacker News"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "156e730188c31e71899294e8633feb8b", 
+    "uri": "http://eccc.hpi-web.de/report/2015/119/", 
+    "title": "ECCC - TR15-119"
 }
