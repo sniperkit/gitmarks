@@ -70,4 +70,10 @@
     "hash": "ca5cd6ad6a992fa13509cc64660c3412", 
     "uri": "https://www.sentinelone.com/blogs/teaching-an-old-rat-new-tricks/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3c50b3a8f01995f8e15521f04a47262c", 
+    "uri": "https://blogs.msdn.microsoft.com/webdev/2016/05/16/announcing-asp-net-core-rc2/", 
+    "title": "Announcing ASP.NET Core RC2 | .NET Web Development and Tools Blog"
 }
