@@ -76,4 +76,10 @@
     "hash": "c44eeeb3a7a8eba18ff105e35f561497", 
     "uri": "https://docs.mongodb.com/ecosystem/use-cases/", 
     "title": "Use Cases"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "79c4e4618dc5dada66966bdb55d91e97", 
+    "uri": "http://www.slideshare.net/mongodb/common-use-cases-hannes", 
+    "title": "Common MongoDB Use Cases "
 }
