@@ -328,4 +328,10 @@
     "hash": "3861d1d14734108aa5223f67aedf299a", 
     "uri": "https://crossclj.info/", 
     "title": "CrossClj - cross-referencing the clojure ecosystem"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c3929435725626cf6352c46d8a6d8c3a", 
+    "uri": "https://github.com/jonase/kibit", 
+    "title": "GitHub - jonase/kibit: There&#39;s a function for that!"
 }
