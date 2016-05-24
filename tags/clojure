@@ -322,4 +322,10 @@
     "hash": "b3a906ac454c8bf42658c9b2bc639094", 
     "uri": "https://vimeo.com/cognitect/videos", 
     "title": "Cognitect&rsquo;s Videos on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3861d1d14734108aa5223f67aedf299a", 
+    "uri": "https://crossclj.info/", 
+    "title": "CrossClj - cross-referencing the clojure ecosystem"
 }
