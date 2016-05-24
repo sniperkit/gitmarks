@@ -70,4 +70,10 @@
     "hash": "561ad3fa08bedb922f089f3328cc063b", 
     "uri": "http://google.github.io/closure-library/api/", 
     "title": "Index"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c44eeeb3a7a8eba18ff105e35f561497", 
+    "uri": "https://docs.mongodb.com/ecosystem/use-cases/", 
+    "title": "Use Cases"
 }
