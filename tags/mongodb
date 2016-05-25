@@ -118,4 +118,10 @@
     "hash": "79c4e4618dc5dada66966bdb55d91e97", 
     "uri": "http://www.slideshare.net/mongodb/common-use-cases-hannes", 
     "title": "Common MongoDB Use Cases "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1905bc59da4dfe0036470dacbbb45de5", 
+    "uri": "http://bsonspec.org/", 
+    "title": "BSON - Binary JSON"
 }
