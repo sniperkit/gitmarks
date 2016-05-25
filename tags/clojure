@@ -346,4 +346,10 @@
     "hash": "397c8932dd89146142f0772ad36d613b", 
     "uri": "http://cider.readthedocs.io/en/latest/", 
     "title": "CIDER: The Clojure Interactive Development Environment that Rocks"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e08d2a4679d197fe43a78e42f0eae1d5", 
+    "uri": "https://github.com/timgalebach/clj-workflow-template", 
+    "title": "GitHub - timgalebach/clj-workflow-template: Shows an example of an application instance created as a variable"
 }
