@@ -154,4 +154,10 @@
     "hash": "c3929435725626cf6352c46d8a6d8c3a", 
     "uri": "https://github.com/jonase/kibit", 
     "title": "GitHub - jonase/kibit: There&#39;s a function for that!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "397c8932dd89146142f0772ad36d613b", 
+    "uri": "http://cider.readthedocs.io/en/latest/", 
+    "title": "CIDER: The Clojure Interactive Development Environment that Rocks"
 }

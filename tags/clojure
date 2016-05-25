@@ -340,4 +340,10 @@
     "hash": "c0cb417d580c9fdb5e1a43e1feb74dd6", 
     "uri": "http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded", 
     "title": "Blog | My Clojure Workflow, Reloaded | Relevance"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "397c8932dd89146142f0772ad36d613b", 
+    "uri": "http://cider.readthedocs.io/en/latest/", 
+    "title": "CIDER: The Clojure Interactive Development Environment that Rocks"
 }
