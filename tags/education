@@ -16,4 +16,10 @@
     "hash": "80244a5f59335a2ba0ce721b211e61c1", 
     "uri": "https://www.sakaiproject.org/node/105", 
     "title": "Download Sakai | Sakai"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0c6bb81cd9b797a5182a32259de14be5", 
+    "uri": "https://github.com/edx/edx-platform", 
+    "title": "GitHub - edx/edx-platform: The Open edX platform, the software that powers edX!"
 }
