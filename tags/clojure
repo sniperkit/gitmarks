@@ -358,4 +358,10 @@
     "hash": "9898bb0056b8a20ca316add88f433230", 
     "uri": "http://www.cascading.org/projects/cascalog/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "92eb94079c3c35600cc3b32568c65e9f", 
+    "uri": "http://cascalog.org", 
+    "title": "Cascalog | Data processing on Hadoop without the hassle"
 }
