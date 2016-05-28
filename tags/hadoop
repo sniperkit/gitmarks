@@ -16,4 +16,10 @@
     "hash": "92eb94079c3c35600cc3b32568c65e9f", 
     "uri": "http://cascalog.org", 
     "title": "Cascalog | Data processing on Hadoop without the hassle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9d811809cf7163795d0195af8dd8f791", 
+    "uri": "https://github.com/Cascading/Impatient-Cascalog", 
+    "title": "GitHub - Cascading/Impatient-Cascalog: Cascalog for the Impatient"
 }
