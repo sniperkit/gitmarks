@@ -370,4 +370,10 @@
     "hash": "9d811809cf7163795d0195af8dd8f791", 
     "uri": "https://github.com/Cascading/Impatient-Cascalog", 
     "title": "GitHub - Cascading/Impatient-Cascalog: Cascalog for the Impatient"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "664c6b1d5b69b233a52378bdb1f1effb", 
+    "uri": "https://github.com/clojure/core.match/wiki/Overview", 
+    "title": "Overview \u00b7 clojure/core.match Wiki \u00b7 GitHub"
 }
