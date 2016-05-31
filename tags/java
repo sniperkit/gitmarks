@@ -58,4 +58,10 @@
     "hash": "464c65e8016db4a9f39ab7d6b5d4a6ad", 
     "uri": "http://www.dprg.org/projects/2009-07a/", 
     "title": "DPRG: RoombaComm"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5d59c410434b875ae423f82f1895b8a3", 
+    "uri": "http://www.mscharhag.com/java/building-rest-api-with-spark", 
+    "title": "Java: Creating REST APIs with Spark"
 }

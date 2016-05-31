@@ -10,4 +10,10 @@
     "hash": "c0cb417d580c9fdb5e1a43e1feb74dd6", 
     "uri": "http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded", 
     "title": "Blog | My Clojure Workflow, Reloaded | Relevance"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5d59c410434b875ae423f82f1895b8a3", 
+    "uri": "http://www.mscharhag.com/java/building-rest-api-with-spark", 
+    "title": "Java: Creating REST APIs with Spark"
 }
