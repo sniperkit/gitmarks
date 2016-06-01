@@ -10,4 +10,10 @@
     "hash": "1f08df1b4178a0371e189a12c82f98c6", 
     "uri": "https://www.cs.rice.edu/~javaplt/311/Readings/supplemental.pdf", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "26ea124c8023c670614745d327e0dc8d", 
+    "uri": "http://www.scs.stanford.edu/brop/", 
+    "title": "Blind Return Oriented Programming (BROP)"
 }
