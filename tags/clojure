@@ -388,4 +388,10 @@
     "hash": "858224dcee01af5ea17aeb46f6b70da4", 
     "uri": "https://github.com/daveray/seesaw", 
     "title": "GitHub - daveray/seesaw: Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4db66cf56051bb69c1738e419aa823f8", 
+    "uri": "http://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html", 
+    "title": "Pattern (Java Platform SE 7 )"
 }
