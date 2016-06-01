@@ -376,4 +376,10 @@
     "hash": "664c6b1d5b69b233a52378bdb1f1effb", 
     "uri": "https://github.com/clojure/core.match/wiki/Overview", 
     "title": "Overview \u00b7 clojure/core.match Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0894e5d299fafc3760a7e76ec79cc9a6", 
+    "uri": "http://clojure-doc.org/", 
+    "title": "Clojure Guides | Getting Started With Clojure | Clojure Tutorials | Clojure Documentation | Clojure Docs"
 }

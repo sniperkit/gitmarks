@@ -82,4 +82,10 @@
     "hash": "79c4e4618dc5dada66966bdb55d91e97", 
     "uri": "http://www.slideshare.net/mongodb/common-use-cases-hannes", 
     "title": "Common MongoDB Use Cases "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0894e5d299fafc3760a7e76ec79cc9a6", 
+    "uri": "http://clojure-doc.org/", 
+    "title": "Clojure Guides | Getting Started With Clojure | Clojure Tutorials | Clojure Documentation | Clojure Docs"
 }
