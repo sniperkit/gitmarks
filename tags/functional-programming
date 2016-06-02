@@ -538,4 +538,10 @@
     "hash": "d3537ae1b2de93e7215b3a512792ea23", 
     "uri": "http://www.lispmachine.net/", 
     "title": "LISP Information and Resources"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "40ac516a3df00f280ce46b30a5e09b09", 
+    "uri": "http://journals.cambridge.org/action/displayJournal?jid=JFP", 
+    "title": "Access denied | journals.cambridge.org used CloudFlare to restrict access"
 }
