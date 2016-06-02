@@ -394,4 +394,10 @@
     "hash": "4db66cf56051bb69c1738e419aa823f8", 
     "uri": "http://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html", 
     "title": "Pattern (Java Platform SE 7 )"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c9ad5350ca18e345447a9811c2fa1be2", 
+    "uri": "https://github.com/clojure/data.finger-tree", 
+    "title": "GitHub - clojure/data.finger-tree: Finger Tree data structure"
 }
