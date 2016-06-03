@@ -10,4 +10,10 @@
     "hash": "3b588b4cfe082e8908060aaab7012408", 
     "uri": "https://github.com/ashinn/chibi-scheme", 
     "title": "GitHub - ashinn/chibi-scheme: Official chibi-scheme repository"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "441c66559c676e239a866cda4c782f09", 
+    "uri": "http://peter.michaux.ca/articles/scheme-from-scratch-introduction", 
+    "title": "peter.michaux.ca - Scheme from Scratch - Introduction"
 }
