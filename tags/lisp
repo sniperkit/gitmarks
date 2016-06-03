@@ -82,4 +82,10 @@
     "hash": "42ad9edbd84cfaec8d75e9013a4c149e", 
     "uri": "https://web.archive.org/web/20120105005420/http://hedgehog.oliotalo.fi/", 
     "title": "Hedgehog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e99a8d00b94823999e06184ef573ec50", 
+    "uri": "https://stuarth.github.io/pixie/pixie-pi/", 
+    "title": "Pixie Pi &#8211; Stuart Hinson"
 }
