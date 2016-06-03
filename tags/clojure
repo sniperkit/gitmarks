@@ -406,4 +406,10 @@
     "hash": "3bbc8dbaa8dcbefb9db73e64e5642769", 
     "uri": "http://nakkaya.com/clodiuno.html", 
     "title": "Clodiuno - Clojure API for Arduino"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9da45fdeb70f780bed1ccbc8e060454b", 
+    "uri": "https://github.com/peterschwarz/clj-firmata", 
+    "title": "GitHub - peterschwarz/clj-firmata: clj-firmata provides access to Standard Firmata (http://firmata.org/) commands via clojure."
 }
