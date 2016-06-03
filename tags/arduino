@@ -58,4 +58,10 @@
     "hash": "70c4360f7130f1345f3d95f49a210faf", 
     "uri": "http://blog.gonzih.me/blog/2013/03/19/building-rc-toy-with-clojure/", 
     "title": "Building RC Toy with Clojure - Max Gonzih"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a71fc2d26c9b5f177c98618f32d260a9", 
+    "uri": "http://pschwarz.bicycle.io/blog/2014/01/28/serial_access_via_clojure.html", 
+    "title": "Serial Access via Clojure"
 }
