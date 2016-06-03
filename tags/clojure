@@ -430,4 +430,10 @@
     "hash": "a71fc2d26c9b5f177c98618f32d260a9", 
     "uri": "http://pschwarz.bicycle.io/blog/2014/01/28/serial_access_via_clojure.html", 
     "title": "Serial Access via Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ae98533c6ae4018ae5bf8b8881c553c4", 
+    "uri": "https://github.com/peterschwarz/clj-gpio", 
+    "title": "GitHub - peterschwarz/clj-gpio: A basic library for reading, writing and watching GPIO signals on a Raspberry PI, in a REPL-friendly way."
 }
