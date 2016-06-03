@@ -412,4 +412,10 @@
     "hash": "9da45fdeb70f780bed1ccbc8e060454b", 
     "uri": "https://github.com/peterschwarz/clj-firmata", 
     "title": "GitHub - peterschwarz/clj-firmata: clj-firmata provides access to Standard Firmata (http://firmata.org/) commands via clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6696ef8bee734b0bb69d864d483a3938", 
+    "uri": "http://hiim.tv/2010/12/27/arduino-and-clojure/", 
+    "title": "[No Title]"
 }
