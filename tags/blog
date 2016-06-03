@@ -16,4 +16,10 @@
     "hash": "6696ef8bee734b0bb69d864d483a3938", 
     "uri": "http://hiim.tv/2010/12/27/arduino-and-clojure/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "70c4360f7130f1345f3d95f49a210faf", 
+    "uri": "http://blog.gonzih.me/blog/2013/03/19/building-rc-toy-with-clojure/", 
+    "title": "Building RC Toy with Clojure - Max Gonzih"
 }
