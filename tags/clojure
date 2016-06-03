@@ -400,4 +400,10 @@
     "hash": "c9ad5350ca18e345447a9811c2fa1be2", 
     "uri": "https://github.com/clojure/data.finger-tree", 
     "title": "GitHub - clojure/data.finger-tree: Finger Tree data structure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3bbc8dbaa8dcbefb9db73e64e5642769", 
+    "uri": "http://nakkaya.com/clodiuno.html", 
+    "title": "Clodiuno - Clojure API for Arduino"
 }
