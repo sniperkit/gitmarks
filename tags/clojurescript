@@ -166,4 +166,10 @@
     "hash": "8ba50dd7271ce1e9688b4a30cd81a88d", 
     "uri": "http://pinboard.in/t:datomic/", 
     "title": "Pinboard bookmarks tagged datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d3b7ea1c3493b3caf189b2d2b50c6c11", 
+    "uri": "http://reagent-project.github.io", 
+    "title": "Reagent: Minimalistic React for ClojureScript"
 }
