@@ -118,4 +118,10 @@
     "hash": "189c3785feb05f55e974cc8aaf9aa5f2", 
     "uri": "https://factorable.net", 
     "title": "Widespread Weak Keys in Network Devices - factorable.net"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "149bf56fe991c91fd9522d946a1cb8b6", 
+    "uri": "http://blogs.msmvps.com/alunj/2016/05/26/untrusting-the-blue-coat-intermediate-ca-from-windows/", 
+    "title": "Untrusting the Blue Coat Intermediate CA from Windows | Tales from the Crypto"
 }
