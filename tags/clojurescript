@@ -172,4 +172,10 @@
     "hash": "d3b7ea1c3493b3caf189b2d2b50c6c11", 
     "uri": "http://reagent-project.github.io", 
     "title": "Reagent: Minimalistic React for ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "52c4950c6e559c94723549defe06eeab", 
+    "uri": "https://nervous.io/clojure/clojurescript/node/aws/2015/08/09/chemtrails/", 
+    "title": "Chasing Chemtrails with Clojurescript &#8211; Nervous Systems"
 }
