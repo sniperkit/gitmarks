@@ -178,4 +178,10 @@
     "hash": "52c4950c6e559c94723549defe06eeab", 
     "uri": "https://nervous.io/clojure/clojurescript/node/aws/2015/08/09/chemtrails/", 
     "title": "Chasing Chemtrails with Clojurescript &#8211; Nervous Systems"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0d7e02d026c7d512d0df0562f93c00d2", 
+    "uri": "http://www.spacjer.com/blog/2014/09/12/clojurescript-javascript-interop/", 
+    "title": "ClojureScript: JavaScript Interop &#8211; Rafal Spacjer blog"
 }
