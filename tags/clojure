@@ -442,4 +442,10 @@
     "hash": "4e413b9bd45415808695c31f696883ff", 
     "uri": "https://purelyfunctional.tv/free-content/", 
     "title": "Courses with Free Content | PurelyFunctional.tv"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5069b9d11a0e9b7485e12c5bd129866c", 
+    "uri": "https://github.com/micmarsh/coindeck", 
+    "title": "GitHub - micmarsh/coindeck: Manage all of your online wallets + cryptocurrencies in one place"
 }

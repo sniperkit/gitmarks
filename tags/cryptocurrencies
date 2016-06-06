@@ -16,4 +16,10 @@
     "hash": "998bec417c89ef62e050f247d4a3962e", 
     "uri": "https://taler.net/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5069b9d11a0e9b7485e12c5bd129866c", 
+    "uri": "https://github.com/micmarsh/coindeck", 
+    "title": "GitHub - micmarsh/coindeck: Manage all of your online wallets + cryptocurrencies in one place"
 }
