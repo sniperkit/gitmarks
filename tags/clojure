@@ -466,4 +466,10 @@
     "hash": "e3cbb50508e7611b2bc4dc249b73d20c", 
     "uri": "https://github.com/antoniogarrote/clj-tesseract", 
     "title": "GitHub - antoniogarrote/clj-tesseract: Clojure wrapper for the Tesseract OCR software"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "37629c5481caea94744e47e664da17a4", 
+    "uri": "http://nakkaya.com/vision.html", 
+    "title": "Vision - OpenCV wrapper for Clojure"
 }
