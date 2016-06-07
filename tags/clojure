@@ -484,4 +484,10 @@
     "hash": "9b19e4e6ff269fe2edd24b08517864e7", 
     "uri": "https://github.com/funcool/cats", 
     "title": "GitHub - funcool/cats: Category Theory and Algebraic abstractions for Clojure and ClojureScript."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "56671dc2423ecfd3631c7dab95c8c86d", 
+    "uri": "https://github.com/search?utf8=%E2%9C%93&q=awesome+clojure", 
+    "title": "Search \u00b7 awesome clojure \u00b7 GitHub"
 }
