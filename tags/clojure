@@ -472,4 +472,10 @@
     "hash": "37629c5481caea94744e47e664da17a4", 
     "uri": "http://nakkaya.com/vision.html", 
     "title": "Vision - OpenCV wrapper for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b561fc09463d49b7bae5a7fb33c46e5e", 
+    "uri": "https://github.com/clojure/algo.monads", 
+    "title": "GitHub - clojure/algo.monads"
 }
