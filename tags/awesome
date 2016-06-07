@@ -64,4 +64,10 @@
     "hash": "a03cc2ab9a32be52358796902484bdd4", 
     "uri": "https://github.com/ramnes/awesome-mongodb", 
     "title": "GitHub - ramnes/awesome-mongodb: A curated list of awesome MongoDB resources, libraries, tools and applications"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a1539f1105c601aae4d415b0a129a68d", 
+    "uri": "https://github.com/razum2um/awesome-clojure", 
+    "title": "GitHub - razum2um/awesome-clojure: A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
 }

@@ -454,4 +454,10 @@
     "hash": "a7e746418b22d718a7b0ba2f411088c1", 
     "uri": "http://docs.opencv.org/2.4/doc/tutorials/introduction/clojure_dev_intro/clojure_dev_intro.html", 
     "title": "Introduction to OpenCV Development with Clojure &mdash; OpenCV 2.4.13.0 documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a1539f1105c601aae4d415b0a129a68d", 
+    "uri": "https://github.com/razum2um/awesome-clojure", 
+    "title": "GitHub - razum2um/awesome-clojure: A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
 }
