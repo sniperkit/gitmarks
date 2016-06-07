@@ -460,4 +460,10 @@
     "hash": "a1539f1105c601aae4d415b0a129a68d", 
     "uri": "https://github.com/razum2um/awesome-clojure", 
     "title": "GitHub - razum2um/awesome-clojure: A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3cbb50508e7611b2bc4dc249b73d20c", 
+    "uri": "https://github.com/antoniogarrote/clj-tesseract", 
+    "title": "GitHub - antoniogarrote/clj-tesseract: Clojure wrapper for the Tesseract OCR software"
 }

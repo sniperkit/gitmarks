@@ -34,4 +34,10 @@
     "hash": "a7e746418b22d718a7b0ba2f411088c1", 
     "uri": "http://docs.opencv.org/2.4/doc/tutorials/introduction/clojure_dev_intro/clojure_dev_intro.html", 
     "title": "Introduction to OpenCV Development with Clojure &mdash; OpenCV 2.4.13.0 documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3cbb50508e7611b2bc4dc249b73d20c", 
+    "uri": "https://github.com/antoniogarrote/clj-tesseract", 
+    "title": "GitHub - antoniogarrote/clj-tesseract: Clojure wrapper for the Tesseract OCR software"
 }
