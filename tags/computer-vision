@@ -16,4 +16,10 @@
     "hash": "c2828a6e7241613306cb5d66cd304929", 
     "uri": "http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_calib3d/py_table_of_contents_calib3d/py_table_of_contents_calib3d.html", 
     "title": "Camera Calibration and 3D Reconstruction &mdash; OpenCV 3.0.0-dev documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5eea64d6f30d260c8b10fa8ab1c9591f", 
+    "uri": "http://www.intorobotics.com/fundamental-guide-for-stereo-vision-cameras-in-robotics-tutorials-and-resources/", 
+    "title": "Fundamental Guide for Stereo Vision Cameras in Robotics &#8211; Tutorials and Resources | Into Robotics"
 }
