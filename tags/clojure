@@ -448,4 +448,10 @@
     "hash": "5069b9d11a0e9b7485e12c5bd129866c", 
     "uri": "https://github.com/micmarsh/coindeck", 
     "title": "GitHub - micmarsh/coindeck: Manage all of your online wallets + cryptocurrencies in one place"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a7e746418b22d718a7b0ba2f411088c1", 
+    "uri": "http://docs.opencv.org/2.4/doc/tutorials/introduction/clojure_dev_intro/clojure_dev_intro.html", 
+    "title": "Introduction to OpenCV Development with Clojure &mdash; OpenCV 2.4.13.0 documentation"
 }

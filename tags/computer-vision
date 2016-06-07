@@ -28,4 +28,10 @@
     "hash": "e98d59685740afa9698ba2ef1a06842e", 
     "uri": "http://www.instructables.com/id/3D-camera-with-Raspberry-Pi/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a7e746418b22d718a7b0ba2f411088c1", 
+    "uri": "http://docs.opencv.org/2.4/doc/tutorials/introduction/clojure_dev_intro/clojure_dev_intro.html", 
+    "title": "Introduction to OpenCV Development with Clojure &mdash; OpenCV 2.4.13.0 documentation"
 }
