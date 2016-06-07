@@ -10,4 +10,10 @@
     "hash": "4753b33fbd516d811e7ff9291c2f8af2", 
     "uri": "https://gilscvblog.com/2014/05/15/an-easy-and-practical-guide-to-3d-reconstruction/", 
     "title": "An Easy and Practical Guide to 3D Reconstruction | Gil&#039;s CV blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c2828a6e7241613306cb5d66cd304929", 
+    "uri": "http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_calib3d/py_table_of_contents_calib3d/py_table_of_contents_calib3d.html", 
+    "title": "Camera Calibration and 3D Reconstruction &mdash; OpenCV 3.0.0-dev documentation"
 }
