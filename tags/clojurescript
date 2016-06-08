@@ -196,4 +196,10 @@
     "hash": "05038017c1e57703c8a26963ffa6cfee", 
     "uri": "https://metametadata.github.io/carry/", 
     "title": "Carry"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "db5973db791d899310ac2e476326cf67", 
+    "uri": "https://github.com/pelle/cloth", 
+    "title": "GitHub - pelle/cloth: Simple  Ethereum library for Clojure(Script)"
 }

@@ -16,4 +16,10 @@
     "hash": "6d6b90958383cfbdb46199ce87ca63ca", 
     "uri": "https://github.com/pelle/clothereum", 
     "title": "GitHub - pelle/clothereum: Native clojure library for Ethereum"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "db5973db791d899310ac2e476326cf67", 
+    "uri": "https://github.com/pelle/cloth", 
+    "title": "GitHub - pelle/cloth: Simple  Ethereum library for Clojure(Script)"
 }
