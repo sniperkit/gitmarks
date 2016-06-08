@@ -502,4 +502,10 @@
     "hash": "47adabc56ff0e2cb3577b26a8af05888", 
     "uri": "http://alexott.net/ru/clojure/video.html", 
     "title": "\u0412\u0438\u0434\u0435\u043e-\u043b\u0435\u043a\u0446\u0438\u0438 \u0438 \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u043f\u0440\u043e Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f529a2154f9031a8e4a0bf1242e3e55", 
+    "uri": "https://stuartsierra.com/tag/dos-and-donts", 
+    "title": "do&#8217;s and don&#8217;ts &#8211; Digital Digressions by Stuart Sierra"
 }
