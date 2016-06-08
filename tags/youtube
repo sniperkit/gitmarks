@@ -70,4 +70,10 @@
     "hash": "50b6da536bf4374bfaa13490a4404b51", 
     "uri": "https://youtu.be/j-kj2qwJa_E", 
     "title": "Bruce Hauman - Developing ClojureScript With Figwheel - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7009a3701145c170bd8c6e7f3bb3cbd4", 
+    "uri": "http://www.youtube.com/user/ClojureTV", 
+    "title": "[No Title]"
 }
