@@ -4,4 +4,10 @@
     "hash": "ccfa1caf53742f2d987d94fcc35f45aa", 
     "uri": "https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/", 
     "title": "Too Many Requests"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d8b1ddbef40a592897b9e30a46a4e53d", 
+    "uri": "https://github.com/drcode/clll", 
+    "title": "GitHub - drcode/clll: Run Ethereum LLL contract code directly in Clojure"
 }

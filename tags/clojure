@@ -514,4 +514,10 @@
     "hash": "7009a3701145c170bd8c6e7f3bb3cbd4", 
     "uri": "http://www.youtube.com/user/ClojureTV", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d8b1ddbef40a592897b9e30a46a4e53d", 
+    "uri": "https://github.com/drcode/clll", 
+    "title": "GitHub - drcode/clll: Run Ethereum LLL contract code directly in Clojure"
 }
