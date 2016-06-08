@@ -520,4 +520,10 @@
     "hash": "d8b1ddbef40a592897b9e30a46a4e53d", 
     "uri": "https://github.com/drcode/clll", 
     "title": "GitHub - drcode/clll: Run Ethereum LLL contract code directly in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6d6b90958383cfbdb46199ce87ca63ca", 
+    "uri": "https://github.com/pelle/clothereum", 
+    "title": "GitHub - pelle/clothereum: Native clojure library for Ethereum"
 }
