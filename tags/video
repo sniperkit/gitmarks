@@ -70,4 +70,10 @@
     "hash": "b3a906ac454c8bf42658c9b2bc639094", 
     "uri": "https://vimeo.com/cognitect/videos", 
     "title": "Cognitect&rsquo;s Videos on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47adabc56ff0e2cb3577b26a8af05888", 
+    "uri": "http://alexott.net/ru/clojure/video.html", 
+    "title": "\u0412\u0438\u0434\u0435\u043e-\u043b\u0435\u043a\u0446\u0438\u0438 \u0438 \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u043f\u0440\u043e Clojure"
 }
