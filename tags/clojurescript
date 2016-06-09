@@ -214,4 +214,10 @@
     "hash": "7d903c575741700a14fa98c5e70915c9", 
     "uri": "https://github.com/ducky427/electron-template", 
     "title": "GitHub - ducky427/electron-template: A Leiningen template for projects using Electron with ClojureScript."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7eb024a562fe8931b916466de1db112c", 
+    "uri": "https://github.com/karad/lein_template_descjop", 
+    "title": "GitHub - karad/lein_template_descjop: A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell)."
 }
