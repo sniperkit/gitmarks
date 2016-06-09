@@ -88,4 +88,10 @@
     "hash": "f0b8c0a31345e6155f6ec0142b3551f9", 
     "uri": "http://www.asp.net/downloads/starter-kits/classifieds", 
     "title": "Classifieds Site Starter Kit | The ASP.NET Site"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2d93ffc55b8a3f590a694f74099295ed", 
+    "uri": "http://tradingcenter.codeplex.com", 
+    "title": "Trading Center Open Source Development - Home"
 }
