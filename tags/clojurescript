@@ -220,4 +220,10 @@
     "hash": "7eb024a562fe8931b916466de1db112c", 
     "uri": "https://github.com/karad/lein_template_descjop", 
     "title": "GitHub - karad/lein_template_descjop: A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell)."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fcb4923f8bec7585a059a9df60956c4b", 
+    "uri": "http://descjop.org/", 
+    "title": "descjop | A Leiningen template for Web based desktop application."
 }
