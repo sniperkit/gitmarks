@@ -82,4 +82,10 @@
     "hash": "111d6124b21c9498ae8f126555af23a7", 
     "uri": "https://mixnp.codeplex.com", 
     "title": "MixNP - ASP.net Classifieds Directory - Home"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f0b8c0a31345e6155f6ec0142b3551f9", 
+    "uri": "http://www.asp.net/downloads/starter-kits/classifieds", 
+    "title": "Classifieds Site Starter Kit | The ASP.NET Site"
 }
