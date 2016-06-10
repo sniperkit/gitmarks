@@ -172,4 +172,10 @@
     "hash": "4aeb71af739a15f43564dd066ced483c", 
     "uri": "https://open.edx.org/directory-open-edx-github-repositories", 
     "title": "Directory of Open edX GitHub Repositories | Open edX | Open Courseware Development Platform"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1652f4bcf442e42b939978ad0babbde1", 
+    "uri": "https://github.com/clojure/jvm.tools.analyzer", 
+    "title": "GitHub - clojure/jvm.tools.analyzer"
 }
