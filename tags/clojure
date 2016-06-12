@@ -538,4 +538,10 @@
     "hash": "d466a310cd6f11d21815d2c202327e67", 
     "uri": "https://christopherdbui.com/clojure-idioms/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "296400016950bac219f7a4d1fa50dbba", 
+    "uri": "https://devcenter.heroku.com/articles/using-node-js-with-clojure-and-clojurescript-applications", 
+    "title": "Using Node.js with Clojure and ClojureScript Applications | Heroku Dev Center"
 }
