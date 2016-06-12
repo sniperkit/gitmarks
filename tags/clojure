@@ -574,4 +574,10 @@
     "hash": "dd7acbd8246f3063a97363fc28d82e35", 
     "uri": "http://www.mase.io/code/clojure/node/2015/01/24/getting-started-with-clojurecript-and-node/", 
     "title": "Getting Started with ClojureScript and Node.js &#8211; mase.io"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "07cbff86b4733259945257fdf8c385cc", 
+    "uri": "http://hypirion.com/musings/transducers-to-conduits-and-back", 
+    "title": "polymatheia - From Transducers to Conduits and Back Again"
 }
