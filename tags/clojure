@@ -532,4 +532,10 @@
     "hash": "1652f4bcf442e42b939978ad0babbde1", 
     "uri": "https://github.com/clojure/jvm.tools.analyzer", 
     "title": "GitHub - clojure/jvm.tools.analyzer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d466a310cd6f11d21815d2c202327e67", 
+    "uri": "https://christopherdbui.com/clojure-idioms/", 
+    "title": "[No Title]"
 }
