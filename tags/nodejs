@@ -28,4 +28,10 @@
     "hash": "296400016950bac219f7a4d1fa50dbba", 
     "uri": "https://devcenter.heroku.com/articles/using-node-js-with-clojure-and-clojurescript-applications", 
     "title": "Using Node.js with Clojure and ClojureScript Applications | Heroku Dev Center"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d7fe2a2a7a58f0e3567e18bbf848018a", 
+    "uri": "https://github.com/malyn/figwheel-node-template", 
+    "title": "GitHub - malyn/figwheel-node-template: Leiningen template for Figwheel and Node.js"
 }
