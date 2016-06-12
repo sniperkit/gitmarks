@@ -196,4 +196,10 @@
     "hash": "9f6ba0bc65ee2016013bc1ff9249762d", 
     "uri": "http://developer.servalproject.org/dokuwiki/doku.php?id=content:about", 
     "title": "The Serval Project - The Serval Project Wiki"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3bb7ad4eaaadfdf4aabb48999b4ec606", 
+    "uri": "https://parse.com/docs/android/guide", 
+    "title": "[No Title]"
 }
