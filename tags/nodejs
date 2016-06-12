@@ -34,4 +34,10 @@
     "hash": "d7fe2a2a7a58f0e3567e18bbf848018a", 
     "uri": "https://github.com/malyn/figwheel-node-template", 
     "title": "GitHub - malyn/figwheel-node-template: Leiningen template for Figwheel and Node.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f135d3ee5b746c69f9dfed1d54c75cb7", 
+    "uri": "https://github.com/bhauman/lein-figwheel/wiki/Node.js-development-with-figwheel", 
+    "title": "Node.js development with figwheel \u00b7 bhauman/lein-figwheel Wiki \u00b7 GitHub"
 }
