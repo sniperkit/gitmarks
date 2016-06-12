@@ -580,4 +580,10 @@
     "hash": "07cbff86b4733259945257fdf8c385cc", 
     "uri": "http://hypirion.com/musings/transducers-to-conduits-and-back", 
     "title": "polymatheia - From Transducers to Conduits and Back Again"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "99caf94a3ef6eb6074f192b2d2c21c31", 
+    "uri": "http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html", 
+    "title": "Functional Mumbo Jumbo - ADTs"
 }

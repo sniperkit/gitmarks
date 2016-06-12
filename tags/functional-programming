@@ -556,4 +556,10 @@
     "hash": "b0f42610f4ba1c58a417e90b26f54af3", 
     "uri": "http://homepages.inf.ed.ac.uk/wadler/papers/expression/expression.txt", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "99caf94a3ef6eb6074f192b2d2c21c31", 
+    "uri": "http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html", 
+    "title": "Functional Mumbo Jumbo - ADTs"
 }
