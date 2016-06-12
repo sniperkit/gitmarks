@@ -94,4 +94,10 @@
     "hash": "a2202539df542275166d415062e21661", 
     "uri": "https://www.youtube.com/watch?v=XxVg_s8xAms", 
     "title": "Introduction to React.js - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3f7d7bf52c27e5f2cd4a475515111b87", 
+    "uri": "http://archive.is", 
+    "title": "archive.is"
 }
