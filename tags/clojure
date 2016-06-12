@@ -562,4 +562,10 @@
     "hash": "69aec2cb32d08c407e6831a62f705a46", 
     "uri": "https://github.com/quile/node-cljs-template", 
     "title": "GitHub - quile/node-cljs-template: Leiningen template for a (working and useful) ClojureScript project that runs on Node.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "187870f70a2569db40c21dad79dc49f3", 
+    "uri": "https://github.com/also/node-cljs", 
+    "title": "GitHub - also/node-cljs: node.js command-line runner for ClojureScript"
 }
