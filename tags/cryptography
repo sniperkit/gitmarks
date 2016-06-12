@@ -124,4 +124,10 @@
     "hash": "149bf56fe991c91fd9522d946a1cb8b6", 
     "uri": "http://blogs.msmvps.com/alunj/2016/05/26/untrusting-the-blue-coat-intermediate-ca-from-windows/", 
     "title": "Untrusting the Blue Coat Intermediate CA from Windows | Tales from the Crypto"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7413745a0407695d83319c794ecec11f", 
+    "uri": "http://m.cacm.acm.org/magazines/2016/6/202646-physical-key-extraction-attacks-on-pcs/fulltext", 
+    "title": "Physical Key Extraction Attacks on PCs | June 2016 | Communications of the ACM"
 }

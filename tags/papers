@@ -16,4 +16,10 @@
     "hash": "26ea124c8023c670614745d327e0dc8d", 
     "uri": "http://www.scs.stanford.edu/brop/", 
     "title": "Blind Return Oriented Programming (BROP)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7413745a0407695d83319c794ecec11f", 
+    "uri": "http://m.cacm.acm.org/magazines/2016/6/202646-physical-key-extraction-attacks-on-pcs/fulltext", 
+    "title": "Physical Key Extraction Attacks on PCs | June 2016 | Communications of the ACM"
 }
