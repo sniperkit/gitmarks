@@ -28,4 +28,10 @@
     "hash": "37cf8c6d2cc52bddde359486e221bd68", 
     "uri": "https://www.taler.net", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a52b1ac33520f355aecf76882d91a16b", 
+    "uri": "http://www.git.taler.net", 
+    "title": "www.git.taler.net Git"
 }
