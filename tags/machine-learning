@@ -34,4 +34,10 @@
     "hash": "a264ed52373be6f91ff6058741702fd8", 
     "uri": "http://www.datatau.com/", 
     "title": "DataTau"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6249aa05567378088c377e03774795bb", 
+    "uri": "https://www.packtpub.com/books/content/building-recommendation-engine-spark", 
+    "title": "Building a Recommendation Engine with Spark | PACKT Books"
 }
