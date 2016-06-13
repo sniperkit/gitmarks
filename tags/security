@@ -160,4 +160,10 @@
     "hash": "915e7adb2c531b81b7aa957bdeca5bc9", 
     "uri": "http://www.tecmint.com/install-rootkit-hunter-scan-for-rootkits-backdoors-in-linux/", 
     "title": "How to Scan for Rootkits, backdoors and Exploits Using 'Rootkit Hunter' in Linux"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2c886a0873282a3e02a30d8b4e703e48", 
+    "uri": "http://krebsonsecurity.com/all-about-skimmers/", 
+    "title": "[No Title]"
 }
