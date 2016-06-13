@@ -22,4 +22,10 @@
     "hash": "42ad9edbd84cfaec8d75e9013a4c149e", 
     "uri": "https://web.archive.org/web/20120105005420/http://hedgehog.oliotalo.fi/", 
     "title": "Hedgehog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a827467a9b3e9a8cd91e41c6d2bd27b6", 
+    "uri": "http://dropbox.nakkaya.com/builds/ferret-manual.html", 
+    "title": "Ferret User's Guide"
 }
