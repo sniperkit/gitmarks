@@ -100,4 +100,10 @@
     "hash": "95a5091893ead41354f399e2c542f505", 
     "uri": "https://www.packtpub.com/books/content/how-to-stream-live-video-with-raspberry-pi", 
     "title": "How to Stream Live Video With Raspberry Pi | PACKT Books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "df9981ea7eaa7510bbcb8072356ef1d7", 
+    "uri": "https://www.packtpub.com/books/content/creating-supercomputer", 
+    "title": "Creating a Supercomputer | PACKT Books"
 }
