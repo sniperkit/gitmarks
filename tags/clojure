@@ -592,4 +592,10 @@
     "hash": "a827467a9b3e9a8cd91e41c6d2bd27b6", 
     "uri": "http://dropbox.nakkaya.com/builds/ferret-manual.html", 
     "title": "Ferret User's Guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b0faeaa45f7ba51bba851dfaceb4b208", 
+    "uri": "http://nakkaya.com/2016/06/10/ferret-a-hard-real-time-clojure-for-lisp-machines/", 
+    "title": "Ferret - A Hard Real-Time Clojure for Lisp Machines"
 }
