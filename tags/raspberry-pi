@@ -106,4 +106,10 @@
     "hash": "df9981ea7eaa7510bbcb8072356ef1d7", 
     "uri": "https://www.packtpub.com/books/content/creating-supercomputer", 
     "title": "Creating a Supercomputer | PACKT Books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e45f947c3b4002316afb30e31c58b633", 
+    "uri": "https://www.packtpub.com/books/content/hacking-raspberry-pi-project-understand-electronics-first", 
+    "title": "Hacking a Raspberry Pi project? Understand  | PACKT Books"
 }
