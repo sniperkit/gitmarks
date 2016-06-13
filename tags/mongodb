@@ -124,4 +124,10 @@
     "hash": "1905bc59da4dfe0036470dacbbb45de5", 
     "uri": "http://bsonspec.org/", 
     "title": "BSON - Binary JSON"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3432757ec1ec0fd6191c55269d500b5d", 
+    "uri": "http://learnmongodbthehardway.com/", 
+    "title": ""
 }
