@@ -94,4 +94,10 @@
     "hash": "e98d59685740afa9698ba2ef1a06842e", 
     "uri": "http://www.instructables.com/id/3D-camera-with-Raspberry-Pi/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "95a5091893ead41354f399e2c542f505", 
+    "uri": "https://www.packtpub.com/books/content/how-to-stream-live-video-with-raspberry-pi", 
+    "title": "How to Stream Live Video With Raspberry Pi | PACKT Books"
 }
