@@ -130,4 +130,10 @@
     "hash": "3432757ec1ec0fd6191c55269d500b5d", 
     "uri": "http://learnmongodbthehardway.com/", 
     "title": ""
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c7b517896a6d7f7dee057946500ccba3", 
+    "uri": "http://mongodb.github.io/mongo-csharp-driver/2.2/reference/driver/definitions/#array-operators", 
+    "title": "Definitions and Builders"
 }
