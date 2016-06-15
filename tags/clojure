@@ -598,4 +598,10 @@
     "hash": "b0faeaa45f7ba51bba851dfaceb4b208", 
     "uri": "http://nakkaya.com/2016/06/10/ferret-a-hard-real-time-clojure-for-lisp-machines/", 
     "title": "Ferret - A Hard Real-Time Clojure for Lisp Machines"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e955e1dd72514d578bd2782af923a36e", 
+    "uri": "https://github.com/Datomic/simulant/wiki", 
+    "title": "Home \u00b7 Datomic/simulant Wiki \u00b7 GitHub"
 }
