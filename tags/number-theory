@@ -16,4 +16,10 @@
     "hash": "156e730188c31e71899294e8633feb8b", 
     "uri": "http://eccc.hpi-web.de/report/2015/119/", 
     "title": "ECCC - TR15-119"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8fa4bc041875caf5201f691f15c893d3", 
+    "uri": "https://en.wikipedia.org/wiki/Mersenne_Primes", 
+    "title": "Mersenne prime - Wikipedia, the free encyclopedia"
 }
