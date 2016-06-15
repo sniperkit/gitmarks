@@ -4,4 +4,10 @@
     "hash": "3dad8307f7350d22db83498db14fe44f", 
     "uri": "https://github.com/NetLogo/NetLogo/wiki/Controlling-API", 
     "title": "Controlling API \u00b7 NetLogo/NetLogo Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a177431b1025987653c94736ba8cb29b", 
+    "uri": "https://github.com/mars0i/netlogo-clojure", 
+    "title": "GitHub - mars0i/netlogo-clojure: NetLogo extension that allows calling Clojure from NetLogo"
 }
