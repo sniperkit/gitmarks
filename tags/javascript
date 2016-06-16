@@ -484,4 +484,10 @@
     "hash": "281331486d5c709b6e670524c2dda339", 
     "uri": "http://himera.herokuapp.com/synonym.html", 
     "title": "Himera Synonym"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8211bb581152d161ef53b73a33a60054", 
+    "uri": "https://www.packtpub.com/books/content/rxjs-observable-promise-users-part-1", 
+    "title": "(RxJS) Observable for Promise Users : Part 1 | PACKT Books"
 }
