@@ -628,4 +628,10 @@
     "hash": "53e2076eb4f6fb7b5da76dc4dfd87ce4", 
     "uri": "http://feeds.feedburner.com/RussianClojurePlanet", 
     "title": "Russian Clojure Planet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fb1ac04db0e8268d7a7aa14aba95f607", 
+    "uri": "http://feeds.feedburner.com/clojure", 
+    "title": "[No Title]"
 }
