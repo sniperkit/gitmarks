@@ -634,4 +634,10 @@
     "hash": "fb1ac04db0e8268d7a7aa14aba95f607", 
     "uri": "http://feeds.feedburner.com/clojure", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d7f03dd7233937d1b2fdd745f5212c8e", 
+    "uri": "http://www.sqlkorma.com/", 
+    "title": "sqlkorma"
 }
