@@ -16,4 +16,10 @@
     "hash": "b3a906ac454c8bf42658c9b2bc639094", 
     "uri": "https://vimeo.com/cognitect/videos", 
     "title": "Cognitect&rsquo;s Videos on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6130fc8bb566d28e7f6f59d9568bf791", 
+    "uri": "https://www.infoq.com/presentations/Datomic-Database-Value", 
+    "title": "The Database as a Value"
 }

@@ -658,4 +658,10 @@
     "hash": "f8baa1f1e60a2631078ccb5641f1e6b5", 
     "uri": "https://www.emacswiki.org/emacs/EmacsForWindows", 
     "title": "EmacsWiki: Emacs For Windows"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6130fc8bb566d28e7f6f59d9568bf791", 
+    "uri": "https://www.infoq.com/presentations/Datomic-Database-Value", 
+    "title": "The Database as a Value"
 }
