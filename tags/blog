@@ -28,4 +28,10 @@
     "hash": "8f529a2154f9031a8e4a0bf1242e3e55", 
     "uri": "https://stuartsierra.com/tag/dos-and-donts", 
     "title": "do&#8217;s and don&#8217;ts &#8211; Digital Digressions by Stuart Sierra"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0c0be63e485e8516c0a5f699a9faa66a", 
+    "uri": "http://blog.higher-order.net/2009/02/01/understanding-clojures-persistentvector-implementation.html", 
+    "title": "Understanding Clojure's PersistentVector implementation"
 }

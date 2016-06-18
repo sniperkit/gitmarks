@@ -664,4 +664,10 @@
     "hash": "6130fc8bb566d28e7f6f59d9568bf791", 
     "uri": "https://www.infoq.com/presentations/Datomic-Database-Value", 
     "title": "The Database as a Value"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0c0be63e485e8516c0a5f699a9faa66a", 
+    "uri": "http://blog.higher-order.net/2009/02/01/understanding-clojures-persistentvector-implementation.html", 
+    "title": "Understanding Clojure's PersistentVector implementation"
 }
