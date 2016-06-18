@@ -178,4 +178,10 @@
     "hash": "1652f4bcf442e42b939978ad0babbde1", 
     "uri": "https://github.com/clojure/jvm.tools.analyzer", 
     "title": "GitHub - clojure/jvm.tools.analyzer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "83c4e33aae908cff94ec28d9ff44dfb1", 
+    "uri": "https://github.com/clojure-emacs/cider", 
+    "title": "GitHub - clojure-emacs/cider: The Clojure Interactive Development Environment that Rocks for Emacs"
 }

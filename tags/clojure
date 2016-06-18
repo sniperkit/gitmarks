@@ -646,4 +646,10 @@
     "hash": "b48e9ed89be515786feecc105f8f512b", 
     "uri": "https://github.com/stuartsierra/component", 
     "title": "GitHub - stuartsierra/component: Managed lifecycle of stateful objects in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "83c4e33aae908cff94ec28d9ff44dfb1", 
+    "uri": "https://github.com/clojure-emacs/cider", 
+    "title": "GitHub - clojure-emacs/cider: The Clojure Interactive Development Environment that Rocks for Emacs"
 }
