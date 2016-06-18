@@ -562,4 +562,10 @@
     "hash": "99caf94a3ef6eb6074f192b2d2c21c31", 
     "uri": "http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html", 
     "title": "Functional Mumbo Jumbo - ADTs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9591bfd9d17be2f6108c4531db21e81f", 
+    "uri": "http://raganwald.com/2014/12/20/why-why-functional-programming-matters-matters.html", 
+    "title": "Why Why Functional Programming Matters Matters"
 }
