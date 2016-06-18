@@ -184,4 +184,10 @@
     "hash": "83c4e33aae908cff94ec28d9ff44dfb1", 
     "uri": "https://github.com/clojure-emacs/cider", 
     "title": "GitHub - clojure-emacs/cider: The Clojure Interactive Development Environment that Rocks for Emacs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f8baa1f1e60a2631078ccb5641f1e6b5", 
+    "uri": "https://www.emacswiki.org/emacs/EmacsForWindows", 
+    "title": "EmacsWiki: Emacs For Windows"
 }
