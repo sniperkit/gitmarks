@@ -682,4 +682,10 @@
     "hash": "6741343e1a6d69708e7c05fb9730eb97", 
     "uri": "http://clojure.org/reference/transients", 
     "title": "Clojure - Transient Data Structures"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b4d0b6f494d9ee2e0c040840511b4012", 
+    "uri": "http://www.john2x.com/blog/blogging-with-orgmode.html", 
+    "title": "Blogging with Orgmode"
 }
