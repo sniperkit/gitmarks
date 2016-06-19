@@ -688,4 +688,10 @@
     "hash": "b4d0b6f494d9ee2e0c040840511b4012", 
     "uri": "http://www.john2x.com/blog/blogging-with-orgmode.html", 
     "title": "Blogging with Orgmode"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "04eee1a2ac90a034c457fadf56f81a08", 
+    "uri": "http://www.john2x.com/blog/clojure-destructuring.html", 
+    "title": "Clojure Destructuring Tutorial and Cheat Sheet"
 }

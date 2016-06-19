@@ -70,4 +70,10 @@
     "hash": "78246b57fa2ec257ccf4dd6081f8f33b", 
     "uri": "https://gist.github.com/john2x/e1dca953548bfdfb9844", 
     "title": "Clojure Destructuring Tutorial and Cheat Sheet \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "04eee1a2ac90a034c457fadf56f81a08", 
+    "uri": "http://www.john2x.com/blog/clojure-destructuring.html", 
+    "title": "Clojure Destructuring Tutorial and Cheat Sheet"
 }
