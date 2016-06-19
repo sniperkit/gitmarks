@@ -10,4 +10,10 @@
     "hash": "e5d6412e50f06c02fe41df5a2dcd6dec", 
     "uri": "http://developer.android.com/intl/ru/training/articles/perf-tips.html", 
     "title": "Performance Tips | Android Developers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6741343e1a6d69708e7c05fb9730eb97", 
+    "uri": "http://clojure.org/reference/transients", 
+    "title": "Clojure - Transient Data Structures"
 }

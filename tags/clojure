@@ -676,4 +676,10 @@
     "hash": "78246b57fa2ec257ccf4dd6081f8f33b", 
     "uri": "https://gist.github.com/john2x/e1dca953548bfdfb9844", 
     "title": "Clojure Destructuring Tutorial and Cheat Sheet \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6741343e1a6d69708e7c05fb9730eb97", 
+    "uri": "http://clojure.org/reference/transients", 
+    "title": "Clojure - Transient Data Structures"
 }
