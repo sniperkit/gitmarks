@@ -670,4 +670,10 @@
     "hash": "0c0be63e485e8516c0a5f699a9faa66a", 
     "uri": "http://blog.higher-order.net/2009/02/01/understanding-clojures-persistentvector-implementation.html", 
     "title": "Understanding Clojure's PersistentVector implementation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "78246b57fa2ec257ccf4dd6081f8f33b", 
+    "uri": "https://gist.github.com/john2x/e1dca953548bfdfb9844", 
+    "title": "Clojure Destructuring Tutorial and Cheat Sheet \u00b7 GitHub"
 }

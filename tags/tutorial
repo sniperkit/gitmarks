@@ -64,4 +64,10 @@
     "hash": "dff92d3131efafc85c57b22944eae0cc", 
     "uri": "https://github.com/awkay/om-tutorial", 
     "title": "GitHub - awkay/om-tutorial: WORK IN PROGRESS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "78246b57fa2ec257ccf4dd6081f8f33b", 
+    "uri": "https://gist.github.com/john2x/e1dca953548bfdfb9844", 
+    "title": "Clojure Destructuring Tutorial and Cheat Sheet \u00b7 GitHub"
 }
