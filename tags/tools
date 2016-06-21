@@ -190,4 +190,10 @@
     "hash": "f8baa1f1e60a2631078ccb5641f1e6b5", 
     "uri": "https://www.emacswiki.org/emacs/EmacsForWindows", 
     "title": "EmacsWiki: Emacs For Windows"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9c5ec060546996b34db8198aa30c55e0", 
+    "uri": "https://lumanu.com/", 
+    "title": "HTTP Error 403"
 }
