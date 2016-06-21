@@ -694,4 +694,10 @@
     "hash": "04eee1a2ac90a034c457fadf56f81a08", 
     "uri": "http://www.john2x.com/blog/clojure-destructuring.html", 
     "title": "Clojure Destructuring Tutorial and Cheat Sheet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "13bb2d2c769a11b51bd7474ca5ab5131", 
+    "uri": "https://github.com/weavejester/compojure/wiki/Destructuring-Syntax", 
+    "title": "Destructuring Syntax \u00b7 weavejester/compojure Wiki \u00b7 GitHub"
 }
