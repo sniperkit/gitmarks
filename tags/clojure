@@ -712,4 +712,10 @@
     "hash": "4376290cca6853086280c2ce99b8c11a", 
     "uri": "https://github.com/zk/xmpp-clj", 
     "title": "GitHub - zk/xmpp-clj: A lightweight clojure wrapper around the smack jabber/XMPP library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f2521ec3a7c833d6934b554c9257fbb4", 
+    "uri": "https://github.com/AdamClements/quit-yo-jibber", 
+    "title": "GitHub - AdamClements/quit-yo-jibber: A lightweight clojure wrapper around the smack jabber/XMPP library"
 }
