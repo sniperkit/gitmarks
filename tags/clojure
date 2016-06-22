@@ -706,4 +706,10 @@
     "hash": "63e3d7a72176556af6e1f0ec3063a092", 
     "uri": "http://jakemccrary.com/blog/2010/12/06/trampolining-through-mutual-recursion/", 
     "title": "Access denied | jakemccrary.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4376290cca6853086280c2ce99b8c11a", 
+    "uri": "https://github.com/zk/xmpp-clj", 
+    "title": "GitHub - zk/xmpp-clj: A lightweight clojure wrapper around the smack jabber/XMPP library"
 }

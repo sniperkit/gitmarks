@@ -4,4 +4,10 @@
     "hash": "c4b1b64ec20c3abb6572a5b7ba7bdcf9", 
     "uri": "https://blog.process-one.net/embedding-ejabberd-into-an-elixir-phoenix-web-application/", 
     "title": "Embedding ejabberd into an Elixir Phoenix Web application | ProcessOne \u2014 Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4376290cca6853086280c2ce99b8c11a", 
+    "uri": "https://github.com/zk/xmpp-clj", 
+    "title": "GitHub - zk/xmpp-clj: A lightweight clojure wrapper around the smack jabber/XMPP library"
 }
