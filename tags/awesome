@@ -76,4 +76,10 @@
     "hash": "56671dc2423ecfd3631c7dab95c8c86d", 
     "uri": "https://github.com/search?utf8=%E2%9C%93&q=awesome+clojure", 
     "title": "Search \u00b7 awesome clojure \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7699ad66c1d5c67a2b67d0610bad8c83", 
+    "uri": "https://github.com/h4cc/awesome-elixir", 
+    "title": "GitHub - h4cc/awesome-elixir: A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:"
 }
