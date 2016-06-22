@@ -136,4 +136,10 @@
     "hash": "c7b517896a6d7f7dee057946500ccba3", 
     "uri": "http://mongodb.github.io/mongo-csharp-driver/2.2/reference/driver/definitions/#array-operators", 
     "title": "Definitions and Builders"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "300d928be09a088ba1c6aac178df32db", 
+    "uri": "https://docs.mongodb.com/manual/reference/sql-aggregation-comparison/", 
+    "title": "SQL to Aggregation Mapping Chart &mdash; MongoDB Manual 3.2"
 }
