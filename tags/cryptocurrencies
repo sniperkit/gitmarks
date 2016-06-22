@@ -34,4 +34,10 @@
     "hash": "a52b1ac33520f355aecf76882d91a16b", 
     "uri": "http://www.git.taler.net", 
     "title": "www.git.taler.net Git"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5126d2d3f08494ff69c8165c5323d779", 
+    "uri": "https://github.com/benlaurie/lucre", 
+    "title": "GitHub - benlaurie/lucre: Anonymous ecash"
 }
