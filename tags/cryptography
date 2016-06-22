@@ -142,4 +142,10 @@
     "hash": "1390a0f9cb7ba69a793eeb5c99dd5fc5", 
     "uri": "http://yournewswire.com/encryption-security-may-not-be-secure-anymore/", 
     "title": "Encryption Security May Not Be Secure Anymore | Your News Wire"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "582e5f8e7779b11c0e7ad58e0f232d22", 
+    "uri": "https://github.com/xwiki-labs/cryptpad", 
+    "title": "GitHub - xwiki-labs/cryptpad: Unity is Strength - Collaboration is Key - CryptPad is the zero knowledge realtime collaborative editor."
 }
