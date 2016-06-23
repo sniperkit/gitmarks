@@ -718,4 +718,10 @@
     "hash": "f2521ec3a7c833d6934b554c9257fbb4", 
     "uri": "https://github.com/AdamClements/quit-yo-jibber", 
     "title": "GitHub - AdamClements/quit-yo-jibber: A lightweight clojure wrapper around the smack jabber/XMPP library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9e687f5d7611f0e4a504bf8a6883d9ee", 
+    "uri": "e-string.com/articles/adventures-react-native-clojurescript/", 
+    "title": "[No Title]"
 }

@@ -226,4 +226,10 @@
     "hash": "fcb4923f8bec7585a059a9df60956c4b", 
     "uri": "http://descjop.org/", 
     "title": "descjop | A Leiningen template for Web based desktop application."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9e687f5d7611f0e4a504bf8a6883d9ee", 
+    "uri": "e-string.com/articles/adventures-react-native-clojurescript/", 
+    "title": "[No Title]"
 }
