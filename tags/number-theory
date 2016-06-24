@@ -40,4 +40,10 @@
     "hash": "9b999246240856700f3b8d6348278104", 
     "uri": "https://en.wikipedia.org/wiki/Special_number_field_sieve", 
     "title": "Special number field sieve - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e03bc51d141ab6093c66de2a38e91ba0", 
+    "uri": "https://en.wikipedia.org/wiki/Rational_sieve", 
+    "title": "Rational sieve - Wikipedia, the free encyclopedia"
 }
