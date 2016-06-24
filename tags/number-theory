@@ -52,4 +52,10 @@
     "hash": "3eed2764a18140825da4c6721c96c028", 
     "uri": "https://github.com/hyPiRion/nt", 
     "title": "GitHub - hyPiRion/nt: Number theory in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "00ec3d0295dd60f63dd3ea403bc784a3", 
+    "uri": "https://github.com/aengelberg/nefarious.number-theory", 
+    "title": "GitHub - aengelberg/nefarious.number-theory: A collection of number theoretic and math functions ported from Racket to Clojure by the Nefarious Porpoises team"
 }
