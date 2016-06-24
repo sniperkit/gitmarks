@@ -70,4 +70,10 @@
     "hash": "7eb01c79f1acd29eedd3c7bb5ec378ca", 
     "uri": "https://en.wikipedia.org/wiki/Lenstra_elliptic_curve_factorization", 
     "title": "Lenstra elliptic curve factorization - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f828e13ea4091b14fd03a386777496d2", 
+    "uri": "https://en.wikipedia.org/wiki/Shanks%27_square_forms_factorization", 
+    "title": "Shanks' square forms factorization - Wikipedia, the free encyclopedia"
 }
