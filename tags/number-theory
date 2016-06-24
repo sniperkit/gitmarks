@@ -22,4 +22,10 @@
     "hash": "8fa4bc041875caf5201f691f15c893d3", 
     "uri": "https://en.wikipedia.org/wiki/Mersenne_Primes", 
     "title": "Mersenne prime - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ba9adc3c5d97e0913358f0d91b194e35", 
+    "uri": "https://en.wikipedia.org/wiki/General_number_field_sieve", 
+    "title": "General number field sieve - Wikipedia, the free encyclopedia"
 }
