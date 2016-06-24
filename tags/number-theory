@@ -46,4 +46,10 @@
     "hash": "e03bc51d141ab6093c66de2a38e91ba0", 
     "uri": "https://en.wikipedia.org/wiki/Rational_sieve", 
     "title": "Rational sieve - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3eed2764a18140825da4c6721c96c028", 
+    "uri": "https://github.com/hyPiRion/nt", 
+    "title": "GitHub - hyPiRion/nt: Number theory in Clojure"
 }
