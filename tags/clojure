@@ -742,4 +742,10 @@
     "hash": "00ec3d0295dd60f63dd3ea403bc784a3", 
     "uri": "https://github.com/aengelberg/nefarious.number-theory", 
     "title": "GitHub - aengelberg/nefarious.number-theory: A collection of number theoretic and math functions ported from Racket to Clojure by the Nefarious Porpoises team"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "712d6049cdb7c24bba131c9eb7fb02c3", 
+    "uri": "https://github.com/rkneufeld/lein-try", 
+    "title": "GitHub - rkneufeld/lein-try: A Leiningen plugin for trying out new libraries"
 }
