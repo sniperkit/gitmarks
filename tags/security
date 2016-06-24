@@ -178,4 +178,10 @@
     "hash": "77310cc0eaa2d5f3f5802a6f64f0180c", 
     "uri": "http://krebsonsecurity.com/2011/08/beware-of-juice-jacking/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e357e9eac73cd40c07799edd1abcae72", 
+    "uri": "http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/", 
+    "title": "Analysis of the DAO exploit"
 }
