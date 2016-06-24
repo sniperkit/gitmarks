@@ -58,4 +58,10 @@
     "hash": "00ec3d0295dd60f63dd3ea403bc784a3", 
     "uri": "https://github.com/aengelberg/nefarious.number-theory", 
     "title": "GitHub - aengelberg/nefarious.number-theory: A collection of number theoretic and math functions ported from Racket to Clojure by the Nefarious Porpoises team"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b782ca68e57ce7f0f956cc0a178725a9", 
+    "uri": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+    "title": "Quadratic sieve - Wikipedia, the free encyclopedia"
 }
