@@ -82,4 +82,10 @@
     "hash": "a44d8699ba4ebabac5d02575fa5fe875", 
     "uri": "https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm", 
     "title": "Pollard's rho algorithm - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "01cf74c206a15c6a0a22eb294c6d3d91", 
+    "uri": "https://en.wikipedia.org/wiki/Shor%27s_algorithm", 
+    "title": "Shor's algorithm - Wikipedia, the free encyclopedia"
 }
