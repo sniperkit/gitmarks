@@ -64,4 +64,10 @@
     "hash": "b782ca68e57ce7f0f956cc0a178725a9", 
     "uri": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
     "title": "Quadratic sieve - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7eb01c79f1acd29eedd3c7bb5ec378ca", 
+    "uri": "https://en.wikipedia.org/wiki/Lenstra_elliptic_curve_factorization", 
+    "title": "Lenstra elliptic curve factorization - Wikipedia, the free encyclopedia"
 }
