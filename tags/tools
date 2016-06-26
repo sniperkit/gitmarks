@@ -196,4 +196,10 @@
     "hash": "9c5ec060546996b34db8198aa30c55e0", 
     "uri": "https://lumanu.com/", 
     "title": "HTTP Error 403"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "45c638ea90218877736c1c94aa72027b", 
+    "uri": "https://github.com/clojure/tools.cli", 
+    "title": "GitHub - clojure/tools.cli: Command-line processing"
 }
