@@ -124,4 +124,10 @@
     "hash": "f84c0189c522e40a4ceea7fd82f9d903", 
     "uri": "http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html", 
     "title": "How to Design Programs, Second Edition"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "919564f2b5a80398fe1a4c5b7d08e6cf", 
+    "uri": "https://mitpress.mit.edu/books/little-prover", 
+    "title": "The Little Prover | The MIT Press"
 }
