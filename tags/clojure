@@ -766,4 +766,10 @@
     "hash": "6ac8b41abcb4eac2bf56b38a3e50a7c2", 
     "uri": "https://github.com/sjl/clojure-lanterna", 
     "title": "GitHub - sjl/clojure-lanterna: A Clojurey wrapper around the Lanterna terminal output library."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "76c24f99a289a9337e7ef3aad4b85b30", 
+    "uri": "http://stackoverflow.com/questions/4509782/simple-explanation-of-clojure-protocols/4513556#4513556", 
+    "title": "[No Title]"
 }
