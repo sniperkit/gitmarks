@@ -772,4 +772,10 @@
     "hash": "76c24f99a289a9337e7ef3aad4b85b30", 
     "uri": "http://stackoverflow.com/questions/4509782/simple-explanation-of-clojure-protocols/4513556#4513556", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "22cd69307090af0c7ec16c8c7951b1a4", 
+    "uri": "https://www.youtube.com/watch?v=mi3OtBc73-k", 
+    "title": "Understanding pattern matching in Clojure with core.match - YouTube"
 }

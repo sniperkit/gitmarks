@@ -76,4 +76,10 @@
     "hash": "7009a3701145c170bd8c6e7f3bb3cbd4", 
     "uri": "http://www.youtube.com/user/ClojureTV", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "22cd69307090af0c7ec16c8c7951b1a4", 
+    "uri": "https://www.youtube.com/watch?v=mi3OtBc73-k", 
+    "title": "Understanding pattern matching in Clojure with core.match - YouTube"
 }
