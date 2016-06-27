@@ -784,4 +784,10 @@
     "hash": "69995aabb9ee55f1541cc5d9b75e49be", 
     "uri": "https://www.youtube.com/watch?v=n7aE6k8o_BU", 
     "title": "Sean Johnson - Pattern Matching in Clojure - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cb6a1d391c5304dda0ec14030c07a9bb", 
+    "uri": "http://minikanren.org/", 
+    "title": "miniKanren.org"
 }

@@ -4,4 +4,10 @@
     "hash": "93735871a974254919ae65caada171d6", 
     "uri": "http://www.learndatalogtoday.org/", 
     "title": "Learn Datalog Today!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cb6a1d391c5304dda0ec14030c07a9bb", 
+    "uri": "http://minikanren.org/", 
+    "title": "miniKanren.org"
 }
