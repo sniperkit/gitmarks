@@ -760,4 +760,10 @@
     "hash": "45c638ea90218877736c1c94aa72027b", 
     "uri": "https://github.com/clojure/tools.cli", 
     "title": "GitHub - clojure/tools.cli: Command-line processing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6ac8b41abcb4eac2bf56b38a3e50a7c2", 
+    "uri": "https://github.com/sjl/clojure-lanterna", 
+    "title": "GitHub - sjl/clojure-lanterna: A Clojurey wrapper around the Lanterna terminal output library."
 }
