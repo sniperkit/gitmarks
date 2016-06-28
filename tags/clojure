@@ -808,4 +808,10 @@
     "hash": "593aacafad395e074ea6cb28c89088a7", 
     "uri": "https://github.com/hozumi/clj-commons-exec", 
     "title": "GitHub - hozumi/clj-commons-exec: Apache Commons Exec wrapper for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fd274bed4a82a77d166e5ebe52fcab08", 
+    "uri": "https://github.com/thebusby/iota", 
+    "title": "GitHub - thebusby/iota: A simple IO library for using Clojure&#39;s reducers"
 }
