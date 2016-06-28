@@ -838,4 +838,10 @@
     "hash": "4f166e7057eeba073b770b0a8e3cd5dd", 
     "uri": "https://github.com/geoffsalmon/bytebuffer", 
     "title": "GitHub - geoffsalmon/bytebuffer: Clojure lib for packing and unpacking binary data using a java.util.ByteBuffer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "838cedef9aef27b776ee70403d594de4", 
+    "uri": "https://github.com/clojurewerkz/buffy", 
+    "title": "GitHub - clojurewerkz/buffy: Buffy The ByteBuffer Slayer, Clojure library for working with binary data."
 }
