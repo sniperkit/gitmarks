@@ -814,4 +814,10 @@
     "hash": "fd274bed4a82a77d166e5ebe52fcab08", 
     "uri": "https://github.com/thebusby/iota", 
     "title": "GitHub - thebusby/iota: A simple IO library for using Clojure&#39;s reducers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3e3ee1efc177b31fd0b009fd2edd0205", 
+    "uri": "http://www.clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html", 
+    "title": "Clojure :: Reducers - A Library and Model for Collection Processing"
 }
