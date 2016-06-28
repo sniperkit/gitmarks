@@ -94,4 +94,10 @@
     "hash": "3892adbb45e5e1bc5d25401a948ee957", 
     "uri": "http://grandnode.com", 
     "title": "GrandNode - Open Source eCommerce, Shopping Cart platform on ASP.NET and MongoDB"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c5ff857cd659f77aeb0c8bf2f4c25437", 
+    "uri": "https://en.wikibooks.org/wiki/Goldbug", 
+    "title": "Goldbug - Wikibooks, open books for an open world"
 }
