@@ -832,4 +832,10 @@
     "hash": "fd8f262e6cb7cd5f2dcfda5aadcb5a32", 
     "uri": "https://github.com/miner/tagged", 
     "title": "GitHub - miner/tagged: Clojure library for encoding Records as EDN tagged literals"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4f166e7057eeba073b770b0a8e3cd5dd", 
+    "uri": "https://github.com/geoffsalmon/bytebuffer", 
+    "title": "GitHub - geoffsalmon/bytebuffer: Clojure lib for packing and unpacking binary data using a java.util.ByteBuffer"
 }
