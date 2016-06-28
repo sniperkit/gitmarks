@@ -850,4 +850,10 @@
     "hash": "c75ebefec187d61c6e76591de507a6b0", 
     "uri": "https://github.com/ztellman/gloss", 
     "title": "GitHub - ztellman/gloss: speaks in bytes, so you don&#39;t have to"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b5f415f2d71653ff5ecfb9161d7a2b26", 
+    "uri": "https://github.com/clojure/data.csv", 
+    "title": "GitHub - clojure/data.csv"
 }
