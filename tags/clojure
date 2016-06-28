@@ -844,4 +844,10 @@
     "hash": "838cedef9aef27b776ee70403d594de4", 
     "uri": "https://github.com/clojurewerkz/buffy", 
     "title": "GitHub - clojurewerkz/buffy: Buffy The ByteBuffer Slayer, Clojure library for working with binary data."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c75ebefec187d61c6e76591de507a6b0", 
+    "uri": "https://github.com/ztellman/gloss", 
+    "title": "GitHub - ztellman/gloss: speaks in bytes, so you don&#39;t have to"
 }
