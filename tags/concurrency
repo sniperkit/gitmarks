@@ -16,4 +16,10 @@
     "hash": "1f79aa6772d67d4fb4fbccbbda28400a", 
     "uri": "https://www.youtube.com/watch?v=f6kdp27TYZs", 
     "title": "Google I/O 2012 - Go Concurrency Patterns - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6f25c8a2835d943c72682caa6e0f163b", 
+    "uri": "http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html", 
+    "title": "[No Title]"
 }
