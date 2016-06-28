@@ -826,4 +826,10 @@
     "hash": "eaec9f27adde2b667f0b231d4bebbb55", 
     "uri": "https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md", 
     "title": "leiningen/TUTORIAL.md at master \u00b7 technomancy/leiningen \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fd8f262e6cb7cd5f2dcfda5aadcb5a32", 
+    "uri": "https://github.com/miner/tagged", 
+    "title": "GitHub - miner/tagged: Clojure library for encoding Records as EDN tagged literals"
 }
