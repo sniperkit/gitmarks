@@ -82,4 +82,10 @@
     "hash": "6f25c8a2835d943c72682caa6e0f163b", 
     "uri": "http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bba9a938805f52c20d8f81761f5a757a", 
+    "uri": "http://docs.oracle.com/javase/7/docs/api/java/util/zip/GZIPInputStream.html", 
+    "title": "GZIPInputStream (Java Platform SE 7 )"
 }
