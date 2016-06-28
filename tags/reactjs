@@ -136,4 +136,10 @@
     "hash": "29a7d8974e9a0b6f2b8764455096bd7e", 
     "uri": "http://pinboard.in/t:reactjs/t:book", 
     "title": "Pinboard bookmarks tagged reactjs + book"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a6881c20750355790f0421cfd57f76f5", 
+    "uri": "https://www.simple-talk.com/dotnet/asp.net/a-real-world-react.js-setup-for-asp.net-core-and-mvc5/", 
+    "title": "[No Title]"
 }
