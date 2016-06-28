@@ -4,4 +4,10 @@
     "hash": "712d6049cdb7c24bba131c9eb7fb02c3", 
     "uri": "https://github.com/rkneufeld/lein-try", 
     "title": "GitHub - rkneufeld/lein-try: A Leiningen plugin for trying out new libraries"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eaec9f27adde2b667f0b231d4bebbb55", 
+    "uri": "https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md", 
+    "title": "leiningen/TUTORIAL.md at master \u00b7 technomancy/leiningen \u00b7 GitHub"
 }
