@@ -898,4 +898,10 @@
     "hash": "b7be34843a92dc5dd696171e5dbddfa5", 
     "uri": "http://clojurerabbitmq.info/", 
     "title": "Langohr, an idiomatic Clojure RabbitMQ client | Clojure AMQP 0.9.1 client"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03b0a58e9e1a10c48b00de4ea952d34f", 
+    "uri": "https://github.com/clojurewerkz/machine_head", 
+    "title": "GitHub - clojurewerkz/machine_head: Clojure MQTT client"
 }
