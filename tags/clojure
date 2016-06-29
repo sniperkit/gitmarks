@@ -886,4 +886,10 @@
     "hash": "c1198ad38b5fd75f071e3441c2856ac9", 
     "uri": "https://github.com/scsibug/feedparser-clj", 
     "title": "GitHub - scsibug/feedparser-clj: Atom/RSS Feed Parsing for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "78551ea19ae13758d5ad6dd53c44f942", 
+    "uri": "https://github.com/drewr/postal", 
+    "title": "GitHub - drewr/postal: Clojure email support"
 }
