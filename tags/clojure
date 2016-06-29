@@ -910,4 +910,10 @@
     "hash": "c9096b988f948ca0326bb22be766bb3f", 
     "uri": "http://clojurewerkz.org/", 
     "title": "Clojure libraries for MongoDB, RabbitMQ, validations, Neo4J, ElasticSearch, Apache Cassandra, Riak, Memcached, stream processing  and more"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c2ea9c05f1fa67d129b2f123d8608487", 
+    "uri": "https://github.com/lynaghk/zmq-async", 
+    "title": "GitHub - lynaghk/zmq-async: Threadsafe Clojure core.async interface to ZeroMQ"
 }
