@@ -1030,4 +1030,10 @@
     "hash": "0fdf27a9616e68dba4521cbb8de53327", 
     "uri": "http://blog.jayfields.com/2010/07/clojure-destructuring.html", 
     "title": "Jay Fields' Thoughts: Clojure: Destructuring"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4ee1b26873d192f2d0b588711d8c49c2", 
+    "uri": "https://github.com/clojure-liberator/liberator", 
+    "title": "GitHub - clojure-liberator/liberator: Liberator is a Clojure library for building RESTful applications."
 }
