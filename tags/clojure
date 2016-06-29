@@ -874,4 +874,10 @@
     "hash": "ea1adfb4b3c0879d2593e9ae358e803e", 
     "uri": "https://github.com/Netflix/Hystrix/tree/master/hystrix-contrib/hystrix-clj", 
     "title": "Hystrix/hystrix-contrib/hystrix-clj at master \u00b7 Netflix/Hystrix \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f1a504e414e3e18dfaf9e278f0179401", 
+    "uri": "http://www.http-kit.org/", 
+    "title": "Home | http-kit, high performance HTTP Client/Server for Clojure"
 }
