@@ -16,4 +16,10 @@
     "hash": "6741343e1a6d69708e7c05fb9730eb97", 
     "uri": "http://clojure.org/reference/transients", 
     "title": "Clojure - Transient Data Structures"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1f082a37fd6a9cd97a27b45632eb9ba", 
+    "uri": "https://github.com/hugoduncan/criterium", 
+    "title": "GitHub - hugoduncan/criterium: Benchmarking library for clojure"
 }
