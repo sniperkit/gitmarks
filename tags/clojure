@@ -940,4 +940,10 @@
     "hash": "53ab73ca788e6c4df39740b674a2a08e", 
     "uri": "https://github.com/tomekw/hikari-cp", 
     "title": "GitHub - tomekw/hikari-cp: A Clojure wrapper to HikariCP JDBC connection pool"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4b2bc9c0b6d9ad99df0db44cd4c8fa38", 
+    "uri": "https://github.com/weavejester/clucy", 
+    "title": "GitHub - weavejester/clucy: Clojure interface to Lucene"
 }
