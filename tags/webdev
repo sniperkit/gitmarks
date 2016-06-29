@@ -58,4 +58,10 @@
     "hash": "e4f303ca41553d2d522237af79ffd6e2", 
     "uri": "https://github.com/weavejester/clout", 
     "title": "GitHub - weavejester/clout: HTTP route-matching library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f1b14c0f303e1fb65c85e9fec1347e9", 
+    "uri": "https://github.com/ericnormand/playnice", 
+    "title": "GitHub - ericnormand/playnice: A Clojure library to help build HTTP compliant servers."
 }
