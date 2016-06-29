@@ -1198,4 +1198,10 @@
     "hash": "5049b10d9cce9943338b1ca36d7b3cf8", 
     "uri": "https://github.com/clojure/test.check", 
     "title": "GitHub - clojure/test.check: QuickCheck for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c81d72ab4b9defa861aa794b6ac7567c", 
+    "uri": "https://wiki.haskell.org/Introduction_to_QuickCheck2", 
+    "title": "Introduction to QuickCheck2 - HaskellWiki"
 }
