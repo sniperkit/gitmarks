@@ -952,4 +952,10 @@
     "hash": "ef20643ebd4f977ae41c9bca77695775", 
     "uri": "http://clojureelasticsearch.info/", 
     "title": "Elastisch, a minimalistic Clojure client for ElasticSearch | ElasticSearch Clojure client"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ad6a937e9050287dcc761786f06c9053", 
+    "uri": "http://clojurecassandra.info/", 
+    "title": "Cassaforte, a modern Clojure client for Apache Cassandra"
 }
