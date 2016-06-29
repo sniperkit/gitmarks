@@ -904,4 +904,10 @@
     "hash": "03b0a58e9e1a10c48b00de4ea952d34f", 
     "uri": "https://github.com/clojurewerkz/machine_head", 
     "title": "GitHub - clojurewerkz/machine_head: Clojure MQTT client"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c9096b988f948ca0326bb22be766bb3f", 
+    "uri": "http://clojurewerkz.org/", 
+    "title": "Clojure libraries for MongoDB, RabbitMQ, validations, Neo4J, ElasticSearch, Apache Cassandra, Riak, Memcached, stream processing  and more"
 }
