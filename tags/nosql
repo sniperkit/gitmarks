@@ -10,4 +10,10 @@
     "hash": "ad6a937e9050287dcc761786f06c9053", 
     "uri": "http://clojurecassandra.info/", 
     "title": "Cassaforte, a modern Clojure client for Apache Cassandra"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3d42234cfaff50b5538a58f94929ab1", 
+    "uri": "http://clojuremongodb.info/", 
+    "title": "Monger, a MongoDB Clojure client for a more civilized age | MongoDB library for Clojure"
 }
