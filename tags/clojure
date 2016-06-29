@@ -1216,4 +1216,10 @@
     "hash": "afbdfffffd0f9b6d58540bd60fec6465", 
     "uri": "https://github.com/semperos/clj-webdriver", 
     "title": "GitHub - semperos/clj-webdriver: Clojure API for Selenium-WebDriver"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d397c857fa0d46734dbf74d6ebeb0af4", 
+    "uri": "https://github.com/clojure/tools.trace", 
+    "title": "GitHub - clojure/tools.trace: 1.3 update of clojure.contrib.trace"
 }
