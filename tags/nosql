@@ -22,4 +22,10 @@
     "hash": "a3645e7cb66d34a3bf4ec209049d542f", 
     "uri": "https://github.com/aboekhoff/congomongo", 
     "title": "GitHub - aboekhoff/congomongo: Clojure wrapper for the mongo-db java api"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3b85bd3ba275d870f748ab8afee0c4da", 
+    "uri": "https://github.com/MSOpenTech/redis", 
+    "title": "GitHub - MSOpenTech/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes"
 }
