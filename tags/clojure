@@ -1180,4 +1180,10 @@
     "hash": "46c49679b707093b83d49e610aa5f719", 
     "uri": "http://clojure.github.io/clojure/clojure.test-api.html", 
     "title": "clojure.test - Clojure v1.8 API documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8c5d0a2b4034a521817b351fa908b002", 
+    "uri": "https://github.com/marick/Midje", 
+    "title": "GitHub - marick/Midje: Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing"
 }
