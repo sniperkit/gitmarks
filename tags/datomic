@@ -22,4 +22,10 @@
     "hash": "6130fc8bb566d28e7f6f59d9568bf791", 
     "uri": "https://www.infoq.com/presentations/Datomic-Database-Value", 
     "title": "The Database as a Value"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59fda0434bd1596b2a42286cf7df0a87", 
+    "uri": "http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/", 
+    "title": "Conversations with Datomic Part 2 - Squid's Blog"
 }

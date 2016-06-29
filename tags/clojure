@@ -982,4 +982,10 @@
     "hash": "e54c7696157a18c9afff4bc89da7ee88", 
     "uri": "https://github.com/ptaoussanis/nippy", 
     "title": "GitHub - ptaoussanis/nippy: High-performance serialization library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59fda0434bd1596b2a42286cf7df0a87", 
+    "uri": "http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/", 
+    "title": "Conversations with Datomic Part 2 - Squid's Blog"
 }
