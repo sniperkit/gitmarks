@@ -34,4 +34,10 @@
     "hash": "8c5d0a2b4034a521817b351fa908b002", 
     "uri": "https://github.com/marick/Midje", 
     "title": "GitHub - marick/Midje: Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "89336e9accc46144a649b3c4a2f5c234", 
+    "uri": "https://github.com/clojure/test.generative", 
+    "title": "GitHub - clojure/test.generative"
 }
