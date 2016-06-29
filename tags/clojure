@@ -1078,4 +1078,10 @@
     "hash": "950316b7d326148db706376a5a386052", 
     "uri": "https://github.com/weavejester/hiccup/", 
     "title": "GitHub - weavejester/hiccup: Fast library for rendering HTML in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fcc4219c23f4be9dc79b8af5780574e6", 
+    "uri": "https://github.com/yogthos/markdown-clj", 
+    "title": "GitHub - yogthos/markdown-clj: Markdown parser in Clojure"
 }
