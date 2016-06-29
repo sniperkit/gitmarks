@@ -964,4 +964,10 @@
     "hash": "e3d42234cfaff50b5538a58f94929ab1", 
     "uri": "http://clojuremongodb.info/", 
     "title": "Monger, a MongoDB Clojure client for a more civilized age | MongoDB library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a3645e7cb66d34a3bf4ec209049d542f", 
+    "uri": "https://github.com/aboekhoff/congomongo", 
+    "title": "GitHub - aboekhoff/congomongo: Clojure wrapper for the mongo-db java api"
 }
