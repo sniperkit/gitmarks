@@ -1054,4 +1054,10 @@
     "hash": "8f1b14c0f303e1fb65c85e9fec1347e9", 
     "uri": "https://github.com/ericnormand/playnice", 
     "title": "GitHub - ericnormand/playnice: A Clojure library to help build HTTP compliant servers."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "37764364049ab9af209655459ab1b075", 
+    "uri": "https://github.com/swannodette/enlive-tutorial", 
+    "title": "GitHub - swannodette/enlive-tutorial: An Easy Introduction to Enlive"
 }
