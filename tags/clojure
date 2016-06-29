@@ -1072,4 +1072,10 @@
     "hash": "4042047408920ba5be637597796197c6", 
     "uri": "https://github.com/yogthos/Selmer", 
     "title": "GitHub - yogthos/Selmer: A fast, Django inspired template system in Clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "950316b7d326148db706376a5a386052", 
+    "uri": "https://github.com/weavejester/hiccup/", 
+    "title": "GitHub - weavejester/hiccup: Fast library for rendering HTML in Clojure"
 }
