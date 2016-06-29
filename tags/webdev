@@ -70,4 +70,10 @@
     "hash": "37764364049ab9af209655459ab1b075", 
     "uri": "https://github.com/swannodette/enlive-tutorial", 
     "title": "GitHub - swannodette/enlive-tutorial: An Easy Introduction to Enlive"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4042047408920ba5be637597796197c6", 
+    "uri": "https://github.com/yogthos/Selmer", 
+    "title": "GitHub - yogthos/Selmer: A fast, Django inspired template system in Clojure."
 }

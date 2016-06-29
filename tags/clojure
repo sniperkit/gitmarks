@@ -1066,4 +1066,10 @@
     "hash": "87c2ece515111bd58a9bd6663737f107", 
     "uri": "http://ericsomdahl.github.io/posts/2015-03-07-gevents1.html", 
     "title": "(defthoughts): Clojure web scraping with Enlive"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4042047408920ba5be637597796197c6", 
+    "uri": "https://github.com/yogthos/Selmer", 
+    "title": "GitHub - yogthos/Selmer: A fast, Django inspired template system in Clojure."
 }
