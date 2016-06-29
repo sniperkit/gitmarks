@@ -934,4 +934,10 @@
     "hash": "fd29efbf39cec6245984d56c45837709", 
     "uri": "https://github.com/clojure/java.jdbc", 
     "title": "GitHub - clojure/java.jdbc: JDBC from Clojure (formerly clojure.contrib.sql)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "53ab73ca788e6c4df39740b674a2a08e", 
+    "uri": "https://github.com/tomekw/hikari-cp", 
+    "title": "GitHub - tomekw/hikari-cp: A Clojure wrapper to HikariCP JDBC connection pool"
 }
