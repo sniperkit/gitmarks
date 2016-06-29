@@ -1084,4 +1084,10 @@
     "hash": "fcc4219c23f4be9dc79b8af5780574e6", 
     "uri": "https://github.com/yogthos/markdown-clj", 
     "title": "GitHub - yogthos/markdown-clj: Markdown parser in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b1100f53f70bc5b555675ff90529a1e1", 
+    "uri": "https://github.com/circleci/lein-jarbin", 
+    "title": "GitHub - circleci/lein-jarbin"
 }
