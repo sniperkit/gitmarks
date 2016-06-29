@@ -976,4 +976,10 @@
     "hash": "ca2fbe245b12c54cb49c533bbc1ce2fb", 
     "uri": "https://github.com/ptaoussanis/carmine", 
     "title": "GitHub - ptaoussanis/carmine: Redis client and message queue for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e54c7696157a18c9afff4bc89da7ee88", 
+    "uri": "https://github.com/ptaoussanis/nippy", 
+    "title": "GitHub - ptaoussanis/nippy: High-performance serialization library for Clojure"
 }
