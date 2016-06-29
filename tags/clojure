@@ -970,4 +970,10 @@
     "hash": "a3645e7cb66d34a3bf4ec209049d542f", 
     "uri": "https://github.com/aboekhoff/congomongo", 
     "title": "GitHub - aboekhoff/congomongo: Clojure wrapper for the mongo-db java api"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca2fbe245b12c54cb49c533bbc1ce2fb", 
+    "uri": "https://github.com/ptaoussanis/carmine", 
+    "title": "GitHub - ptaoussanis/carmine: Redis client and message queue for Clojure"
 }

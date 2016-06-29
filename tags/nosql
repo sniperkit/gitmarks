@@ -28,4 +28,10 @@
     "hash": "3b85bd3ba275d870f748ab8afee0c4da", 
     "uri": "https://github.com/MSOpenTech/redis", 
     "title": "GitHub - MSOpenTech/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca2fbe245b12c54cb49c533bbc1ce2fb", 
+    "uri": "https://github.com/ptaoussanis/carmine", 
+    "title": "GitHub - ptaoussanis/carmine: Redis client and message queue for Clojure"
 }
