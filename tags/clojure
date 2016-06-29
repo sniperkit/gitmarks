@@ -1042,4 +1042,10 @@
     "hash": "4d46296e323c17cd445136255e18e92f", 
     "uri": "https://github.com/cgrand/moustache", 
     "title": "GitHub - cgrand/moustache: a micro web framework/internal DSL to wire Ring handlers and middlewares"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e4f303ca41553d2d522237af79ffd6e2", 
+    "uri": "https://github.com/weavejester/clout", 
+    "title": "GitHub - weavejester/clout: HTTP route-matching library for Clojure"
 }
