@@ -1018,4 +1018,10 @@
     "hash": "f04a9f049051d21553ecc1b5c766b187", 
     "uri": "https://github.com/ring-clojure/ring/wiki/Sessions", 
     "title": "Sessions \u00b7 ring-clojure/ring Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bf0c410c4a926fc3c7af5209cd481394", 
+    "uri": "https://github.com/weavejester/compojure", 
+    "title": "GitHub - weavejester/compojure: A concise routing library for Ring/Clojure"
 }
