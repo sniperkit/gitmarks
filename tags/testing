@@ -22,4 +22,10 @@
     "hash": "e955e1dd72514d578bd2782af923a36e", 
     "uri": "https://github.com/Datomic/simulant/wiki", 
     "title": "Home \u00b7 Datomic/simulant Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46c49679b707093b83d49e610aa5f719", 
+    "uri": "http://clojure.github.io/clojure/clojure.test-api.html", 
+    "title": "clojure.test - Clojure v1.8 API documentation"
 }

@@ -1174,4 +1174,10 @@
     "hash": "e5bbb326ae1cbc774c00b658c16bc852", 
     "uri": "https://github.com/nathanmarz/cascalog/tree/develop/cascalog-checkpoint", 
     "title": "cascalog/cascalog-checkpoint at develop \u00b7 nathanmarz/cascalog \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46c49679b707093b83d49e610aa5f719", 
+    "uri": "http://clojure.github.io/clojure/clojure.test-api.html", 
+    "title": "clojure.test - Clojure v1.8 API documentation"
 }
