@@ -100,4 +100,10 @@
     "hash": "954c8d404280d2a73ff71093e7ae4f5f", 
     "uri": "http://ianrumford.github.io/blog/2012/09/29/using-cascalog-for-extract-transform-and-load/", 
     "title": "Using Cascalog for extract transform and load - An Ostler in IT"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "465e37e58223a4c33b0d356ee0846ac5", 
+    "uri": "https://github.com/clojure/core.typed/wiki/User-Guide", 
+    "title": "User Guide \u00b7 clojure/core.typed Wiki \u00b7 GitHub"
 }

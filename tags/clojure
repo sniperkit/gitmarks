@@ -1228,4 +1228,10 @@
     "hash": "1666391700957d5a6d9944ffccd7fff9", 
     "uri": "https://github.com/clojure-cookbook/clojure-cookbook/tree/master/10_testing", 
     "title": "clojure-cookbook/10_testing at master \u00b7 clojure-cookbook/clojure-cookbook \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "465e37e58223a4c33b0d356ee0846ac5", 
+    "uri": "https://github.com/clojure/core.typed/wiki/User-Guide", 
+    "title": "User Guide \u00b7 clojure/core.typed Wiki \u00b7 GitHub"
 }
