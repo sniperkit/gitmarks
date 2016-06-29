@@ -916,4 +916,10 @@
     "hash": "c2ea9c05f1fa67d129b2f123d8608487", 
     "uri": "https://github.com/lynaghk/zmq-async", 
     "title": "GitHub - lynaghk/zmq-async: Threadsafe Clojure core.async interface to ZeroMQ"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "214b61c49f67dc641fdcc7f955e86303", 
+    "uri": "http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html", 
+    "title": "Clojure :: Clojure core.async Channels"
 }

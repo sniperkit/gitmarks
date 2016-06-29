@@ -4,4 +4,10 @@
     "hash": "07cbff86b4733259945257fdf8c385cc", 
     "uri": "http://hypirion.com/musings/transducers-to-conduits-and-back", 
     "title": "polymatheia - From Transducers to Conduits and Back Again"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "214b61c49f67dc641fdcc7f955e86303", 
+    "uri": "http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html", 
+    "title": "Clojure :: Clojure core.async Channels"
 }
