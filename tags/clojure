@@ -1144,4 +1144,10 @@
     "hash": "ae99c6b8a77383ba47a37b77d7066e1d", 
     "uri": "http://cascalog.org/", 
     "title": "Cascalog | Data processing on Hadoop without the hassle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9eef51483d8cc31ca622378351952b2a", 
+    "uri": "https://github.com/travis/lein-storm-project-template", 
+    "title": "GitHub - travis/lein-storm-project-template: a leiningen template for creating new storm projects"
 }

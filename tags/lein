@@ -16,4 +16,10 @@
     "hash": "b1100f53f70bc5b555675ff90529a1e1", 
     "uri": "https://github.com/circleci/lein-jarbin", 
     "title": "GitHub - circleci/lein-jarbin"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9eef51483d8cc31ca622378351952b2a", 
+    "uri": "https://github.com/travis/lein-storm-project-template", 
+    "title": "GitHub - travis/lein-storm-project-template: a leiningen template for creating new storm projects"
 }
