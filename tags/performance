@@ -34,4 +34,10 @@
     "hash": "ef32ff118aced39a481192ad4cc7e53e", 
     "uri": "https://gist.github.com/w01fe/7132440", 
     "title": "hiphip benchmarks \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c3d9e40c5af0e3c255ba569f86dae4ac", 
+    "uri": "https://github.com/ztellman/vertigo", 
+    "title": "GitHub - ztellman/vertigo: heterogeneous structs for clojure"
 }
