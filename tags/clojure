@@ -1168,4 +1168,10 @@
     "hash": "954c8d404280d2a73ff71093e7ae4f5f", 
     "uri": "http://ianrumford.github.io/blog/2012/09/29/using-cascalog-for-extract-transform-and-load/", 
     "title": "Using Cascalog for extract transform and load - An Ostler in IT"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e5bbb326ae1cbc774c00b658c16bc852", 
+    "uri": "https://github.com/nathanmarz/cascalog/tree/develop/cascalog-checkpoint", 
+    "title": "cascalog/cascalog-checkpoint at develop \u00b7 nathanmarz/cascalog \u00b7 GitHub"
 }
