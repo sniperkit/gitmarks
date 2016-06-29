@@ -988,4 +988,10 @@
     "hash": "59fda0434bd1596b2a42286cf7df0a87", 
     "uri": "http://gigasquidsoftware.com/blog/2015/08/19/conversations-with-datomic-part-2/", 
     "title": "Conversations with Datomic Part 2 - Squid's Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eb007c8ca4dbd3dfe7fc29b11608c2f5", 
+    "uri": "http://docs.datomic.com/best-practices.html", 
+    "title": "Datomic Best Practices | Datomic"
 }
