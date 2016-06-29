@@ -1132,4 +1132,10 @@
     "hash": "8d6e81121027edc9a3be1f0db1af4039", 
     "uri": "https://github.com/plumatic/schema", 
     "title": "GitHub - plumatic/schema: Clojure(Script) library for declarative data description and validation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2ff1f43ca9ac7e92a9f1a085c9b7e915", 
+    "uri": "https://github.com/clojure/tools.logging/blob/master/README.md", 
+    "title": "tools.logging/README.md at master \u00b7 clojure/tools.logging \u00b7 GitHub"
 }
