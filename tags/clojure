@@ -880,4 +880,10 @@
     "hash": "f1a504e414e3e18dfaf9e278f0179401", 
     "uri": "http://www.http-kit.org/", 
     "title": "Home | http-kit, high performance HTTP Client/Server for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c1198ad38b5fd75f071e3441c2856ac9", 
+    "uri": "https://github.com/scsibug/feedparser-clj", 
+    "title": "GitHub - scsibug/feedparser-clj: Atom/RSS Feed Parsing for Clojure"
 }
