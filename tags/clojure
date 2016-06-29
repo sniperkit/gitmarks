@@ -1156,4 +1156,10 @@
     "hash": "a8f9c70ea92bfcf4ed6565ce29faf328", 
     "uri": "https://github.com/clojure-cookbook/cascalog-samples", 
     "title": "GitHub - clojure-cookbook/cascalog-samples: Cascalog samples for the Distributed Computing chapter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef3429fd97025ade8ddda3747b621bfc", 
+    "uri": "http://nathanmarz.com/blog/introducing-cascalog-a-clojure-based-query-language-for-hado.html", 
+    "title": "Introducing Cascalog: a Clojure-based query language for&nbsp;Hadoop - thoughts from the red planet - thoughts from the red planet"
 }

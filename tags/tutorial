@@ -88,4 +88,10 @@
     "hash": "63e3d7a72176556af6e1f0ec3063a092", 
     "uri": "http://jakemccrary.com/blog/2010/12/06/trampolining-through-mutual-recursion/", 
     "title": "Access denied | jakemccrary.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef3429fd97025ade8ddda3747b621bfc", 
+    "uri": "http://nathanmarz.com/blog/introducing-cascalog-a-clojure-based-query-language-for-hado.html", 
+    "title": "Introducing Cascalog: a Clojure-based query language for&nbsp;Hadoop - thoughts from the red planet - thoughts from the red planet"
 }
