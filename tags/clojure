@@ -892,4 +892,10 @@
     "hash": "78551ea19ae13758d5ad6dd53c44f942", 
     "uri": "https://github.com/drewr/postal", 
     "title": "GitHub - drewr/postal: Clojure email support"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b7be34843a92dc5dd696171e5dbddfa5", 
+    "uri": "http://clojurerabbitmq.info/", 
+    "title": "Langohr, an idiomatic Clojure RabbitMQ client | Clojure AMQP 0.9.1 client"
 }
