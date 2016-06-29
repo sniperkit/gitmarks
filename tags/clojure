@@ -1000,4 +1000,10 @@
     "hash": "e49ca93c0060fb450df2c3c08b750a09", 
     "uri": "http://www.datomic.com/training.html", 
     "title": "Training - Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b6bf8375823ed8b41ffd6b609d273a89", 
+    "uri": "https://github.com/ctford/vim-fireplace-easy", 
+    "title": "GitHub - ctford/vim-fireplace-easy: A simple setup for getting started with Clojure and Vim."
 }

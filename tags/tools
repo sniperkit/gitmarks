@@ -214,4 +214,10 @@
     "hash": "60752f0a8d2b8470f409283a4caecc8d", 
     "uri": "https://github.com/yogthos/clj-pdf", 
     "title": "GitHub - yogthos/clj-pdf: PDF generation library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b6bf8375823ed8b41ffd6b609d273a89", 
+    "uri": "https://github.com/ctford/vim-fireplace-easy", 
+    "title": "GitHub - ctford/vim-fireplace-easy: A simple setup for getting started with Clojure and Vim."
 }
