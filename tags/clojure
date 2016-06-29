@@ -1150,4 +1150,10 @@
     "hash": "9eef51483d8cc31ca622378351952b2a", 
     "uri": "https://github.com/travis/lein-storm-project-template", 
     "title": "GitHub - travis/lein-storm-project-template: a leiningen template for creating new storm projects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a8f9c70ea92bfcf4ed6565ce29faf328", 
+    "uri": "https://github.com/clojure-cookbook/cascalog-samples", 
+    "title": "GitHub - clojure-cookbook/cascalog-samples: Cascalog samples for the Distributed Computing chapter"
 }
