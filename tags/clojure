@@ -1210,4 +1210,10 @@
     "hash": "e83366e05717d65c7665a27ba2497263", 
     "uri": "https://github.com/semperos/clj-webdriver/wiki", 
     "title": "Home \u00b7 semperos/clj-webdriver Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "afbdfffffd0f9b6d58540bd60fec6465", 
+    "uri": "https://github.com/semperos/clj-webdriver", 
+    "title": "GitHub - semperos/clj-webdriver: Clojure API for Selenium-WebDriver"
 }
