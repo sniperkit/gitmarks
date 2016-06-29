@@ -1138,4 +1138,10 @@
     "hash": "2ff1f43ca9ac7e92a9f1a085c9b7e915", 
     "uri": "https://github.com/clojure/tools.logging/blob/master/README.md", 
     "title": "tools.logging/README.md at master \u00b7 clojure/tools.logging \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ae99c6b8a77383ba47a37b77d7066e1d", 
+    "uri": "http://cascalog.org/", 
+    "title": "Cascalog | Data processing on Hadoop without the hassle"
 }
