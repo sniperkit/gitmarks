@@ -946,4 +946,10 @@
     "hash": "4b2bc9c0b6d9ad99df0db44cd4c8fa38", 
     "uri": "https://github.com/weavejester/clucy", 
     "title": "GitHub - weavejester/clucy: Clojure interface to Lucene"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef20643ebd4f977ae41c9bca77695775", 
+    "uri": "http://clojureelasticsearch.info/", 
+    "title": "Elastisch, a minimalistic Clojure client for ElasticSearch | ElasticSearch Clojure client"
 }
