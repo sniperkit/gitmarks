@@ -226,4 +226,10 @@
     "hash": "d1f082a37fd6a9cd97a27b45632eb9ba", 
     "uri": "https://github.com/hugoduncan/criterium", 
     "title": "GitHub - hugoduncan/criterium: Benchmarking library for clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef32ff118aced39a481192ad4cc7e53e", 
+    "uri": "https://gist.github.com/w01fe/7132440", 
+    "title": "hiphip benchmarks \u00b7 GitHub"
 }

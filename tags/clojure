@@ -1108,4 +1108,10 @@
     "hash": "d6c819d1d1141f691afc92cf118b7700", 
     "uri": "https://github.com/plumatic/hiphip", 
     "title": "GitHub - plumatic/hiphip: hiphip (array)! simple, performant array manipulation in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef32ff118aced39a481192ad4cc7e53e", 
+    "uri": "https://gist.github.com/w01fe/7132440", 
+    "title": "hiphip benchmarks \u00b7 GitHub"
 }
