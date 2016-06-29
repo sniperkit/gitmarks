@@ -1036,4 +1036,10 @@
     "hash": "4ee1b26873d192f2d0b588711d8c49c2", 
     "uri": "https://github.com/clojure-liberator/liberator", 
     "title": "GitHub - clojure-liberator/liberator: Liberator is a Clojure library for building RESTful applications."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4d46296e323c17cd445136255e18e92f", 
+    "uri": "https://github.com/cgrand/moustache", 
+    "title": "GitHub - cgrand/moustache: a micro web framework/internal DSL to wire Ring handlers and middlewares"
 }
