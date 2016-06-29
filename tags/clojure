@@ -928,4 +928,10 @@
     "hash": "14ad1e429162546b01cc7c59dd47433e", 
     "uri": "https://www.youtube.com/watch?v=ROor6_NGIWU", 
     "title": "The Language of the System - Rich Hickey - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fd29efbf39cec6245984d56c45837709", 
+    "uri": "https://github.com/clojure/java.jdbc", 
+    "title": "GitHub - clojure/java.jdbc: JDBC from Clojure (formerly clojure.contrib.sql)"
 }
