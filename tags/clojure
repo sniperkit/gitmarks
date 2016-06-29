@@ -862,4 +862,10 @@
     "hash": "60752f0a8d2b8470f409283a4caecc8d", 
     "uri": "https://github.com/yogthos/clj-pdf", 
     "title": "GitHub - yogthos/clj-pdf: PDF generation library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3717e030150c6b1bdd6caa8391846866", 
+    "uri": "https://github.com/dakrone/clj-http", 
+    "title": "GitHub - dakrone/clj-http: An idiomatic clojure http client wrapping the apache client. Offically supported version."
 }
