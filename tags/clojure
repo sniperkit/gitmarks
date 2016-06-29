@@ -1024,4 +1024,10 @@
     "hash": "bf0c410c4a926fc3c7af5209cd481394", 
     "uri": "https://github.com/weavejester/compojure", 
     "title": "GitHub - weavejester/compojure: A concise routing library for Ring/Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0fdf27a9616e68dba4521cbb8de53327", 
+    "uri": "http://blog.jayfields.com/2010/07/clojure-destructuring.html", 
+    "title": "Jay Fields' Thoughts: Clojure: Destructuring"
 }
