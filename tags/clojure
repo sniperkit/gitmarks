@@ -1222,4 +1222,10 @@
     "hash": "d397c857fa0d46734dbf74d6ebeb0af4", 
     "uri": "https://github.com/clojure/tools.trace", 
     "title": "GitHub - clojure/tools.trace: 1.3 update of clojure.contrib.trace"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1666391700957d5a6d9944ffccd7fff9", 
+    "uri": "https://github.com/clojure-cookbook/clojure-cookbook/tree/master/10_testing", 
+    "title": "clojure-cookbook/10_testing at master \u00b7 clojure-cookbook/clojure-cookbook \u00b7 GitHub"
 }

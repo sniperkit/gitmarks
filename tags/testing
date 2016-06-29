@@ -64,4 +64,10 @@
     "hash": "afbdfffffd0f9b6d58540bd60fec6465", 
     "uri": "https://github.com/semperos/clj-webdriver", 
     "title": "GitHub - semperos/clj-webdriver: Clojure API for Selenium-WebDriver"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1666391700957d5a6d9944ffccd7fff9", 
+    "uri": "https://github.com/clojure-cookbook/clojure-cookbook/tree/master/10_testing", 
+    "title": "clojure-cookbook/10_testing at master \u00b7 clojure-cookbook/clojure-cookbook \u00b7 GitHub"
 }
