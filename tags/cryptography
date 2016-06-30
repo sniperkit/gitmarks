@@ -160,4 +160,10 @@
     "hash": "7edf2427859724fa5ba88b886d67b556", 
     "uri": "https://help.github.com/articles/generating-an-ssh-key/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4b0c0bdfb485b7ca628a9a890129b8d5", 
+    "uri": "https://github.com/gluk256/misc/blob/master/encryption/randomization.md", 
+    "title": "misc/randomization.md at master \u00b7 gluk256/misc \u00b7 GitHub"
 }
