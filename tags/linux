@@ -70,4 +70,10 @@
     "hash": "a48335f15a47b7ca18e258d2f693bce3", 
     "uri": "https://www.gnu.org/software/gawk/manual/gawk.html", 
     "title": "The GNU Awk User&rsquo;s Guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03008f5554aeb9d40a0cbcc0653ddec5", 
+    "uri": "http://www.cs.columbia.edu/~tal/3261/fall07/handout/egrep_mini-tutorial.htm", 
+    "title": "egrep mini-tutorial"
 }
