@@ -250,4 +250,10 @@
     "hash": "d397c857fa0d46734dbf74d6ebeb0af4", 
     "uri": "https://github.com/clojure/tools.trace", 
     "title": "GitHub - clojure/tools.trace: 1.3 update of clojure.contrib.trace"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a48335f15a47b7ca18e258d2f693bce3", 
+    "uri": "https://www.gnu.org/software/gawk/manual/gawk.html", 
+    "title": "The GNU Awk User&rsquo;s Guide"
 }
