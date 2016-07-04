@@ -220,4 +220,10 @@
     "hash": "58d3f00f2e525badb1f99ee85dd0044d", 
     "uri": "https://github.com/laginimaineb/ExtractKeyMaster", 
     "title": "GitHub - laginimaineb/ExtractKeyMaster: Exploit that extracts Qualcomm&#39;s KeyMaster keys using CVE-2015-6639 and CVE-2016-2431"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eee1e415c2a4f69aa8375230b8c21be7", 
+    "uri": "https://github.com/laginimaineb/android_fde_bruteforce", 
+    "title": "GitHub - laginimaineb/android_fde_bruteforce: Scripts to bruteforce Android&#39;s Full Disk Encryption off the device"
 }
