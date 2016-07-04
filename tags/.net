@@ -106,4 +106,10 @@
     "hash": "c467fef43cf7f670bb222d11b3f20db3", 
     "uri": "https://github.com/arcadia-unity", 
     "title": "Arcadia \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cfcc8a17454e703353cb73eed0fb186d", 
+    "uri": "https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0/", 
+    "title": "Announcing .NET Core 1.0 | .NET Blog"
 }

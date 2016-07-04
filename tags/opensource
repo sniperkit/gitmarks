@@ -106,4 +106,10 @@
     "hash": "ae8cfbbf648dad2bd150b7e3d07cf48b", 
     "uri": "https://www.graylog.org/", 
     "title": "Graylog | Open Source Log Management"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cfcc8a17454e703353cb73eed0fb186d", 
+    "uri": "https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0/", 
+    "title": "Announcing .NET Core 1.0 | .NET Blog"
 }
