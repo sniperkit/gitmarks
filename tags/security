@@ -196,4 +196,10 @@
     "hash": "8c0836c4a005295375e63e4f3ea04465", 
     "uri": "http://bits-please.blogspot.nl/2016/06/extracting-qualcomms-keymaster-keys.html", 
     "title": "Bits, Please!: Extracting Qualcomm's KeyMaster Keys - Breaking Android Full Disk Encryption"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "58d3f00f2e525badb1f99ee85dd0044d", 
+    "uri": "https://github.com/laginimaineb/ExtractKeyMaster", 
+    "title": "GitHub - laginimaineb/ExtractKeyMaster: Exploit that extracts Qualcomm&#39;s KeyMaster keys using CVE-2015-6639 and CVE-2016-2431"
 }
