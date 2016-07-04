@@ -100,4 +100,10 @@
     "hash": "c5ff857cd659f77aeb0c8bf2f4c25437", 
     "uri": "https://en.wikibooks.org/wiki/Goldbug", 
     "title": "Goldbug - Wikibooks, open books for an open world"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ae8cfbbf648dad2bd150b7e3d07cf48b", 
+    "uri": "https://www.graylog.org/", 
+    "title": "Graylog | Open Source Log Management"
 }
