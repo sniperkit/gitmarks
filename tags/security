@@ -190,4 +190,10 @@
     "hash": "d473e350a4f81dc341687f8b0644c070", 
     "uri": "https://groups.google.com/forum/message/raw?msg=alt.privacy.anon-server/6Wi2iYiww4I/M99otqs0PwcJ", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8c0836c4a005295375e63e4f3ea04465", 
+    "uri": "http://bits-please.blogspot.nl/2016/06/extracting-qualcomms-keymaster-keys.html", 
+    "title": "Bits, Please!: Extracting Qualcomm's KeyMaster Keys - Breaking Android Full Disk Encryption"
 }

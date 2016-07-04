@@ -208,4 +208,10 @@
     "hash": "02d4183cf4f914b248f4be47658c711b", 
     "uri": "http://www.androidcentral.com/stagefright", 
     "title": "Android 'Stagefright' exploit: What you need to know | Android Central"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8c0836c4a005295375e63e4f3ea04465", 
+    "uri": "http://bits-please.blogspot.nl/2016/06/extracting-qualcomms-keymaster-keys.html", 
+    "title": "Bits, Please!: Extracting Qualcomm's KeyMaster Keys - Breaking Android Full Disk Encryption"
 }
