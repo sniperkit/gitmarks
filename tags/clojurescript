@@ -244,4 +244,10 @@
     "hash": "8778f4565d324f9c6d7bef1d06654131", 
     "uri": "https://github.com/clojure/clojurescript/wiki/Quick-Start", 
     "title": "Quick Start \u00b7 clojure/clojurescript Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "92add1db84e8bea0e30cad876f2e6135", 
+    "uri": "https://github.com/reagent-project/reagent-cookbook/", 
+    "title": "GitHub - reagent-project/reagent-cookbook: Examples of how to accomplish specific tasks in a Reagent webapp."
 }
