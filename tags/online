@@ -4,4 +4,10 @@
     "hash": "135f2defa5f576271d35f8a129f5b8b7", 
     "uri": "http://www.gigamonkeys.com/book/syntax-and-semantics.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59446bfb42b6334bdda8b30dd5e26767", 
+    "uri": "http://www.ccs.neu.edu/home/matthias/HtDP2e/", 
+    "title": "How to Design Programs, Second Edition"
 }

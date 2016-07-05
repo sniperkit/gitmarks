@@ -202,4 +202,10 @@
     "hash": "fdce009f4190d5bc2dd77c1fab8cc4f0", 
     "uri": "http://bookzz.org/", 
     "title": "Electronic library. Download books free. Finding books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59446bfb42b6334bdda8b30dd5e26767", 
+    "uri": "http://www.ccs.neu.edu/home/matthias/HtDP2e/", 
+    "title": "How to Design Programs, Second Edition"
 }

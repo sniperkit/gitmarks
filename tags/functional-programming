@@ -568,4 +568,10 @@
     "hash": "9591bfd9d17be2f6108c4531db21e81f", 
     "uri": "http://raganwald.com/2014/12/20/why-why-functional-programming-matters-matters.html", 
     "title": "Why Why Functional Programming Matters Matters"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59446bfb42b6334bdda8b30dd5e26767", 
+    "uri": "http://www.ccs.neu.edu/home/matthias/HtDP2e/", 
+    "title": "How to Design Programs, Second Edition"
 }
