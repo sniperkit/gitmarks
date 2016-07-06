@@ -1234,4 +1234,10 @@
     "hash": "465e37e58223a4c33b0d356ee0846ac5", 
     "uri": "https://github.com/clojure/core.typed/wiki/User-Guide", 
     "title": "User Guide \u00b7 clojure/core.typed Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "736d4cc9a8c162a941c15a2b11f7262f", 
+    "uri": "https://juxt.pro/blog/posts/edge.html", 
+    "title": "Edge"
 }
