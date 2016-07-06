@@ -34,4 +34,10 @@
     "hash": "736d4cc9a8c162a941c15a2b11f7262f", 
     "uri": "https://juxt.pro/blog/posts/edge.html", 
     "title": "Edge"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f6e688c3c339f68940798a473b47f0a", 
+    "uri": "https://github.com/juxt/edge", 
+    "title": "GitHub - juxt/edge: The (b)leading edge"
 }
