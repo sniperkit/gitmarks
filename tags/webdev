@@ -88,4 +88,10 @@
     "hash": "fcc4219c23f4be9dc79b8af5780574e6", 
     "uri": "https://github.com/yogthos/markdown-clj", 
     "title": "GitHub - yogthos/markdown-clj: Markdown parser in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7a3f697b94b74034beac48416c52ac9b", 
+    "uri": "https://www.hypercomments.com/", 
+    "title": "HyperComments - Realtime comments system"
 }
