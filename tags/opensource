@@ -112,4 +112,10 @@
     "hash": "cfcc8a17454e703353cb73eed0fb186d", 
     "uri": "https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0/", 
     "title": "Announcing .NET Core 1.0 | .NET Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bf8b7681728d1c31cb3e7376190d73eb", 
+    "uri": "http://erl.nfshost.com/static/euler.uberdoc.html", 
+    "title": "About SyntaxHighlighter"
 }
