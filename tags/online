@@ -10,4 +10,10 @@
     "hash": "59446bfb42b6334bdda8b30dd5e26767", 
     "uri": "http://www.ccs.neu.edu/home/matthias/HtDP2e/", 
     "title": "How to Design Programs, Second Edition"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "45a436c38d5aabbaf8cb5414f26cf0cb", 
+    "uri": "http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html", 
+    "title": "Code Like a Pythonista: Idiomatic Python"
 }

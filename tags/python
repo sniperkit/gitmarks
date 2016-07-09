@@ -64,4 +64,10 @@
     "hash": "cb8fed4a2bcc83370ba4a951946e1884", 
     "uri": "http://norvig.com/sudoku.html", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "45a436c38d5aabbaf8cb5414f26cf0cb", 
+    "uri": "http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html", 
+    "title": "Code Like a Pythonista: Idiomatic Python"
 }

@@ -220,4 +220,10 @@
     "hash": "863fbe72cb33710efd04d22881e58ba8", 
     "uri": "http://www.network-theory.co.uk/", 
     "title": "Network Theory Ltd"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "45a436c38d5aabbaf8cb5414f26cf0cb", 
+    "uri": "http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html", 
+    "title": "Code Like a Pythonista: Idiomatic Python"
 }
