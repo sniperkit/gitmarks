@@ -208,4 +208,10 @@
     "hash": "b75f4ccb4af6fcb2916a0bbcf784fb47", 
     "uri": "https://threatpost.com/android-keystore-encryption-scheme-broken-researchers-say/119092/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2e71e7e10cd51686c0365ee69f1712da", 
+    "uri": "http://web.archive.org/web/20131112190634/http://www.nsa.gov/business/programs/elliptic_curve.shtml", 
+    "title": "The Case for Elliptic Curve Cryptography  - NSA/CSS"
 }
