@@ -250,4 +250,10 @@
     "hash": "863fbe72cb33710efd04d22881e58ba8", 
     "uri": "http://www.network-theory.co.uk/", 
     "title": "Network Theory Ltd"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "12f93097e2fc53cc2442c842dfe5de6b", 
+    "uri": "http://artofproblemsolving.com", 
+    "title": "Art of Problem Solving"
 }
