@@ -226,4 +226,10 @@
     "hash": "45a436c38d5aabbaf8cb5414f26cf0cb", 
     "uri": "http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html", 
     "title": "Code Like a Pythonista: Idiomatic Python"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5ecbfa779890d5bb9a911079bda14def", 
+    "uri": "http://wstein.org/edu/2007/spring/ent/ent-html/", 
+    "title": "[No Title]"
 }
