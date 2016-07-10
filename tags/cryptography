@@ -202,4 +202,10 @@
     "hash": "d8682b2978504787820c6c2e87cfbb5f", 
     "uri": "http://thefutureisbright.net/game.php", 
     "title": "TFIB - The Game of Phishing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b75f4ccb4af6fcb2916a0bbcf784fb47", 
+    "uri": "https://threatpost.com/android-keystore-encryption-scheme-broken-researchers-say/119092/", 
+    "title": "403 Forbidden"
 }
