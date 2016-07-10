@@ -268,4 +268,10 @@
     "hash": "ae8cfbbf648dad2bd150b7e3d07cf48b", 
     "uri": "https://www.graylog.org/", 
     "title": "Graylog | Open Source Log Management"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "763bdb87e4b15b33ea0ac0cb91733ff0", 
+    "uri": "https://vivaldi.com/features/", 
+    "title": "Access denied | vivaldi.com used CloudFlare to restrict access"
 }
