@@ -286,4 +286,10 @@
     "hash": "6345a0706fa21734a34bcf85c439a746", 
     "uri": "https://sharpkeys.codeplex.com/", 
     "title": "SharpKeys - Home"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "794e076a354b9c51f78f09d33e437b3f", 
+    "uri": "http://keepass.info/help/v2_dev/plg_index.html", 
+    "title": "Plugin Development - KeePass"
 }

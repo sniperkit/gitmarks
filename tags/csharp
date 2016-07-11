@@ -58,4 +58,10 @@
     "hash": "2ab3c5327c836e3579bcec390cfafc7c", 
     "uri": "https://www.geekbooks.me/tag/view/aspnet", 
     "title": "ASP.NET - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "794e076a354b9c51f78f09d33e437b3f", 
+    "uri": "http://keepass.info/help/v2_dev/plg_index.html", 
+    "title": "Plugin Development - KeePass"
 }
