@@ -220,4 +220,10 @@
     "hash": "9b619e0238217ba44b7378e336422d7d", 
     "uri": "http://www.nytimes.com/2016/06/18/business/dealbook/hacker-may-have-removed-more-than-50-million-from-experimental-cybercurrency-project.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "79c4d81746249962baa416d019130d34", 
+    "uri": "https://github.com/funcool/buddy", 
+    "title": "GitHub - funcool/buddy: Security library for Clojure"
 }

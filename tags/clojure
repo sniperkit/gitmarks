@@ -1258,4 +1258,10 @@
     "hash": "bf8b7681728d1c31cb3e7376190d73eb", 
     "uri": "http://erl.nfshost.com/static/euler.uberdoc.html", 
     "title": "About SyntaxHighlighter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "79c4d81746249962baa416d019130d34", 
+    "uri": "https://github.com/funcool/buddy", 
+    "title": "GitHub - funcool/buddy: Security library for Clojure"
 }
