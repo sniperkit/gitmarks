@@ -256,4 +256,10 @@
     "hash": "12f93097e2fc53cc2442c842dfe5de6b", 
     "uri": "http://artofproblemsolving.com", 
     "title": "Art of Problem Solving"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47b65991e1ed41d39e403d7944a789ef", 
+    "uri": "https://github.com/Chouser/programming-clojure", 
+    "title": "GitHub - Chouser/programming-clojure: Sample code for the book"
 }
