@@ -70,4 +70,10 @@
     "hash": "1666391700957d5a6d9944ffccd7fff9", 
     "uri": "https://github.com/clojure-cookbook/clojure-cookbook/tree/master/10_testing", 
     "title": "clojure-cookbook/10_testing at master \u00b7 clojure-cookbook/clojure-cookbook \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "585a6f1252ae2a177eaba8f780474349", 
+    "uri": "http://garajeando.blogspot.com/2016/07/kata-ohce-in-clojure-using-outside-in.html", 
+    "title": "Garajeando: Kata: Ohce in Clojure using outside-in TDD with Midje"
 }

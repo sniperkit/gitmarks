@@ -1264,4 +1264,10 @@
     "hash": "79c4d81746249962baa416d019130d34", 
     "uri": "https://github.com/funcool/buddy", 
     "title": "GitHub - funcool/buddy: Security library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "585a6f1252ae2a177eaba8f780474349", 
+    "uri": "http://garajeando.blogspot.com/2016/07/kata-ohce-in-clojure-using-outside-in.html", 
+    "title": "Garajeando: Kata: Ohce in Clojure using outside-in TDD with Midje"
 }
