@@ -274,4 +274,10 @@
     "hash": "763bdb87e4b15b33ea0ac0cb91733ff0", 
     "uri": "https://vivaldi.com/features/", 
     "title": "Access denied | vivaldi.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5001523f5c599477fbe538c835756639", 
+    "uri": "https://knowhowlab.gitbooks.io/keepass-maven-plugin/content/", 
+    "title": "Introduction | KeePass Maven plugin"
 }

@@ -226,4 +226,10 @@
     "hash": "79c4d81746249962baa416d019130d34", 
     "uri": "https://github.com/funcool/buddy", 
     "title": "GitHub - funcool/buddy: Security library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5001523f5c599477fbe538c835756639", 
+    "uri": "https://knowhowlab.gitbooks.io/keepass-maven-plugin/content/", 
+    "title": "Introduction | KeePass Maven plugin"
 }
