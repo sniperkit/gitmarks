@@ -16,4 +16,10 @@
     "hash": "919564f2b5a80398fe1a4c5b7d08e6cf", 
     "uri": "https://mitpress.mit.edu/books/little-prover", 
     "title": "The Little Prover | The MIT Press"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d23d3f570911d72a5401d203a834d035", 
+    "uri": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/index.htm", 
+    "title": "Geometric Folding Algorithms: Linkages, Origami, Polyhedra | Electrical Engineering and Computer Science | MIT OpenCourseWare"
 }
