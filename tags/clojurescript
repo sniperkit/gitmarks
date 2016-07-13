@@ -268,4 +268,10 @@
     "hash": "0e6ebb42864a19682576a2ca695d0426", 
     "uri": "http://cljsjs.github.io", 
     "title": "Javascript Libraries packaged for ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ae5583173ba4d2adf927a3326227053f", 
+    "uri": "https://github.com/clojure/clojurescript/wiki/Dependencies", 
+    "title": "Dependencies \u00b7 clojure/clojurescript Wiki \u00b7 GitHub"
 }
