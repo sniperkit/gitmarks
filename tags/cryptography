@@ -214,4 +214,10 @@
     "hash": "2e71e7e10cd51686c0365ee69f1712da", 
     "uri": "http://web.archive.org/web/20131112190634/http://www.nsa.gov/business/programs/elliptic_curve.shtml", 
     "title": "The Case for Elliptic Curve Cryptography  - NSA/CSS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "6fb5c8f790b175e172d19f29c626583d", 
+    "uri": "http://nakamotoinstitute.org/literature/", 
+    "title": "Satoshi Nakamoto Institute"
 }
