@@ -262,4 +262,10 @@
     "hash": "9f6e688c3c339f68940798a473b47f0a", 
     "uri": "https://github.com/juxt/edge", 
     "title": "GitHub - juxt/edge: The (b)leading edge"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0e6ebb42864a19682576a2ca695d0426", 
+    "uri": "http://cljsjs.github.io", 
+    "title": "Javascript Libraries packaged for ClojureScript"
 }
