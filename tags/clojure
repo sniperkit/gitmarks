@@ -1282,4 +1282,10 @@
     "hash": "cd8ff7f4164a2ba0c3b389403e44c751", 
     "uri": "http://briancarper.net/tag/49.html", 
     "title": "briancarper.net (\u03bb) - Tag Origami"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cfd153aea42668e8ffe6e3c18a228ccb", 
+    "uri": "https://devcenter.heroku.com/articles/clojure-web-application", 
+    "title": "Building a Database-Backed Clojure Web Application | Heroku Dev Center"
 }
