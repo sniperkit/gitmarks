@@ -298,4 +298,10 @@
     "hash": "954023eaead6a487f7a9b98f5a02e4d3", 
     "uri": "http://www.techradar.com/us/news/software/the-best-free-monitoring-software-2015-keep-your-children-safe-online-1285347", 
     "title": "The best free keyloggers 2016 | TechRadar"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ba388be19e102b96821c9c364b5aa6c8", 
+    "uri": "https://dnsleaktest.com", 
+    "title": "DNS leak test"
 }
