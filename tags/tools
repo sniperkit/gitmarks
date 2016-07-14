@@ -304,4 +304,10 @@
     "hash": "ba388be19e102b96821c9c364b5aa6c8", 
     "uri": "https://dnsleaktest.com", 
     "title": "DNS leak test"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a037b420573f2a1b3ec04845a0b968a9", 
+    "uri": "https://panopticlick.eff.org", 
+    "title": "Panopticlick"
 }
