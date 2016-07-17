@@ -502,4 +502,10 @@
     "hash": "a23983b069fbf7efa71f4826523d5752", 
     "uri": "https://github.com/adam-s/js-interview-review", 
     "title": "GitHub - adam-s/js-interview-review: The JS interview review. As I&#39;m reviewing several resources I&#39;ve bookmarked on JavaScript development, I&#39;ll share them here."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "50b904e05b6a0cc1fa1dedf12dc2ee67", 
+    "uri": "http://nakkaya.com/2009/04/19/intercepting-links-in-firefox/", 
+    "title": "Intercepting Links in Firefox"
 }

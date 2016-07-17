@@ -310,4 +310,10 @@
     "hash": "5d36545be07b8f31e7a4939704ca9c24", 
     "uri": "http://nakkaya.com/2012/08/20/poor-man-s-vpn-using-ppp-over-ssh/", 
     "title": "Poor man's VPN using PPP over SSH"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "50b904e05b6a0cc1fa1dedf12dc2ee67", 
+    "uri": "http://nakkaya.com/2009/04/19/intercepting-links-in-firefox/", 
+    "title": "Intercepting Links in Firefox"
 }
