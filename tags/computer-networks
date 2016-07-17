@@ -52,4 +52,10 @@
     "hash": "b34307b7f2d50cf0e0935fb7eabac087", 
     "uri": "http://blog.erratasec.com/2015/07/how-to-build-your-own-proxyham.html", 
     "title": "Errata Security: How to build your own ProxyHam"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "590ea3bb573a92ba539780aa9a5db0e1", 
+    "uri": "http://nakkaya.com/2009/09/25/a-guide-to-raw-traffic-in-clojure/", 
+    "title": "A Guide to Raw Traffic in Clojure"
 }
