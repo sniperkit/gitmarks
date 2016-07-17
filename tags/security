@@ -304,4 +304,10 @@
     "hash": "94e95eb633352c150199d729d5687629", 
     "uri": "http://nakkaya.com/makeWay.html", 
     "title": "makeWay"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5d36545be07b8f31e7a4939704ca9c24", 
+    "uri": "http://nakkaya.com/2012/08/20/poor-man-s-vpn-using-ppp-over-ssh/", 
+    "title": "Poor man's VPN using PPP over SSH"
 }
