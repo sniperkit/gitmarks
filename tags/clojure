@@ -1330,4 +1330,10 @@
     "hash": "0ef0ca3e3b35ddc2c2d9ee8101c4b738", 
     "uri": "http://nakkaya.com/2010/06/22/finite-state-machine-implementation-in-clojure/", 
     "title": "Finite State Machine Implementation in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ada1242960b914452014737e5a9d6b00", 
+    "uri": "http://nakkaya.com/2011/03/23/streaming-opencv-video-over-the-network-using-mjpeg/", 
+    "title": "Streaming OpenCV Video over the Network Using M-JPEG"
 }
