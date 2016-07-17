@@ -334,4 +334,10 @@
     "hash": "50b904e05b6a0cc1fa1dedf12dc2ee67", 
     "uri": "http://nakkaya.com/2009/04/19/intercepting-links-in-firefox/", 
     "title": "Intercepting Links in Firefox"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ffbd2b74ec657d8ce7ba5ce5606d4066", 
+    "uri": "http://nakkaya.com/2009/04/15/using-netcat-for-file-transfers/", 
+    "title": "Using Netcat for File Transfers"
 }
