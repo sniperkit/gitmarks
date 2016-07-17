@@ -10,4 +10,10 @@
     "hash": "88997e492bbb7f5e91870ad893a54ff5", 
     "uri": "http://nakkaya.com/2010/04/15/using-clojure-to-connect-to-gmail-via-imap/", 
     "title": "Using Clojure to Connect to GMail via IMAP"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "55dbc10f629d7aca8c217f77958b15aa", 
+    "uri": "http://nakkaya.com/2012/08/13/google-hotp-totp-two-factor-authentication-for-clojure/", 
+    "title": "Google HOTP/TOTP Two-factor Authentication for Clojure"
 }

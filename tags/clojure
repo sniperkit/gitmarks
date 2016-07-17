@@ -1354,4 +1354,10 @@
     "hash": "ccf62495e0310653ef3cec2ba76e4876", 
     "uri": "http://nakkaya.com/2009/11/16/java-native-access-from-clojure/", 
     "title": "Java Native Access from Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "55dbc10f629d7aca8c217f77958b15aa", 
+    "uri": "http://nakkaya.com/2012/08/13/google-hotp-totp-two-factor-authentication-for-clojure/", 
+    "title": "Google HOTP/TOTP Two-factor Authentication for Clojure"
 }
