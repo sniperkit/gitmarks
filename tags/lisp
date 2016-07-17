@@ -94,4 +94,10 @@
     "hash": "9e31d980003bf3bd73a5a0b3949b82e0", 
     "uri": "http://gambitscheme.org/wiki/index.php/Main_Page", 
     "title": "Main Page - Gambit wiki"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "89b7c0f3f9a963e9ae0558352cc82219", 
+    "uri": "http://nakkaya.com/2010/08/24/a-micro-manual-for-lisp-implemented-in-c/", 
+    "title": "[No Title]"
 }
