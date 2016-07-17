@@ -1348,4 +1348,10 @@
     "hash": "8da1db3049c68380b8d781170a198d6d", 
     "uri": "http://www.clojureatlas.com/", 
     "title": "Clojure Atlas \u2013\u00a0An experimental visualization of the Clojure language and its standard library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ccf62495e0310653ef3cec2ba76e4876", 
+    "uri": "http://nakkaya.com/2009/11/16/java-native-access-from-clojure/", 
+    "title": "Java Native Access from Clojure"
 }

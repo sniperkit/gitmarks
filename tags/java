@@ -106,4 +106,10 @@
     "hash": "d6c819d1d1141f691afc92cf118b7700", 
     "uri": "https://github.com/plumatic/hiphip", 
     "title": "GitHub - plumatic/hiphip: hiphip (array)! simple, performant array manipulation in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ccf62495e0310653ef3cec2ba76e4876", 
+    "uri": "http://nakkaya.com/2009/11/16/java-native-access-from-clojure/", 
+    "title": "Java Native Access from Clojure"
 }
