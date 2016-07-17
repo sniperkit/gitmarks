@@ -1336,4 +1336,10 @@
     "hash": "ada1242960b914452014737e5a9d6b00", 
     "uri": "http://nakkaya.com/2011/03/23/streaming-opencv-video-over-the-network-using-mjpeg/", 
     "title": "Streaming OpenCV Video over the Network Using M-JPEG"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7195c9d51cc89d1ca702e69d0bc26250", 
+    "uri": "http://nakkaya.com/2011/07/28/holonomic-control/", 
+    "title": "Holonomic Control"
 }
