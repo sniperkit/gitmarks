@@ -1342,4 +1342,10 @@
     "hash": "7195c9d51cc89d1ca702e69d0bc26250", 
     "uri": "http://nakkaya.com/2011/07/28/holonomic-control/", 
     "title": "Holonomic Control"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8da1db3049c68380b8d781170a198d6d", 
+    "uri": "http://www.clojureatlas.com/", 
+    "title": "Clojure Atlas \u2013\u00a0An experimental visualization of the Clojure language and its standard library"
 }

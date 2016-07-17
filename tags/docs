@@ -94,4 +94,10 @@
     "hash": "c9d5a666cbc5b166a587711e3fd8b9e8", 
     "uri": "http://orgmode.org/", 
     "title": "Org mode for Emacs &#x2013; Your Life in Plain Text"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8da1db3049c68380b8d781170a198d6d", 
+    "uri": "http://www.clojureatlas.com/", 
+    "title": "Clojure Atlas \u2013\u00a0An experimental visualization of the Clojure language and its standard library"
 }
