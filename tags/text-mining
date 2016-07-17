@@ -4,4 +4,10 @@
     "hash": "9c5ec060546996b34db8198aa30c55e0", 
     "uri": "https://lumanu.com/", 
     "title": "HTTP Error 403"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "072cb00f73ceed198629c5b033336f3b", 
+    "uri": "http://nakkaya.com/2009/12/16/building-a-delicious-link-recommender/", 
+    "title": "Building a del.icio.us Link Recommender"
 }

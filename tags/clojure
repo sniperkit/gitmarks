@@ -1312,4 +1312,10 @@
     "hash": "aadc546c47eeb6def2fc4143085871b8", 
     "uri": "http://nakkaya.com/2013/01/10/a-clojure-autopilot-for-parrot-ar-drone/", 
     "title": "A Clojure Autopilot for Parrot A.R. Drone"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "072cb00f73ceed198629c5b033336f3b", 
+    "uri": "http://nakkaya.com/2009/12/16/building-a-delicious-link-recommender/", 
+    "title": "Building a del.icio.us Link Recommender"
 }
