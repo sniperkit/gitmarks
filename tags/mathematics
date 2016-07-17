@@ -34,4 +34,10 @@
     "hash": "78d1cbc41146358c157c3ea94010fcf7", 
     "uri": "http://www.people.vcu.edu/~rhammack/BookOfProof/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b01fc21af686e26ea9d909d4d6e82262", 
+    "uri": "http://axiom-developer.org/", 
+    "title": "Axiom Computer Algebra System"
 }
