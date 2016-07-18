@@ -274,4 +274,10 @@
     "hash": "6c2690f3ccbb3932de530a4aaa3d6514", 
     "uri": "https://www.google.ca/search?q=site:langorigami.com+filetype:pdf&prmd=ivns&filter=0", 
     "title": "Error 403 (Forbidden)!!1"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9941efef2a3baca38046991b56ceda55", 
+    "uri": "http://alexott.net/ru/emacs/emacs-manual/", 
+    "title": "[No Title]"
 }
