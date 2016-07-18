@@ -22,4 +22,10 @@
     "hash": "9d811809cf7163795d0195af8dd8f791", 
     "uri": "https://github.com/Cascading/Impatient-Cascalog", 
     "title": "GitHub - Cascading/Impatient-Cascalog: Cascalog for the Impatient"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e69b11933c9dab5efbf096ed553ed764", 
+    "uri": "https://github.com/alexott/clojure-hadoop", 
+    "title": "GitHub - alexott/clojure-hadoop: Library to aid writing Hadoop jobs in Clojure."
 }

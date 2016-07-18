@@ -1360,4 +1360,10 @@
     "hash": "55dbc10f629d7aca8c217f77958b15aa", 
     "uri": "http://nakkaya.com/2012/08/13/google-hotp-totp-two-factor-authentication-for-clojure/", 
     "title": "Google HOTP/TOTP Two-factor Authentication for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e69b11933c9dab5efbf096ed553ed764", 
+    "uri": "https://github.com/alexott/clojure-hadoop", 
+    "title": "GitHub - alexott/clojure-hadoop: Library to aid writing Hadoop jobs in Clojure."
 }
