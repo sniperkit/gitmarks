@@ -1378,4 +1378,10 @@
     "hash": "a16fbc7575626298cf0371fcd6a081b9", 
     "uri": "https://gist.github.com/citizen428/f75c6620651c727d0051", 
     "title": "learning-clojure.markdown \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2418cb2e401cdc0509274731ef9492a1", 
+    "uri": "https://github.com/ertugrulcetin/ClojureNews", 
+    "title": "GitHub - ertugrulcetin/ClojureNews: Clojure News Web Application - (Hacker News Clone)"
 }
