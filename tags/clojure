@@ -1366,4 +1366,10 @@
     "hash": "e69b11933c9dab5efbf096ed553ed764", 
     "uri": "https://github.com/alexott/clojure-hadoop", 
     "title": "GitHub - alexott/clojure-hadoop: Library to aid writing Hadoop jobs in Clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "227a12d43b58390f4c2dbe77b224ac3f", 
+    "uri": "https://www.infoq.com/clojure/", 
+    "title": "Clojure"
 }

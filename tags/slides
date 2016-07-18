@@ -22,4 +22,10 @@
     "hash": "f37ec9456589e13fdca4f60e592d415b", 
     "uri": "https://speakerdeck.com/mklappstuhl/desktop-apps-with-clojurescript", 
     "title": "Desktop Apps with ClojureScript // Speaker Deck"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "227a12d43b58390f4c2dbe77b224ac3f", 
+    "uri": "https://www.infoq.com/clojure/", 
+    "title": "Clojure"
 }
