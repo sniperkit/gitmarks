@@ -1372,4 +1372,10 @@
     "hash": "227a12d43b58390f4c2dbe77b224ac3f", 
     "uri": "https://www.infoq.com/clojure/", 
     "title": "Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a16fbc7575626298cf0371fcd6a081b9", 
+    "uri": "https://gist.github.com/citizen428/f75c6620651c727d0051", 
+    "title": "learning-clojure.markdown \u00b7 GitHub"
 }
