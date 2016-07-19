@@ -28,4 +28,10 @@
     "hash": "e69b11933c9dab5efbf096ed553ed764", 
     "uri": "https://github.com/alexott/clojure-hadoop", 
     "title": "GitHub - alexott/clojure-hadoop: Library to aid writing Hadoop jobs in Clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f02951e49f0580f26d482cab6db7b04", 
+    "uri": "https://github.com/deeplearning4j/deeplearning4j", 
+    "title": "GitHub - deeplearning4j/deeplearning4j: Deep Learning for Java, Scala &amp; Clojure on Hadoop &amp; Spark With GPUs - From Skymind"
 }

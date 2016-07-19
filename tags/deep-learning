@@ -22,4 +22,10 @@
     "hash": "7633b4fdc7e64da71a58815b5d84b367", 
     "uri": "http://mxnet.readthedocs.io/en/latest/", 
     "title": "MXNet Documents"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f02951e49f0580f26d482cab6db7b04", 
+    "uri": "https://github.com/deeplearning4j/deeplearning4j", 
+    "title": "GitHub - deeplearning4j/deeplearning4j: Deep Learning for Java, Scala &amp; Clojure on Hadoop &amp; Spark With GPUs - From Skymind"
 }

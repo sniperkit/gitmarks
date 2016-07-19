@@ -1390,4 +1390,10 @@
     "hash": "085349aa45f3f72f4fa8aef8911777fe", 
     "uri": "https://github.com/liebke/avout", 
     "title": "GitHub - liebke/avout: Avout: Distributed State in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f02951e49f0580f26d482cab6db7b04", 
+    "uri": "https://github.com/deeplearning4j/deeplearning4j", 
+    "title": "GitHub - deeplearning4j/deeplearning4j: Deep Learning for Java, Scala &amp; Clojure on Hadoop &amp; Spark With GPUs - From Skymind"
 }
