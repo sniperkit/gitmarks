@@ -166,4 +166,10 @@
     "hash": "f8af8124c8b07e7f044291fa5b28611b", 
     "uri": "http://www.gigamonkeys.com/book/", 
     "title": "Practical Common Lisp"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e8ba0fbe2c7e8c6ede8b33fe3e1e920e", 
+    "uri": "https://github.com/pcl-ru/pcl-ru", 
+    "title": "GitHub - pcl-ru/pcl-ru"
 }

@@ -40,4 +40,10 @@
     "hash": "9941efef2a3baca38046991b56ceda55", 
     "uri": "http://alexott.net/ru/emacs/emacs-manual/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e8ba0fbe2c7e8c6ede8b33fe3e1e920e", 
+    "uri": "https://github.com/pcl-ru/pcl-ru", 
+    "title": "GitHub - pcl-ru/pcl-ru"
 }
