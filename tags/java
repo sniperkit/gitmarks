@@ -112,4 +112,10 @@
     "hash": "ccf62495e0310653ef3cec2ba76e4876", 
     "uri": "http://nakkaya.com/2009/11/16/java-native-access-from-clojure/", 
     "title": "Java Native Access from Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "923a951351ea1a911ce0acf8d8072201", 
+    "uri": "http://nd4j.org", 
+    "title": "[No Title]"
 }

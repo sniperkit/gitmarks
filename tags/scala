@@ -10,4 +10,10 @@
     "hash": "a408ffa7ca904bd0ef24f8b8b0360cc4", 
     "uri": "http://dmlc.cs.washington.edu/xgboost.html", 
     "title": "XGBoost"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "923a951351ea1a911ce0acf8d8072201", 
+    "uri": "http://nd4j.org", 
+    "title": "[No Title]"
 }
