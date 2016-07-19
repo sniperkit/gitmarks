@@ -340,4 +340,10 @@
     "hash": "ffbd2b74ec657d8ce7ba5ce5606d4066", 
     "uri": "http://nakkaya.com/2009/04/15/using-netcat-for-file-transfers/", 
     "title": "Using Netcat for File Transfers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1559592f315ff93cbbb17105878e96b0", 
+    "uri": "http://deepdive.stanford.edu", 
+    "title": "DeepDive"
 }
