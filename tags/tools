@@ -346,4 +346,10 @@
     "hash": "1559592f315ff93cbbb17105878e96b0", 
     "uri": "http://deepdive.stanford.edu", 
     "title": "DeepDive"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "666308baed00e4140f1924b9b38b3a7a", 
+    "uri": "https://www.diffbot.com", 
+    "title": "Automated Web Data Extraction &amp; Web Crawler - Diffbot"
 }
