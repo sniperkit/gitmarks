@@ -16,4 +16,10 @@
     "hash": "a0e4f60b44951cea48a2934eb4c95117", 
     "uri": "http://www.deeplearning.net/software/theano/", 
     "title": "Welcome &mdash; Theano 0.8.2 documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7633b4fdc7e64da71a58815b5d84b367", 
+    "uri": "http://mxnet.readthedocs.io/en/latest/", 
+    "title": "MXNet Documents"
 }
