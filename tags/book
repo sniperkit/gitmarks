@@ -160,4 +160,10 @@
     "hash": "78d1cbc41146358c157c3ea94010fcf7", 
     "uri": "http://www.people.vcu.edu/~rhammack/BookOfProof/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f8af8124c8b07e7f044291fa5b28611b", 
+    "uri": "http://www.gigamonkeys.com/book/", 
+    "title": "Practical Common Lisp"
 }

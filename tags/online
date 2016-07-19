@@ -22,4 +22,10 @@
     "hash": "5ecbfa779890d5bb9a911079bda14def", 
     "uri": "http://wstein.org/edu/2007/spring/ent/ent-html/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f8af8124c8b07e7f044291fa5b28611b", 
+    "uri": "http://www.gigamonkeys.com/book/", 
+    "title": "Practical Common Lisp"
 }

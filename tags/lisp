@@ -100,4 +100,10 @@
     "hash": "89b7c0f3f9a963e9ae0558352cc82219", 
     "uri": "http://nakkaya.com/2010/08/24/a-micro-manual-for-lisp-implemented-in-c/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f8af8124c8b07e7f044291fa5b28611b", 
+    "uri": "http://www.gigamonkeys.com/book/", 
+    "title": "Practical Common Lisp"
 }
