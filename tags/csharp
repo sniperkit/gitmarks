@@ -64,4 +64,10 @@
     "hash": "794e076a354b9c51f78f09d33e437b3f", 
     "uri": "http://keepass.info/help/v2_dev/plg_index.html", 
     "title": "Plugin Development - KeePass"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "68b2d3dce61404ba60fb25eefb56a18c", 
+    "uri": "https://ytdownloadextension.codeplex.com", 
+    "title": "YouTube API Download Extension - Home"
 }
