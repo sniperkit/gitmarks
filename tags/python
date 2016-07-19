@@ -70,4 +70,10 @@
     "hash": "45a436c38d5aabbaf8cb5414f26cf0cb", 
     "uri": "http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html", 
     "title": "Code Like a Pythonista: Idiomatic Python"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0e4f60b44951cea48a2934eb4c95117", 
+    "uri": "http://www.deeplearning.net/software/theano/", 
+    "title": "Welcome &mdash; Theano 0.8.2 documentation"
 }

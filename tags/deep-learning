@@ -10,4 +10,10 @@
     "hash": "73b59d07e7e2e95786d866e7821fa3f1", 
     "uri": "http://caffe.berkeleyvision.org", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0e4f60b44951cea48a2934eb4c95117", 
+    "uri": "http://www.deeplearning.net/software/theano/", 
+    "title": "Welcome &mdash; Theano 0.8.2 documentation"
 }
