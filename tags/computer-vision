@@ -58,4 +58,10 @@
     "hash": "ada1242960b914452014737e5a9d6b00", 
     "uri": "http://nakkaya.com/2011/03/23/streaming-opencv-video-over-the-network-using-mjpeg/", 
     "title": "Streaming OpenCV Video over the Network Using M-JPEG"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "73b59d07e7e2e95786d866e7821fa3f1", 
+    "uri": "http://caffe.berkeleyvision.org", 
+    "title": "[No Title]"
 }
