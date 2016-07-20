@@ -28,4 +28,10 @@
     "hash": "8e797d3f199bedfb9861302becf18402", 
     "uri": "https://www.openai.com/blog/openai-gym-beta/", 
     "title": "OpenAI Gym Beta"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fede105b8bd9a8835a82237e81b3be30", 
+    "uri": "http://rewriting.loria.fr/", 
+    "title": "Rewriting Home Page"
 }

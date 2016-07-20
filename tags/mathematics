@@ -40,4 +40,10 @@
     "hash": "b01fc21af686e26ea9d909d4d6e82262", 
     "uri": "http://axiom-developer.org/", 
     "title": "Axiom Computer Algebra System"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fede105b8bd9a8835a82237e81b3be30", 
+    "uri": "http://rewriting.loria.fr/", 
+    "title": "Rewriting Home Page"
 }
