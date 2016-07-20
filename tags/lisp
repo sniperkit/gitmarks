@@ -112,4 +112,10 @@
     "hash": "e8ba0fbe2c7e8c6ede8b33fe3e1e920e", 
     "uri": "https://github.com/pcl-ru/pcl-ru", 
     "title": "GitHub - pcl-ru/pcl-ru"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "90e2fcefa8e56d919ce490be5a19df83", 
+    "uri": "https://github.com/takeoutweight/clojure-scheme", 
+    "title": "GitHub - takeoutweight/clojure-scheme: Clojure to Scheme to C to the bare metal."
 }

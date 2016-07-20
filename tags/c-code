@@ -22,4 +22,10 @@
     "hash": "ccf62495e0310653ef3cec2ba76e4876", 
     "uri": "http://nakkaya.com/2009/11/16/java-native-access-from-clojure/", 
     "title": "Java Native Access from Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "90e2fcefa8e56d919ce490be5a19df83", 
+    "uri": "https://github.com/takeoutweight/clojure-scheme", 
+    "title": "GitHub - takeoutweight/clojure-scheme: Clojure to Scheme to C to the bare metal."
 }
