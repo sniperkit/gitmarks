@@ -1426,4 +1426,10 @@
     "hash": "862c4e7477177d2789183a44d1178c63", 
     "uri": "http://www.clojure.net/2012/06/03/Monad-Protocols/", 
     "title": "Monad Protocols &larr; "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b4aaf5dff3cce87d983c03ea63fdc292", 
+    "uri": "http://jonase.github.io/kibit-demo/", 
+    "title": "Kibit"
 }
