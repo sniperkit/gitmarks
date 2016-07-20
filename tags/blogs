@@ -34,4 +34,10 @@
     "hash": "3e3ee1efc177b31fd0b009fd2edd0205", 
     "uri": "http://www.clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html", 
     "title": "Clojure :: Reducers - A Library and Model for Collection Processing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "862c4e7477177d2789183a44d1178c63", 
+    "uri": "http://www.clojure.net/2012/06/03/Monad-Protocols/", 
+    "title": "Monad Protocols &larr; "
 }
