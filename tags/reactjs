@@ -142,4 +142,10 @@
     "hash": "a6881c20750355790f0421cfd57f76f5", 
     "uri": "https://www.simple-talk.com/dotnet/asp.net/a-real-world-react.js-setup-for-asp.net-core-and-mvc5/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3b1813d4247062acc7ebc30c405982fd", 
+    "uri": "https://github.com/mjmeintjes/boot-react-native", 
+    "title": "GitHub - mjmeintjes/boot-react-native: Better development experience with ClojureScript and React Native"
 }

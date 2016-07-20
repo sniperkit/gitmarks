@@ -1432,4 +1432,10 @@
     "hash": "b4aaf5dff3cce87d983c03ea63fdc292", 
     "uri": "http://jonase.github.io/kibit-demo/", 
     "title": "Kibit"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3b1813d4247062acc7ebc30c405982fd", 
+    "uri": "https://github.com/mjmeintjes/boot-react-native", 
+    "title": "GitHub - mjmeintjes/boot-react-native: Better development experience with ClojureScript and React Native"
 }
