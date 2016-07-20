@@ -574,4 +574,10 @@
     "hash": "59446bfb42b6334bdda8b30dd5e26767", 
     "uri": "http://www.ccs.neu.edu/home/matthias/HtDP2e/", 
     "title": "How to Design Programs, Second Edition"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "db65bf6d948a3ac5f2a72631c990e364", 
+    "uri": "https://github.com/khinsen/monads-in-clojure", 
+    "title": "GitHub - khinsen/monads-in-clojure: Konrad Hinsen&#39;s OnClojure.com tutorial"
 }
