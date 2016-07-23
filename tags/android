@@ -274,4 +274,10 @@
     "hash": "d7996ec0d2dcdb7f188d4180c770b1a0", 
     "uri": "https://github.com/losttime/cooper", 
     "title": "GitHub - losttime/cooper: Lightweight client for simple remote file editing and command execution"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "48ff222db4e29f00c0bca19eeb8e854d", 
+    "uri": "https://github.com/sergstetsuk/CosyDVR", 
+    "title": "GitHub - sergstetsuk/CosyDVR: android open souce auto DVR"
 }
