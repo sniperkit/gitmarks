@@ -256,4 +256,10 @@
     "hash": "aec70d0f2c1a8e4dabafaa2f02291f4a", 
     "uri": "https://github.com/pi3ch/ssh_anysoftkeyboard", 
     "title": "GitHub - pi3ch/ssh_anysoftkeyboard: SSH keyboard for Android"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "847c1bb5f0a6f8f7fbb3bbaf46b8f408", 
+    "uri": "https://github.com/connectbot/connectbot", 
+    "title": "GitHub - connectbot/connectbot: ConnectBot is the first SSH client for Android."
 }

@@ -76,4 +76,10 @@
     "hash": "ffbd2b74ec657d8ce7ba5ce5606d4066", 
     "uri": "http://nakkaya.com/2009/04/15/using-netcat-for-file-transfers/", 
     "title": "Using Netcat for File Transfers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "847c1bb5f0a6f8f7fbb3bbaf46b8f408", 
+    "uri": "https://github.com/connectbot/connectbot", 
+    "title": "GitHub - connectbot/connectbot: ConnectBot is the first SSH client for Android."
 }
