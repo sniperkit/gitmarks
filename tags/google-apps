@@ -16,4 +16,10 @@
     "hash": "55dbc10f629d7aca8c217f77958b15aa", 
     "uri": "http://nakkaya.com/2012/08/13/google-hotp-totp-two-factor-authentication-for-clojure/", 
     "title": "Google HOTP/TOTP Two-factor Authentication for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5e5bb77f3e2acdbb89c4eeed27847d95", 
+    "uri": "https://www.contentreich.de/docker-clojure-microservices-google-and-alfresco-introducing-ecm-google-services", 
+    "title": "Docker, Clojure, Microservices, Google (and Alfresco): Introducing ECM Google Services - CONTENTREICH"
 }

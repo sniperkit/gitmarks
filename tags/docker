@@ -16,4 +16,10 @@
     "hash": "dd359d813491373914ea770533ae6f0f", 
     "uri": "https://www.oreilly.com/learning/tensorflow-for-poets", 
     "title": "TensorFlow for poets - O&#39;Reilly Media"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5e5bb77f3e2acdbb89c4eeed27847d95", 
+    "uri": "https://www.contentreich.de/docker-clojure-microservices-google-and-alfresco-introducing-ecm-google-services", 
+    "title": "Docker, Clojure, Microservices, Google (and Alfresco): Introducing ECM Google Services - CONTENTREICH"
 }

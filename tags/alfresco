@@ -16,4 +16,10 @@
     "hash": "e240ef147f090774e55fd0fdf640b1c4", 
     "uri": "https://www.geekbooks.me/search?q=alfresco", 
     "title": "Search Results - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5e5bb77f3e2acdbb89c4eeed27847d95", 
+    "uri": "https://www.contentreich.de/docker-clojure-microservices-google-and-alfresco-introducing-ecm-google-services", 
+    "title": "Docker, Clojure, Microservices, Google (and Alfresco): Introducing ECM Google Services - CONTENTREICH"
 }

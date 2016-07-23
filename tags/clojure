@@ -1450,4 +1450,10 @@
     "hash": "9cde8e4da5aba3bbffc618f5b1c32dd3", 
     "uri": "http://blog.japila.pl/2012/03/clojures-java-interop-in-java/", 
     "title": "Clojure&#8217;s Java interop in Java | Japila :: verba docent, exempla trahunt"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5e5bb77f3e2acdbb89c4eeed27847d95", 
+    "uri": "https://www.contentreich.de/docker-clojure-microservices-google-and-alfresco-introducing-ecm-google-services", 
+    "title": "Docker, Clojure, Microservices, Google (and Alfresco): Introducing ECM Google Services - CONTENTREICH"
 }
