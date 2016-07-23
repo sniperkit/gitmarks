@@ -370,4 +370,10 @@
     "hash": "f7f98a1a07a4d37f31fb69c75fc41d61", 
     "uri": "https://gitlab.com/fdroid/fdroiddata", 
     "title": "F-Droid / Data \u00b7 GitLab"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0e1baf8cec01acf595b3a5d823e1feb5", 
+    "uri": "http://keepass.info/help/base/autotype.html", 
+    "title": "Auto-Type - KeePass"
 }
