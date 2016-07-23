@@ -76,4 +76,10 @@
     "hash": "a0e4f60b44951cea48a2934eb4c95117", 
     "uri": "http://www.deeplearning.net/software/theano/", 
     "title": "Welcome &mdash; Theano 0.8.2 documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1ff71e674a4183342d8b11ee281a1a2f", 
+    "uri": "https://github.com/qguv/fdscrape", 
+    "title": "GitHub - qguv/fdscrape: Fdscrape: F-Droid.org Android Source Code Scraper"
 }
