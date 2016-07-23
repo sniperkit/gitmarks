@@ -364,4 +364,10 @@
     "hash": "39d0c97abec3d80b97790f803774f629", 
     "uri": "https://f-droid.org/manual/fdroid.html", 
     "title": "F-Droid Server Manual"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f7f98a1a07a4d37f31fb69c75fc41d61", 
+    "uri": "https://gitlab.com/fdroid/fdroiddata", 
+    "title": "F-Droid / Data \u00b7 GitLab"
 }
