@@ -358,4 +358,10 @@
     "hash": "b4aaf5dff3cce87d983c03ea63fdc292", 
     "uri": "http://jonase.github.io/kibit-demo/", 
     "title": "Kibit"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "39d0c97abec3d80b97790f803774f629", 
+    "uri": "https://f-droid.org/manual/fdroid.html", 
+    "title": "F-Droid Server Manual"
 }
