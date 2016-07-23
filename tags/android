@@ -262,4 +262,10 @@
     "hash": "847c1bb5f0a6f8f7fbb3bbaf46b8f408", 
     "uri": "https://github.com/connectbot/connectbot", 
     "title": "GitHub - connectbot/connectbot: ConnectBot is the first SSH client for Android."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "87fd5361f9c6b4daf29198bf56e463d2", 
+    "uri": "https://github.com/vx/connectbot", 
+    "title": "GitHub - vx/connectbot: Enhanced version of the popular ConnectBot SSH and telnet client"
 }
