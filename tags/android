@@ -250,4 +250,10 @@
     "hash": "117e441f0f44a380c2d07c9134ae5406", 
     "uri": "http://anysoftkeyboard.github.io/", 
     "title": "Anysoftkeyboard"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "aec70d0f2c1a8e4dabafaa2f02291f4a", 
+    "uri": "https://github.com/pi3ch/ssh_anysoftkeyboard", 
+    "title": "GitHub - pi3ch/ssh_anysoftkeyboard: SSH keyboard for Android"
 }
