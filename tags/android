@@ -244,4 +244,10 @@
     "hash": "b75f4ccb4af6fcb2916a0bbcf784fb47", 
     "uri": "https://threatpost.com/android-keystore-encryption-scheme-broken-researchers-say/119092/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "117e441f0f44a380c2d07c9134ae5406", 
+    "uri": "http://anysoftkeyboard.github.io/", 
+    "title": "Anysoftkeyboard"
 }
