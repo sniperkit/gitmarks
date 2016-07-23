@@ -268,4 +268,10 @@
     "hash": "87fd5361f9c6b4daf29198bf56e463d2", 
     "uri": "https://github.com/vx/connectbot", 
     "title": "GitHub - vx/connectbot: Enhanced version of the popular ConnectBot SSH and telnet client"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d7996ec0d2dcdb7f188d4180c770b1a0", 
+    "uri": "https://github.com/losttime/cooper", 
+    "title": "GitHub - losttime/cooper: Lightweight client for simple remote file editing and command execution"
 }
