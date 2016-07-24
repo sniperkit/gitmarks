@@ -1486,4 +1486,10 @@
     "hash": "759388ecd96c016712009088bc47c812", 
     "uri": "https://github.com/clojurewest/clojurewest2015", 
     "title": "GitHub - clojurewest/clojurewest2015: ClojureWest 2015"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "454db59e7af866ccadc099de2e871e0a", 
+    "uri": "https://github.com/davezen1/clojurewest-2016-notes", 
+    "title": "GitHub - davezen1/clojurewest-2016-notes: Clojure West 2016 Notes"
 }
