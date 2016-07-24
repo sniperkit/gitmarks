@@ -34,4 +34,10 @@
     "hash": "6b7ec4261c50ac7f5bb335c826916079", 
     "uri": "https://github.com/videlalvaro/cloudfoundry-clojure-demo", 
     "title": "GitHub - videlalvaro/cloudfoundry-clojure-demo: Demo for Clojure integration with Cloud Foundry using claude"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "20f009261c71971d55a899f9a86bbeeb", 
+    "uri": "https://github.com/mstine/heroku-buildpack-clojure", 
+    "title": "GitHub - mstine/heroku-buildpack-clojure: Clojure buildpack"
 }
