@@ -1474,4 +1474,10 @@
     "hash": "e79ce5c31c72badbd78164e13e01b12c", 
     "uri": "https://github.com/strangeloop/clojurewest2012-slides", 
     "title": "GitHub - strangeloop/clojurewest2012-slides: Slides from Clojure/West 2012"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b627ac66bcfc361cc3fad79b881ea423", 
+    "uri": "https://github.com/strangeloop/clojurewest2013", 
+    "title": "GitHub - strangeloop/clojurewest2013: Clojure West 2013"
 }
