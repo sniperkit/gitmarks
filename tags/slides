@@ -28,4 +28,10 @@
     "hash": "227a12d43b58390f4c2dbe77b224ac3f", 
     "uri": "https://www.infoq.com/clojure/", 
     "title": "Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e79ce5c31c72badbd78164e13e01b12c", 
+    "uri": "https://github.com/strangeloop/clojurewest2012-slides", 
+    "title": "GitHub - strangeloop/clojurewest2012-slides: Slides from Clojure/West 2012"
 }
