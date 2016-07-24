@@ -76,4 +76,10 @@
     "hash": "585a6f1252ae2a177eaba8f780474349", 
     "uri": "http://garajeando.blogspot.com/2016/07/kata-ohce-in-clojure-using-outside-in.html", 
     "title": "Garajeando: Kata: Ohce in Clojure using outside-in TDD with Midje"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9fcd8dbbf05f47fba4414d1b5ec5aa5d", 
+    "uri": "http://robolectric.org/", 
+    "title": "Robolectric"
 }
