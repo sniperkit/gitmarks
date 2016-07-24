@@ -274,4 +274,10 @@
     "hash": "ae5583173ba4d2adf927a3326227053f", 
     "uri": "https://github.com/clojure/clojurescript/wiki/Dependencies", 
     "title": "Dependencies \u00b7 clojure/clojurescript Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec15ce7e95969f546784041c87dafb56", 
+    "uri": "https://github.com/oubiwann/hoplon-reveal-js", 
+    "title": "GitHub - oubiwann/hoplon-reveal-js: Slide decks in ClojureScript; derived from cndreisbach&#39;s Hoplon + Reveal.js work"
 }
