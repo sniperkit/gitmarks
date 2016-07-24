@@ -40,4 +40,10 @@
     "hash": "b627ac66bcfc361cc3fad79b881ea423", 
     "uri": "https://github.com/strangeloop/clojurewest2013", 
     "title": "GitHub - strangeloop/clojurewest2013: Clojure West 2013"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "759388ecd96c016712009088bc47c812", 
+    "uri": "https://github.com/clojurewest/clojurewest2015", 
+    "title": "GitHub - clojurewest/clojurewest2015: ClojureWest 2015"
 }
