@@ -1498,4 +1498,10 @@
     "hash": "366c89412b3be7623e3f3e9c77e23637", 
     "uri": "https://www.infoq.com/search.action?queryString=clojurewest&page=1&searchOrder=&sst=TYMqO4kvlpq16peU", 
     "title": "Facilitating the spread of knowledge and innovation in professional software development"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "40b6d3169ffca2f726592740f8965b59", 
+    "uri": "https://github.com/tonsky/tongue", 
+    "title": "GitHub - tonsky/tongue: Do-it-yourself i18n library for Clojure/Script"
 }
