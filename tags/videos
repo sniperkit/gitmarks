@@ -34,4 +34,10 @@
     "hash": "e49ca93c0060fb450df2c3c08b750a09", 
     "uri": "http://www.datomic.com/training.html", 
     "title": "Training - Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "366c89412b3be7623e3f3e9c77e23637", 
+    "uri": "https://www.infoq.com/search.action?queryString=clojurewest&page=1&searchOrder=&sst=TYMqO4kvlpq16peU", 
+    "title": "Facilitating the spread of knowledge and innovation in professional software development"
 }
