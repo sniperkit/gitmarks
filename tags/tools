@@ -382,4 +382,10 @@
     "hash": "525a2190d35cfc31e118df7d329aea5f", 
     "uri": "http://riemann.io/", 
     "title": "Riemann - A network monitoring system"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7f58c2bfb53cd995b7692428ea75ac6e", 
+    "uri": "https://github.com/BartMassey/anrand", 
+    "title": "GitHub - BartMassey/anrand: chaoskey random bits analyzer in Haskell"
 }
