@@ -142,4 +142,10 @@
     "hash": "6d34f1195750602984466cff7ff01f6e", 
     "uri": "http://www.cryptol.net/", 
     "title": "Cryptol"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "525a2190d35cfc31e118df7d329aea5f", 
+    "uri": "http://riemann.io/", 
+    "title": "Riemann - A network monitoring system"
 }
