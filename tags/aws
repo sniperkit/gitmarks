@@ -10,4 +10,10 @@
     "hash": "e3821632c007de6bb1fbc2984d8b0aba", 
     "uri": "https://github.com/nathanmarz/storm-deploy", 
     "title": "GitHub - nathanmarz/storm-deploy: One click deploy for Storm clusters on AWS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "446f214cbb47aa3b4a3a1bdb50ed7f49", 
+    "uri": "https://aws.amazon.com/lambda/pricing/", 
+    "title": "AWS Lambda | Pricing"
 }
