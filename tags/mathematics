@@ -52,4 +52,10 @@
     "hash": "978ffe71ab48f5fd6ce05a71393fe3f3", 
     "uri": "http://web.archive.org/web/19971009064824/www.cs.oberlin.edu/classes/cs280/labs/lab4/lab4.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c97766eb75ebf3301cf0f7645c44c9e3", 
+    "uri": "http://tromp.github.io/cl/cl.html", 
+    "title": "John's Combinatory Logic Playground"
 }
