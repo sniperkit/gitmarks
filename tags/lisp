@@ -124,4 +124,10 @@
     "hash": "03325c2d5de639710090b38a060b9e30", 
     "uri": "http://cjohansen.no/an-introduction-to-elisp/", 
     "title": "An introduction to Emacs Lisp"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5f3e5cb0bb359c0c08b3f90eaa621bf5", 
+    "uri": "http://lisperati.com/", 
+    "title": "[No Title]"
 }

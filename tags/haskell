@@ -46,4 +46,10 @@
     "hash": "876a8178aec4017527342569ea16a25d", 
     "uri": "https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0#!", 
     "title": "Introduction to Functional Programming | edX"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5f3e5cb0bb359c0c08b3f90eaa621bf5", 
+    "uri": "http://lisperati.com/", 
+    "title": "[No Title]"
 }

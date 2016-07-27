@@ -1504,4 +1504,10 @@
     "hash": "40b6d3169ffca2f726592740f8965b59", 
     "uri": "https://github.com/tonsky/tongue", 
     "title": "GitHub - tonsky/tongue: Do-it-yourself i18n library for Clojure/Script"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5f3e5cb0bb359c0c08b3f90eaa621bf5", 
+    "uri": "http://lisperati.com/", 
+    "title": "[No Title]"
 }
