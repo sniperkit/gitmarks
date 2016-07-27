@@ -1522,4 +1522,10 @@
     "hash": "9b2f96904ffae414033a17019a60e8a1", 
     "uri": "https://github.com/jolby/rincanter", 
     "title": "GitHub - jolby/rincanter: Use embedded R from Clojure and Incanter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eb73a4bcbe2c51f5c530827a4747b1f1", 
+    "uri": "http://fprog.ru/planet/", 
+    "title": "Russian Lambda Planet"
 }
