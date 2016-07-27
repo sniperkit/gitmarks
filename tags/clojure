@@ -1516,4 +1516,10 @@
     "hash": "e506359a90b7a7293fdd7d3da3c79264", 
     "uri": "https://vimeo.com/channels/fulldisclojure", 
     "title": "Full Disclojure on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9b2f96904ffae414033a17019a60e8a1", 
+    "uri": "https://github.com/jolby/rincanter", 
+    "title": "GitHub - jolby/rincanter: Use embedded R from Clojure and Incanter"
 }
