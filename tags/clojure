@@ -1510,4 +1510,10 @@
     "hash": "5f3e5cb0bb359c0c08b3f90eaa621bf5", 
     "uri": "http://lisperati.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e506359a90b7a7293fdd7d3da3c79264", 
+    "uri": "https://vimeo.com/channels/fulldisclojure", 
+    "title": "Full Disclojure on Vimeo"
 }
