@@ -118,4 +118,10 @@
     "hash": "90e2fcefa8e56d919ce490be5a19df83", 
     "uri": "https://github.com/takeoutweight/clojure-scheme", 
     "title": "GitHub - takeoutweight/clojure-scheme: Clojure to Scheme to C to the bare metal."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03325c2d5de639710090b38a060b9e30", 
+    "uri": "http://cjohansen.no/an-introduction-to-elisp/", 
+    "title": "An introduction to Emacs Lisp"
 }

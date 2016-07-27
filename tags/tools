@@ -388,4 +388,10 @@
     "hash": "7f58c2bfb53cd995b7692428ea75ac6e", 
     "uri": "https://github.com/BartMassey/anrand", 
     "title": "GitHub - BartMassey/anrand: chaoskey random bits analyzer in Haskell"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03325c2d5de639710090b38a060b9e30", 
+    "uri": "http://cjohansen.no/an-introduction-to-elisp/", 
+    "title": "An introduction to Emacs Lisp"
 }
