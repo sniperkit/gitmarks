@@ -118,4 +118,10 @@
     "hash": "e9da63ce81d502587e016c1a4d478c08", 
     "uri": "https://halgari.github.io/clojure-py/", 
     "title": "Clojure-Py"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fed6f5faf3013ab14779249fe02e7ded", 
+    "uri": "https://github.com/rcarmo/hy-there", 
+    "title": "GitHub - rcarmo/hy-there: A hylang playground"
 }
