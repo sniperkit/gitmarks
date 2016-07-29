@@ -1558,4 +1558,16 @@
     "hash": "e9da63ce81d502587e016c1a4d478c08", 
     "uri": "https://halgari.github.io/clojure-py/", 
     "title": "Clojure-Py"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca7381b6bbc9a7be0706a4be9465d620", 
+    "uri": "https://github.com/ianrumford/clojure-transducer-examples/blob/master/doc/2014-08-08-Some-trivial-examples-of-using-Clojure-Transducers.org", 
+    "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b401243e090f896e9f1f67d9ba6e2bf1", 
+    "uri": "http://ignaciothayer.com/post/Transducers-Are-Fundamental/", 
+    "title": "Transducers are fundamental"
 }
