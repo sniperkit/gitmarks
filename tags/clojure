@@ -1570,4 +1570,10 @@
     "hash": "b401243e090f896e9f1f67d9ba6e2bf1", 
     "uri": "http://ignaciothayer.com/post/Transducers-Are-Fundamental/", 
     "title": "Transducers are fundamental"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a047a8c7f17928bc6a9f218e7fa41f5b", 
+    "uri": "http://clojure.org/reference/transducers", 
+    "title": "Clojure - Transducers"
 }
