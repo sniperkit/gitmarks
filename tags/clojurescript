@@ -280,4 +280,10 @@
     "hash": "ec15ce7e95969f546784041c87dafb56", 
     "uri": "https://github.com/oubiwann/hoplon-reveal-js", 
     "title": "GitHub - oubiwann/hoplon-reveal-js: Slide decks in ClojureScript; derived from cndreisbach&#39;s Hoplon + Reveal.js work"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fb8c3f5ae7c06b86a58b48fe6df86602", 
+    "uri": "https://github.com/wagjo/data-cljs", 
+    "title": "GitHub - wagjo/data-cljs: Finger trees and miscellaneous functions for ClojureScript data structures."
 }
