@@ -112,4 +112,10 @@
     "hash": "0a0e1f03f7c93c85b7e9c67a31fcdf6b", 
     "uri": "https://www.geekbooks.me/book/view/data-structures-and-algorithms-with-python", 
     "title": "Data Structures and Algorithms with Python - Download eBook PDF - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e9da63ce81d502587e016c1a4d478c08", 
+    "uri": "https://halgari.github.io/clojure-py/", 
+    "title": "Clojure-Py"
 }
