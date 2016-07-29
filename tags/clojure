@@ -1576,4 +1576,10 @@
     "hash": "a047a8c7f17928bc6a9f218e7fa41f5b", 
     "uri": "http://clojure.org/reference/transducers", 
     "title": "Clojure - Transducers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "667a6be209c86dbf025628b5707d9627", 
+    "uri": "https://github.com/Chouser/talk-finger-tree", 
+    "title": "GitHub - Chouser/talk-finger-tree: Slides for (first clojure-conj) talk, &quot;Finger Trees, Custom Persistent Collections&quot;"
 }
