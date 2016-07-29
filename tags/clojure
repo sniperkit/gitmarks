@@ -1582,4 +1582,10 @@
     "hash": "667a6be209c86dbf025628b5707d9627", 
     "uri": "https://github.com/Chouser/talk-finger-tree", 
     "title": "GitHub - Chouser/talk-finger-tree: Slides for (first clojure-conj) talk, &quot;Finger Trees, Custom Persistent Collections&quot;"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4fa21a19cd196453c4910754f5fa1fe7", 
+    "uri": "http://www.staff.city.ac.uk/~ross/papers/FingerTree.html", 
+    "title": "[No Title]"
 }
