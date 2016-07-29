@@ -394,4 +394,10 @@
     "hash": "03325c2d5de639710090b38a060b9e30", 
     "uri": "http://cjohansen.no/an-introduction-to-elisp/", 
     "title": "An introduction to Emacs Lisp"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e4dd214503f9fd219242c3e4c32ff6d7", 
+    "uri": "https://github.com/LightTable/LightTable", 
+    "title": "GitHub - LightTable/LightTable: The Light Table IDE"
 }

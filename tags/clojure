@@ -1528,4 +1528,10 @@
     "hash": "eb73a4bcbe2c51f5c530827a4747b1f1", 
     "uri": "http://fprog.ru/planet/", 
     "title": "Russian Lambda Planet"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e4dd214503f9fd219242c3e4c32ff6d7", 
+    "uri": "https://github.com/LightTable/LightTable", 
+    "title": "GitHub - LightTable/LightTable: The Light Table IDE"
 }
