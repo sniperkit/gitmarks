@@ -1546,4 +1546,10 @@
     "hash": "f536494e648e1af77b9445d0c92acd45", 
     "uri": "http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming", 
     "title": "Transducers are Coming \u2014 Cognitect Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "980295725aebf7f56d0d1ab594d5069a", 
+    "uri": "https://github.com/lprefontaine/Boing", 
+    "title": "GitHub - lprefontaine/Boing: Java dependency injection in Clojure"
 }
