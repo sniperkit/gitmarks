@@ -94,4 +94,10 @@
     "hash": "7a3f697b94b74034beac48416c52ac9b", 
     "uri": "https://www.hypercomments.com/", 
     "title": "HyperComments - Realtime comments system"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d70d02af8d03e9c75df29b856d9d5fbe", 
+    "uri": "https://yada.juxt.pro/index.html", 
+    "title": "yada"
 }

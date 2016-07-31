@@ -1600,4 +1600,10 @@
     "hash": "db4e42bf79c91200be3078e2d714263f", 
     "uri": "https://github.com/breach/thrust", 
     "title": "GitHub - breach/thrust: Chromium-based cross-platform / cross-language application framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d70d02af8d03e9c75df29b856d9d5fbe", 
+    "uri": "https://yada.juxt.pro/index.html", 
+    "title": "yada"
 }
