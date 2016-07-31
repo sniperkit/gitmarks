@@ -1606,4 +1606,10 @@
     "hash": "d70d02af8d03e9c75df29b856d9d5fbe", 
     "uri": "https://yada.juxt.pro/index.html", 
     "title": "yada"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f49688c63e2cad93f9ecabc557d51dba", 
+    "uri": "http://muhuk.github.io/validation-benchmark/", 
+    "title": "[No Title]"
 }
