@@ -322,4 +322,10 @@
     "hash": "0e1baf8cec01acf595b3a5d823e1feb5", 
     "uri": "http://keepass.info/help/base/autotype.html", 
     "title": "Auto-Type - KeePass"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f9fc787946b94e3698968f0e77a950cc", 
+    "uri": "https://labs.detectify.com/2016/07/27/how-i-made-lastpass-give-me-all-your-passwords/", 
+    "title": "403 Forbidden"
 }

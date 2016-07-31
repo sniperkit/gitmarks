@@ -52,4 +52,10 @@
     "hash": "b401243e090f896e9f1f67d9ba6e2bf1", 
     "uri": "http://ignaciothayer.com/post/Transducers-Are-Fundamental/", 
     "title": "Transducers are fundamental"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f9fc787946b94e3698968f0e77a950cc", 
+    "uri": "https://labs.detectify.com/2016/07/27/how-i-made-lastpass-give-me-all-your-passwords/", 
+    "title": "403 Forbidden"
 }
