@@ -514,4 +514,10 @@
     "hash": "2956361934403b4c0330aaf304070e28", 
     "uri": "http://elm-lang.org/blog/how-to-use-elm-at-work", 
     "title": "how-to-use-elm-at-work"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "18d81bb86cf989c042f9727e963f047a", 
+    "uri": "https://gist.github.com/morganrallen/f07f59802884bcdcad4a", 
+    "title": "Janky Browser \u00b7 GitHub"
 }
