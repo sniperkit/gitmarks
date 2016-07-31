@@ -508,4 +508,10 @@
     "hash": "50b904e05b6a0cc1fa1dedf12dc2ee67", 
     "uri": "http://nakkaya.com/2009/04/19/intercepting-links-in-firefox/", 
     "title": "Intercepting Links in Firefox"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2956361934403b4c0330aaf304070e28", 
+    "uri": "http://elm-lang.org/blog/how-to-use-elm-at-work", 
+    "title": "how-to-use-elm-at-work"
 }
