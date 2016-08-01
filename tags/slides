@@ -64,4 +64,10 @@
     "hash": "667a6be209c86dbf025628b5707d9627", 
     "uri": "https://github.com/Chouser/talk-finger-tree", 
     "title": "GitHub - Chouser/talk-finger-tree: Slides for (first clojure-conj) talk, &quot;Finger Trees, Custom Persistent Collections&quot;"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a20a2cc22b2def8b8973d1b1f6a23e0f", 
+    "uri": "http://jr0cket.co.uk/slides/even-developers-can-present.html#/", 
+    "title": "(Even Developers can Present)"
 }
