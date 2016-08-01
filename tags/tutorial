@@ -106,4 +106,10 @@
     "hash": "465e37e58223a4c33b0d356ee0846ac5", 
     "uri": "https://github.com/clojure/core.typed/wiki/User-Guide", 
     "title": "User Guide \u00b7 clojure/core.typed Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec80f0cf50ba1c68125027f0689c2ea5", 
+    "uri": "https://practicalli.github.io/clojure/development-environments/", 
+    "title": "Development Environments \u00b7 Clojure, Practicalli"
 }

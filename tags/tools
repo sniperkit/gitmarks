@@ -400,4 +400,10 @@
     "hash": "e4dd214503f9fd219242c3e4c32ff6d7", 
     "uri": "https://github.com/LightTable/LightTable", 
     "title": "GitHub - LightTable/LightTable: The Light Table IDE"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec80f0cf50ba1c68125027f0689c2ea5", 
+    "uri": "https://practicalli.github.io/clojure/development-environments/", 
+    "title": "Development Environments \u00b7 Clojure, Practicalli"
 }

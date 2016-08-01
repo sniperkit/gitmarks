@@ -1612,4 +1612,10 @@
     "hash": "f49688c63e2cad93f9ecabc557d51dba", 
     "uri": "http://muhuk.github.io/validation-benchmark/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec80f0cf50ba1c68125027f0689c2ea5", 
+    "uri": "https://practicalli.github.io/clojure/development-environments/", 
+    "title": "Development Environments \u00b7 Clojure, Practicalli"
 }
