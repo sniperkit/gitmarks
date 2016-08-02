@@ -112,4 +112,10 @@
     "hash": "675589e59e3b6fb180b1edc11bb8496e", 
     "uri": "https://facebook.github.io/react/docs/getting-started.html", 
     "title": "Getting Started | React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1bead8c133831c05421361e73aa01469", 
+    "uri": "https://facebook.github.io/immutable-js/docs/", 
+    "title": "Immutable.js"
 }
