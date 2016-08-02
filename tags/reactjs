@@ -148,4 +148,10 @@
     "hash": "3b1813d4247062acc7ebc30c405982fd", 
     "uri": "https://github.com/mjmeintjes/boot-react-native", 
     "title": "GitHub - mjmeintjes/boot-react-native: Better development experience with ClojureScript and React Native"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "675589e59e3b6fb180b1edc11bb8496e", 
+    "uri": "https://facebook.github.io/react/docs/getting-started.html", 
+    "title": "Getting Started | React"
 }
