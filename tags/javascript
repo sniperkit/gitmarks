@@ -538,4 +538,10 @@
     "hash": "6725bda21f5ca2c1e94371ce8c45e1df", 
     "uri": "https://github.com/egor-smirnov/egorsmirnov.me-examples", 
     "title": "GitHub - egor-smirnov/egorsmirnov.me-examples: Code examples from http://egorsmirnov.me/"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96f01a6987785c944a616112d55232d3", 
+    "uri": "https://leanpub.com/purescript/read", 
+    "title": "Read PureScript by Example | Leanpub"
 }

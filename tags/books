@@ -298,4 +298,10 @@
     "hash": "a211621a084ad6fc19a7407d5b9b79cf", 
     "uri": "http://www.amazon.com/dp/B00BFXKMPO/ref=cm_sw_r_pi_dp_OVvutb1MFKA6H", 
     "title": "Welding for Beginners in Fabrication, Jason Heard, eBook - Amazon.com"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96f01a6987785c944a616112d55232d3", 
+    "uri": "https://leanpub.com/purescript/read", 
+    "title": "Read PureScript by Example | Leanpub"
 }
