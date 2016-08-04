@@ -1624,4 +1624,10 @@
     "hash": "7c37ee2a43390cfda2bcb7b3d5b6f55c", 
     "uri": "https://github.com/Cascading/Impatient", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8ac1552433d56ab11554cfd71c839944", 
+    "uri": "https://yogthos.net/posts/2016-07-15-JavaSSLWorkaround.html", 
+    "title": "Working around the Java SSL trust store"
 }
