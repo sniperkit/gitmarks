@@ -550,4 +550,10 @@
     "hash": "1bead8c133831c05421361e73aa01469", 
     "uri": "https://facebook.github.io/immutable-js/docs/", 
     "title": "Immutable.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0916eafeeb53a15dbc7407f6dfa9aea2", 
+    "uri": "https://github.com/reactjs/react-router", 
+    "title": "GitHub - reactjs/react-router: A complete routing library for React"
 }
