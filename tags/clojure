@@ -1630,4 +1630,10 @@
     "hash": "8ac1552433d56ab11554cfd71c839944", 
     "uri": "https://yogthos.net/posts/2016-07-15-JavaSSLWorkaround.html", 
     "title": "Working around the Java SSL trust store"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cb35c10e40b29680508e2fc7409210f9", 
+    "uri": "https://nakkaya.com/2010/06/15/clojure-io-cookbook/", 
+    "title": "Clojure I/O Cookbook"
 }
