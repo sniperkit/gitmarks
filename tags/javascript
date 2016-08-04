@@ -556,4 +556,10 @@
     "hash": "0916eafeeb53a15dbc7407f6dfa9aea2", 
     "uri": "https://github.com/reactjs/react-router", 
     "title": "GitHub - reactjs/react-router: A complete routing library for React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "849974500ca8b391a0c454fe47d4e3b2", 
+    "uri": "http://eslint.org/docs/user-guide/getting-started", 
+    "title": "Getting Started with ESLint - ESLint - Pluggable JavaScript linter"
 }
