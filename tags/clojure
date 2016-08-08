@@ -1636,4 +1636,10 @@
     "hash": "cb35c10e40b29680508e2fc7409210f9", 
     "uri": "https://nakkaya.com/2010/06/15/clojure-io-cookbook/", 
     "title": "Clojure I/O Cookbook"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c967937c41e0c8c6391207b5abf15c8", 
+    "uri": "https://github.com/matthiasn/Birdwatch", 
+    "title": "GitHub - matthiasn/BirdWatch: Tweet stream analysis and visualization with real-time updates."
 }
