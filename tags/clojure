@@ -1648,4 +1648,10 @@
     "hash": "05eb12e6bb2a6a1334823ba2fc09e809", 
     "uri": "https://ruedigergad.com/category/libs/", 
     "title": "Libs. | ruedigergad"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "feab4bec743dfd518a4682493d76f184", 
+    "uri": "https://vimeo.com/8665159", 
+    "title": "Episode 6 - Point Free Clojure on Vimeo"
 }

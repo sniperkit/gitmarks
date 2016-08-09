@@ -100,4 +100,10 @@
     "hash": "227a12d43b58390f4c2dbe77b224ac3f", 
     "uri": "https://www.infoq.com/clojure/", 
     "title": "Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "feab4bec743dfd518a4682493d76f184", 
+    "uri": "https://vimeo.com/8665159", 
+    "title": "Episode 6 - Point Free Clojure on Vimeo"
 }
