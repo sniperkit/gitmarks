@@ -118,4 +118,10 @@
     "hash": "7c37ee2a43390cfda2bcb7b3d5b6f55c", 
     "uri": "https://github.com/Cascading/Impatient", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "38a20d8561d64f970eb3e00246ec3f85", 
+    "uri": "https://github.com/swannodette/lt-cljs-tutorial", 
+    "title": "GitHub - swannodette/lt-cljs-tutorial: A ClojureScript Programming Language Tutorial for Light Table Users"
 }

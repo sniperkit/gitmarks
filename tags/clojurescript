@@ -286,4 +286,10 @@
     "hash": "fb8c3f5ae7c06b86a58b48fe6df86602", 
     "uri": "https://github.com/wagjo/data-cljs", 
     "title": "GitHub - wagjo/data-cljs: Finger trees and miscellaneous functions for ClojureScript data structures."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "38a20d8561d64f970eb3e00246ec3f85", 
+    "uri": "https://github.com/swannodette/lt-cljs-tutorial", 
+    "title": "GitHub - swannodette/lt-cljs-tutorial: A ClojureScript Programming Language Tutorial for Light Table Users"
 }
