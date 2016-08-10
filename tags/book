@@ -172,4 +172,10 @@
     "hash": "e8ba0fbe2c7e8c6ede8b33fe3e1e920e", 
     "uri": "https://github.com/pcl-ru/pcl-ru", 
     "title": "GitHub - pcl-ru/pcl-ru"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d28e7fdcec5c937388282ae4e839fb7b", 
+    "uri": "http://langintro.com/icljs/index.html", 
+    "title": "Transforming Data with ClojureScript &mdash; Transforming Data with ClojureScript"
 }
