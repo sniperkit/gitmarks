@@ -10,4 +10,10 @@
     "hash": "ef03ea00f022ce2abb52f454d52d9221", 
     "uri": "http://pinboard.in/t:neo4j", 
     "title": "Pinboard bookmarks tagged neo4j"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe0137b67f3a55dc8d8d4b79ff8daacd", 
+    "uri": "https://github.com/aysylu/loom", 
+    "title": "GitHub - aysylu/loom: Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj"
 }

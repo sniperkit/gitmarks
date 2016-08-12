@@ -1660,4 +1660,10 @@
     "hash": "f58a108d8510165e1e39dac0daa75503", 
     "uri": "http://neanderthal.uncomplicate.org/", 
     "title": "Neanderthal - Fast Native Matrix and Linear Algebra in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe0137b67f3a55dc8d8d4b79ff8daacd", 
+    "uri": "https://github.com/aysylu/loom", 
+    "title": "GitHub - aysylu/loom: Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj"
 }
