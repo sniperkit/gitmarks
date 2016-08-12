@@ -1654,4 +1654,10 @@
     "hash": "feab4bec743dfd518a4682493d76f184", 
     "uri": "https://vimeo.com/8665159", 
     "title": "Episode 6 - Point Free Clojure on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f58a108d8510165e1e39dac0daa75503", 
+    "uri": "http://neanderthal.uncomplicate.org/", 
+    "title": "Neanderthal - Fast Native Matrix and Linear Algebra in Clojure"
 }
