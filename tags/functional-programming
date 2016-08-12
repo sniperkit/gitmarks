@@ -610,4 +610,10 @@
     "hash": "363a52468831788eb806a891541b46ea", 
     "uri": "https://en.wikipedia.org/wiki/Fixed-point_combinator", 
     "title": "Fixed-point combinator - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe8529c89f21bd9787d6e2f2eb357d5f", 
+    "uri": "http://blog.klipse.tech//lambda/2016/08/10/almost-y-combinator-javascript.html", 
+    "title": "Recursions without names: Introduction to the Y combinator in javascript"
 }

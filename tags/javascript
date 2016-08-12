@@ -562,4 +562,10 @@
     "hash": "849974500ca8b391a0c454fe47d4e3b2", 
     "uri": "http://eslint.org/docs/user-guide/getting-started", 
     "title": "Getting Started with ESLint - ESLint - Pluggable JavaScript linter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe8529c89f21bd9787d6e2f2eb357d5f", 
+    "uri": "http://blog.klipse.tech//lambda/2016/08/10/almost-y-combinator-javascript.html", 
+    "title": "Recursions without names: Introduction to the Y combinator in javascript"
 }
