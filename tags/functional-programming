@@ -592,4 +592,10 @@
     "hash": "96f01a6987785c944a616112d55232d3", 
     "uri": "https://leanpub.com/purescript/read", 
     "title": "Read PureScript by Example | Leanpub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "522efd781761fc4734598d6f30604f49", 
+    "uri": "https://cs.anu.edu.au/courses/comp3610/lectures/", 
+    "title": "Index of /courses/comp3610/lectures"
 }
