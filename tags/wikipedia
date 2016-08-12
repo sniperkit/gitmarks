@@ -52,4 +52,10 @@
     "hash": "bf59b807bf6925eb42ffcda66d0ab003", 
     "uri": "http://en.wikipedia.org/wiki/Scope_(computer_science)", 
     "title": "Scope (computer science) - Wikipedia, the free encyclopedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "363a52468831788eb806a891541b46ea", 
+    "uri": "https://en.wikipedia.org/wiki/Fixed-point_combinator", 
+    "title": "Fixed-point combinator - Wikipedia, the free encyclopedia"
 }

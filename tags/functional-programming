@@ -604,4 +604,10 @@
     "hash": "46b1969950726d948e2d9a9621dd097e", 
     "uri": "http://www.mscs.dal.ca/~selinger/papers/", 
     "title": "Peter Selinger: Papers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "363a52468831788eb806a891541b46ea", 
+    "uri": "https://en.wikipedia.org/wiki/Fixed-point_combinator", 
+    "title": "Fixed-point combinator - Wikipedia, the free encyclopedia"
 }
