@@ -1684,4 +1684,10 @@
     "hash": "51715998bf8dc05955a31c4d9901f42c", 
     "uri": "https://github.com/missingfaktor/akar", 
     "title": "GitHub - missingfaktor/akar: First-class patterns for Clojure. Made with love, functions, and just the right amount of syntax."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd27c658296c735ee48e40f6ecdf7112", 
+    "uri": "https://www.youtube.com/watch?v=8uHfMltTbqs", 
+    "title": "Expert to Expert: Erik Meijer and Rich Hickey - Clojure and Datomic - YouTube"
 }

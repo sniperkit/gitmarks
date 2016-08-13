@@ -136,4 +136,10 @@
     "hash": "2adf03261ab7dedb589b79c840325c85", 
     "uri": "https://www.youtube.com/watch?v=6mTbuzafcII", 
     "title": "&quot;Transducers&quot; by Rich Hickey - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd27c658296c735ee48e40f6ecdf7112", 
+    "uri": "https://www.youtube.com/watch?v=8uHfMltTbqs", 
+    "title": "Expert to Expert: Erik Meijer and Rich Hickey - Clojure and Datomic - YouTube"
 }
