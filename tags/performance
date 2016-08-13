@@ -40,4 +40,10 @@
     "hash": "c3d9e40c5af0e3c255ba569f86dae4ac", 
     "uri": "https://github.com/ztellman/vertigo", 
     "title": "GitHub - ztellman/vertigo: heterogeneous structs for clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "18d2aab1b5d67271f84c619faebea188", 
+    "uri": "https://devcenter.heroku.com/articles/java-memory-issues", 
+    "title": "Troubleshooting Memory Issues in Java Applications | Heroku Dev Center"
 }

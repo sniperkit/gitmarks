@@ -136,4 +136,10 @@
     "hash": "7c37ee2a43390cfda2bcb7b3d5b6f55c", 
     "uri": "https://github.com/Cascading/Impatient", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "18d2aab1b5d67271f84c619faebea188", 
+    "uri": "https://devcenter.heroku.com/articles/java-memory-issues", 
+    "title": "Troubleshooting Memory Issues in Java Applications | Heroku Dev Center"
 }
