@@ -28,4 +28,10 @@
     "hash": "9b2f96904ffae414033a17019a60e8a1", 
     "uri": "https://github.com/jolby/rincanter", 
     "title": "GitHub - jolby/rincanter: Use embedded R from Clojure and Incanter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46ba44354a224cc5d882d332dbf68b85", 
+    "uri": "https://data-sorcery.org/book-recommendations/", 
+    "title": "Book Recommendations | Data Sorcery with Clojure"
 }

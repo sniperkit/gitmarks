@@ -1696,4 +1696,10 @@
     "hash": "2c437b4942502082b58bc1d3631b143a", 
     "uri": "http://www.lispcast.com/ultimate-guide-to-learning-clojure-for-free", 
     "title": "The Ultimate Guide to Learning Clojure for Free | LispCast"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46ba44354a224cc5d882d332dbf68b85", 
+    "uri": "https://data-sorcery.org/book-recommendations/", 
+    "title": "Book Recommendations | Data Sorcery with Clojure"
 }

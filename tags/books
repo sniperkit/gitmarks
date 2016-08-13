@@ -304,4 +304,10 @@
     "hash": "96f01a6987785c944a616112d55232d3", 
     "uri": "https://leanpub.com/purescript/read", 
     "title": "Read PureScript by Example | Leanpub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46ba44354a224cc5d882d332dbf68b85", 
+    "uri": "https://data-sorcery.org/book-recommendations/", 
+    "title": "Book Recommendations | Data Sorcery with Clojure"
 }

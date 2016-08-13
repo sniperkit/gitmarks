@@ -46,4 +46,10 @@
     "hash": "5484fc9fd2dc7a73045a2eaf77bd7fce", 
     "uri": "http://mc-stan.org/", 
     "title": "Stan "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46ba44354a224cc5d882d332dbf68b85", 
+    "uri": "https://data-sorcery.org/book-recommendations/", 
+    "title": "Book Recommendations | Data Sorcery with Clojure"
 }

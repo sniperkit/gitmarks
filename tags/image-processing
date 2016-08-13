@@ -22,4 +22,10 @@
     "hash": "c8e1a3d883ad50e4f0b48413baec7cff", 
     "uri": "https://processing.org/tutorials/", 
     "title": "Tutorials \\ Processing.org"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "46ba44354a224cc5d882d332dbf68b85", 
+    "uri": "https://data-sorcery.org/book-recommendations/", 
+    "title": "Book Recommendations | Data Sorcery with Clojure"
 }
