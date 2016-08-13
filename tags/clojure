@@ -1690,4 +1690,10 @@
     "hash": "bd27c658296c735ee48e40f6ecdf7112", 
     "uri": "https://www.youtube.com/watch?v=8uHfMltTbqs", 
     "title": "Expert to Expert: Erik Meijer and Rich Hickey - Clojure and Datomic - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2c437b4942502082b58bc1d3631b143a", 
+    "uri": "http://www.lispcast.com/ultimate-guide-to-learning-clojure-for-free", 
+    "title": "The Ultimate Guide to Learning Clojure for Free | LispCast"
 }
