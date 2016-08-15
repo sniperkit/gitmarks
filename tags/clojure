@@ -1714,4 +1714,10 @@
     "hash": "8ce122ec28158fcded312ca3fb491950", 
     "uri": "http://www.flyingmachinestudios.com/programming/datomic-for-five-year-olds/", 
     "title": "Datomic for Five Year Olds"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57c145314c77164736b72fa2995afc70", 
+    "uri": "https://github.com/jonase/learndatalogtoday", 
+    "title": "GitHub - jonase/learndatalogtoday: Interactive Datalog Tutorial"
 }

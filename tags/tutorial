@@ -130,4 +130,10 @@
     "hash": "99c20e6ac86da649f2368f14de2664e1", 
     "uri": "https://github.com/jdeisenberg/icljs", 
     "title": "GitHub - jdeisenberg/icljs: Interactive Tutorial for ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57c145314c77164736b72fa2995afc70", 
+    "uri": "https://github.com/jonase/learndatalogtoday", 
+    "title": "GitHub - jonase/learndatalogtoday: Interactive Datalog Tutorial"
 }
