@@ -124,4 +124,10 @@
     "hash": "788843b7da2e717747a8184c7205862b", 
     "uri": "http://docs.datomic.com/", 
     "title": "Document Index | Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8ce122ec28158fcded312ca3fb491950", 
+    "uri": "http://www.flyingmachinestudios.com/programming/datomic-for-five-year-olds/", 
+    "title": "Datomic for Five Year Olds"
 }
