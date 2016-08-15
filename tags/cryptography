@@ -268,4 +268,10 @@
     "hash": "20de77e6953e4d1487efe765b111da6f", 
     "uri": "https://github.com/NTRUOpenSourceProject", 
     "title": "NTRU Open Source Project \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca4c40ffe7dec194f36dd669a879f7b3", 
+    "uri": "https://github.com/PascalCoin/PascalCoin", 
+    "title": "GitHub - PascalCoin/PascalCoin: P2P cryptocurrency without need of historical operations"
 }
