@@ -118,4 +118,10 @@
     "hash": "1bead8c133831c05421361e73aa01469", 
     "uri": "https://facebook.github.io/immutable-js/docs/", 
     "title": "Immutable.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "788843b7da2e717747a8184c7205862b", 
+    "uri": "http://docs.datomic.com/", 
+    "title": "Document Index | Datomic"
 }

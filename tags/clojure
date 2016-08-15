@@ -1702,4 +1702,10 @@
     "hash": "46ba44354a224cc5d882d332dbf68b85", 
     "uri": "https://data-sorcery.org/book-recommendations/", 
     "title": "Book Recommendations | Data Sorcery with Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "788843b7da2e717747a8184c7205862b", 
+    "uri": "http://docs.datomic.com/", 
+    "title": "Document Index | Datomic"
 }
