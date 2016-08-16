@@ -1720,4 +1720,10 @@
     "hash": "57c145314c77164736b72fa2995afc70", 
     "uri": "https://github.com/jonase/learndatalogtoday", 
     "title": "GitHub - jonase/learndatalogtoday: Interactive Datalog Tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bc695ce173bdfbb7d64d59a8de08572d", 
+    "uri": "https://github.com/ricardojmendez/tropology", 
+    "title": "GitHub - ricardojmendez/tropology: Tropology is a Clojure project to crawl TVTropes.org, converts the relationships between pages into a PostgreSQL database, and helps you visualize relationships between concepts, tropes, creators and material."
 }
