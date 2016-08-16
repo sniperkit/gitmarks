@@ -118,4 +118,10 @@
     "hash": "794e076a354b9c51f78f09d33e437b3f", 
     "uri": "http://keepass.info/help/v2_dev/plg_index.html", 
     "title": "Plugin Development - KeePass"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c6a8501686609144a6937bd88962beb1", 
+    "uri": "https://github.com/ricardojmendez/Kinect2Remote", 
+    "title": "GitHub - ricardojmendez/Kinect2Remote: Remote transmitter for Kinect 2 body and gesture data"
 }
