@@ -412,4 +412,10 @@
     "hash": "849974500ca8b391a0c454fe47d4e3b2", 
     "uri": "http://eslint.org/docs/user-guide/getting-started", 
     "title": "Getting Started with ESLint - ESLint - Pluggable JavaScript linter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a2e6df931a484f3ad035a1ed5b0a687b", 
+    "uri": "https://github.com/edx/", 
+    "title": "edX \u00b7 GitHub"
 }

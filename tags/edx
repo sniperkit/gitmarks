@@ -46,4 +46,10 @@
     "hash": "468d1156298895e0bc9be0bad372c9b6", 
     "uri": "https://www.edx.org/course/fun-prime-numbers-mysterious-world-kyotoux-004x-0", 
     "title": "Fun with Prime Numbers: The Mysterious World of Mathematics | edX"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a2e6df931a484f3ad035a1ed5b0a687b", 
+    "uri": "https://github.com/edx/", 
+    "title": "edX \u00b7 GitHub"
 }

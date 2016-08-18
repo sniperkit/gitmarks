@@ -112,4 +112,10 @@
     "hash": "f343b6156b5c6ff613cc3d62653462ac", 
     "uri": "https://www.ethz.ch/en.html", 
     "title": "ETH Zurich - Homepage | ETH Zurich"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a2e6df931a484f3ad035a1ed5b0a687b", 
+    "uri": "https://github.com/edx/", 
+    "title": "edX \u00b7 GitHub"
 }
