@@ -1726,4 +1726,10 @@
     "hash": "bc695ce173bdfbb7d64d59a8de08572d", 
     "uri": "https://github.com/ricardojmendez/tropology", 
     "title": "GitHub - ricardojmendez/tropology: Tropology is a Clojure project to crawl TVTropes.org, converts the relationships between pages into a PostgreSQL database, and helps you visualize relationships between concepts, tropes, creators and material."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1b1f00d074dd7a240f82c0ff8139943e", 
+    "uri": "https://github.com/lvh/caesium", 
+    "title": "GitHub - lvh/caesium: Modern cryptography (libsodium/NaCl) for Clojure"
 }
