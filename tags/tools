@@ -424,4 +424,10 @@
     "hash": "88936d5a46e7872ebf18c47933ba5339", 
     "uri": "https://github.com/ptaoussanis/tufte", 
     "title": "GitHub - ptaoussanis/tufte: Simple profiling and performance monitoring for Clojure/Script"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc22edd5c74b8797dd05b54a76607829", 
+    "uri": "https://lambdaisland.com/guides/clojure-repls/", 
+    "title": "The Ultimate Guide To Clojure REPLs | The Ultimate Guide To Clojure REPLs Guide"
 }
