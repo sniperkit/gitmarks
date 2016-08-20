@@ -1750,4 +1750,10 @@
     "hash": "1f678ce128214094cbdd7f3c56c7893a", 
     "uri": "https://clojure.news/", 
     "title": "Access denied | clojure.news used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "81a7081db80eb0755163e04c5fd408ba", 
+    "uri": "https://lambdaisland.com/episodes/reagent", 
+    "title": "Lambda Island | 9. Reagent"
 }

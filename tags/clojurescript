@@ -340,4 +340,10 @@
     "hash": "dc22edd5c74b8797dd05b54a76607829", 
     "uri": "https://lambdaisland.com/guides/clojure-repls/", 
     "title": "The Ultimate Guide To Clojure REPLs | The Ultimate Guide To Clojure REPLs Guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "81a7081db80eb0755163e04c5fd408ba", 
+    "uri": "https://lambdaisland.com/episodes/reagent", 
+    "title": "Lambda Island | 9. Reagent"
 }
