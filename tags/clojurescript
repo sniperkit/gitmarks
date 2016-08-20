@@ -328,4 +328,10 @@
     "hash": "74b0e84b3471612f48cff2445a539823", 
     "uri": "https://github.com/suprematic/khroma", 
     "title": "GitHub - suprematic/khroma"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "88936d5a46e7872ebf18c47933ba5339", 
+    "uri": "https://github.com/ptaoussanis/tufte", 
+    "title": "GitHub - ptaoussanis/tufte: Simple profiling and performance monitoring for Clojure/Script"
 }

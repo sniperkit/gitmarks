@@ -418,4 +418,10 @@
     "hash": "a2e6df931a484f3ad035a1ed5b0a687b", 
     "uri": "https://github.com/edx/", 
     "title": "edX \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "88936d5a46e7872ebf18c47933ba5339", 
+    "uri": "https://github.com/ptaoussanis/tufte", 
+    "title": "GitHub - ptaoussanis/tufte: Simple profiling and performance monitoring for Clojure/Script"
 }
