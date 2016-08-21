@@ -16,4 +16,10 @@
     "hash": "fe0137b67f3a55dc8d8d4b79ff8daacd", 
     "uri": "https://github.com/aysylu/loom", 
     "title": "GitHub - aysylu/loom: Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "34d1505c27adee79c2d2379359721432", 
+    "uri": "https://neo4j.com/graphgists/", 
+    "title": "Neo4j GraphGists: Example Graph Data Models and Cypher Queries"
 }

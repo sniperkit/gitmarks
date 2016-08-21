@@ -4,4 +4,10 @@
     "hash": "ef03ea00f022ce2abb52f454d52d9221", 
     "uri": "http://pinboard.in/t:neo4j", 
     "title": "Pinboard bookmarks tagged neo4j"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "34d1505c27adee79c2d2379359721432", 
+    "uri": "https://neo4j.com/graphgists/", 
+    "title": "Neo4j GraphGists: Example Graph Data Models and Cypher Queries"
 }
