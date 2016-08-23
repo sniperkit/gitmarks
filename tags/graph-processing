@@ -22,4 +22,10 @@
     "hash": "34d1505c27adee79c2d2379359721432", 
     "uri": "https://neo4j.com/graphgists/", 
     "title": "Neo4j GraphGists: Example Graph Data Models and Cypher Queries"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3d90f2e2d6ac1450636dfba5944d1d93", 
+    "uri": "https://neo4j.com/developer/kb/fulltext-search-in-neo4j/", 
+    "title": "Neo4j :: Fulltext Search in Neo4j - Neo4j Graph Database"
 }
