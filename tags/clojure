@@ -1756,4 +1756,10 @@
     "hash": "81a7081db80eb0755163e04c5fd408ba", 
     "uri": "https://lambdaisland.com/episodes/reagent", 
     "title": "Lambda Island | 9. Reagent"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd9e2044a2294afe919f43fbfba8ccda", 
+    "uri": "https://github.com/michaelklishin/pantomime", 
+    "title": "GitHub - michaelklishin/pantomime: A tiny Clojure library that deals with MIME types (Internet media types)"
 }
