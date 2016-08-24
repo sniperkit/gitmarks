@@ -442,4 +442,10 @@
     "hash": "b418360de3468901422ed299ceb93c78", 
     "uri": "https://pdfbox.apache.org/", 
     "title": "Apache PDFBox | A Java PDF Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f118710eef6c3b6f1812c769140fb01b", 
+    "uri": "https://github.com/mtyaka/lein-oneoff", 
+    "title": "GitHub - mtyaka/lein-oneoff: Dependency management for one-off, single-file clojure programs."
 }

@@ -22,4 +22,10 @@
     "hash": "9eef51483d8cc31ca622378351952b2a", 
     "uri": "https://github.com/travis/lein-storm-project-template", 
     "title": "GitHub - travis/lein-storm-project-template: a leiningen template for creating new storm projects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f118710eef6c3b6f1812c769140fb01b", 
+    "uri": "https://github.com/mtyaka/lein-oneoff", 
+    "title": "GitHub - mtyaka/lein-oneoff: Dependency management for one-off, single-file clojure programs."
 }
