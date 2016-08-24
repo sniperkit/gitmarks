@@ -436,4 +436,10 @@
     "hash": "beff298af1edfcb4373d54b9f42ad183", 
     "uri": "http://makezine.com/tag/homemade-tools/", 
     "title": "Access denied | makezine.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b418360de3468901422ed299ceb93c78", 
+    "uri": "https://pdfbox.apache.org/", 
+    "title": "Apache PDFBox | A Java PDF Library"
 }

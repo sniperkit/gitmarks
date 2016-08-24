@@ -142,4 +142,10 @@
     "hash": "18d2aab1b5d67271f84c619faebea188", 
     "uri": "https://devcenter.heroku.com/articles/java-memory-issues", 
     "title": "Troubleshooting Memory Issues in Java Applications | Heroku Dev Center"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b418360de3468901422ed299ceb93c78", 
+    "uri": "https://pdfbox.apache.org/", 
+    "title": "Apache PDFBox | A Java PDF Library"
 }
