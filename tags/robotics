@@ -58,4 +58,10 @@
     "hash": "4634893ed4b18585a269a7e3b5d90d9a", 
     "uri": "https://github.com/kelu124/echomods", 
     "title": "GitHub - kelu124/echomods: Creating modules out of the murgen board"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7bbca9a8e31fc940ee1831bf0d72647f", 
+    "uri": "https://github.com/kelu124/murgen-dev-kit", 
+    "title": "GitHub - kelu124/murgen-dev-kit: Imaging ultrasound dev/hacking kit"
 }
