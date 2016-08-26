@@ -274,4 +274,10 @@
     "hash": "ca4c40ffe7dec194f36dd669a879f7b3", 
     "uri": "https://github.com/PascalCoin/PascalCoin", 
     "title": "GitHub - PascalCoin/PascalCoin: P2P cryptocurrency without need of historical operations"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "44b414a5036a3bedad46c7e769cecf8c", 
+    "uri": "https://github.com/suvash/one-time", 
+    "title": "GitHub - suvash/one-time: One Time Password (TOTP and HOTP) library for Clojure. TOTP/HOTP is widely used for Two / Multi Factor Authentication."
 }
