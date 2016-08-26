@@ -46,4 +46,10 @@
     "hash": "e506359a90b7a7293fdd7d3da3c79264", 
     "uri": "https://vimeo.com/channels/fulldisclojure", 
     "title": "Full Disclojure on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "83d3ca2dc3fb42162f3086b9d67c2a09", 
+    "uri": "https://lambdaisland.com/episodes", 
+    "title": "Lambda Island | Episodes"
 }
