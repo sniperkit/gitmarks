@@ -454,4 +454,10 @@
     "hash": "ceeb5c4dae53c838bbb2e0a8f1926444", 
     "uri": "https://www.babbel.com/en/magazine/learn-any-language-in-your-hometown", 
     "title": "7 Tricks To Learn Any Language In 7 Days (From The Superpolyglot Twins Who Did It) - Babbel.com"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4d3c17ff657eb2945443fbee9fd22ede", 
+    "uri": "https://github.com/mynomoto/repetition-hunter", 
+    "title": "GitHub - mynomoto/repetition-hunter: A tool to find repetitions in clojure code."
 }
