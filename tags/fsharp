@@ -52,4 +52,10 @@
     "hash": "6f56f937cd1301f452561395f9a040bf", 
     "uri": "https://www.geekbooks.me/tag/view/fsharp", 
     "title": "F# - GeekBooks - Free Tech PDF eBook Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f373db710f71c43b9f24d6a8a921b16e", 
+    "uri": "http://fsharpforfunandprofit.com/", 
+    "title": "Home | F# for fun and profit"
 }
