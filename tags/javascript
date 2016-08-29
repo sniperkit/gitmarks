@@ -568,4 +568,10 @@
     "hash": "fe8529c89f21bd9787d6e2f2eb357d5f", 
     "uri": "http://blog.klipse.tech//lambda/2016/08/10/almost-y-combinator-javascript.html", 
     "title": "Recursions without names: Introduction to the Y combinator in javascript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1fa40a1eff4bf7df13526197910a07dc", 
+    "uri": "https://alpha.trycarbide.com", 
+    "title": "Access denied | alpha.trycarbide.com used CloudFlare to restrict access"
 }
