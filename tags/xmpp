@@ -16,4 +16,10 @@
     "hash": "f2521ec3a7c833d6934b554c9257fbb4", 
     "uri": "https://github.com/AdamClements/quit-yo-jibber", 
     "title": "GitHub - AdamClements/quit-yo-jibber: A lightweight clojure wrapper around the smack jabber/XMPP library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "416d555945f16dd26fc918e058ce7381", 
+    "uri": "http://www.lshift.net/blog/2014/06/30/dockerising-an-xmpp-server/", 
+    "title": "403 Forbidden"
 }

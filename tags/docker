@@ -22,4 +22,10 @@
     "hash": "5e5bb77f3e2acdbb89c4eeed27847d95", 
     "uri": "https://www.contentreich.de/docker-clojure-microservices-google-and-alfresco-introducing-ecm-google-services", 
     "title": "Docker, Clojure, Microservices, Google (and Alfresco): Introducing ECM Google Services - CONTENTREICH"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "416d555945f16dd26fc918e058ce7381", 
+    "uri": "http://www.lshift.net/blog/2014/06/30/dockerising-an-xmpp-server/", 
+    "title": "403 Forbidden"
 }
