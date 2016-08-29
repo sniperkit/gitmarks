@@ -28,4 +28,10 @@
     "hash": "96073644a333082d3cd2dadb044b8f3f", 
     "uri": "https://www.javacodegeeks.com/2015/02/secure-openfire-xmpp-server.html", 
     "title": "Access denied | www.javacodegeeks.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2afbb1408365ba9d0e4bcba94657857c", 
+    "uri": "http://mina.apache.org/vysper-project/index.html", 
+    "title": "Apache Vysper &mdash; Apache MINA"
 }
