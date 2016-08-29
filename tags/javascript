@@ -574,4 +574,10 @@
     "hash": "1fa40a1eff4bf7df13526197910a07dc", 
     "uri": "https://alpha.trycarbide.com", 
     "title": "Access denied | alpha.trycarbide.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8624e1e7769e4fae00daf7e095392985", 
+    "uri": "https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.xay2s8t5z", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
 }
