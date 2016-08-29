@@ -148,4 +148,10 @@
     "hash": "b418360de3468901422ed299ceb93c78", 
     "uri": "https://pdfbox.apache.org/", 
     "title": "Apache PDFBox | A Java PDF Library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96073644a333082d3cd2dadb044b8f3f", 
+    "uri": "https://www.javacodegeeks.com/2015/02/secure-openfire-xmpp-server.html", 
+    "title": "Access denied | www.javacodegeeks.com used CloudFlare to restrict access"
 }

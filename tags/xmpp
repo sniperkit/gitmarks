@@ -22,4 +22,10 @@
     "hash": "416d555945f16dd26fc918e058ce7381", 
     "uri": "http://www.lshift.net/blog/2014/06/30/dockerising-an-xmpp-server/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "96073644a333082d3cd2dadb044b8f3f", 
+    "uri": "https://www.javacodegeeks.com/2015/02/secure-openfire-xmpp-server.html", 
+    "title": "Access denied | www.javacodegeeks.com used CloudFlare to restrict access"
 }
