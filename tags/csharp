@@ -70,4 +70,10 @@
     "hash": "68b2d3dce61404ba60fb25eefb56a18c", 
     "uri": "https://ytdownloadextension.codeplex.com", 
     "title": "YouTube API Download Extension - Home"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "32096464f8e0faef22c8cb3099e1de59", 
+    "uri": "https://msdn.microsoft.com/en-us/library/system.collections.immutable.aspx", 
+    "title": "System.Collections.Immutable\u2002Namespace"
 }
