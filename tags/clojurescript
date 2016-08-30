@@ -346,4 +346,10 @@
     "hash": "81a7081db80eb0755163e04c5fd408ba", 
     "uri": "https://lambdaisland.com/episodes/reagent", 
     "title": "Lambda Island | 9. Reagent"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ef5c8b46c67d3fafb75e97693e335cb5", 
+    "uri": "http://langintro.com/icljs/", 
+    "title": "Transforming Data with ClojureScript &mdash; Transforming Data with ClojureScript"
 }
