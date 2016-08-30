@@ -1798,4 +1798,10 @@
     "hash": "7a0f3426b28874ec540f36585374c784", 
     "uri": "http://blog.klipse.tech//lambda/2016/07/24/lambda-calculus-1.html", 
     "title": "Numbers and Arithmetics with functions only: lambda calculus live tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "26691c27876c7c8e1c5c9d6ae2e25b87", 
+    "uri": "http://www.lispcast.com/hirable-in-clojure", 
+    "title": "What do I have to learn to be hirable in Clojure? | LispCast"
 }
