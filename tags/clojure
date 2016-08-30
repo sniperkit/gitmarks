@@ -1822,4 +1822,10 @@
     "hash": "06de4c98edf4358315d193da0dff23b9", 
     "uri": "https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/", 
     "title": "Close Encounters of The Java Memory Model Kind"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0066b6e5abf8e17dc37e6a1b07d1549d", 
+    "uri": "http://www.stuttaford.me/2016/01/15/how-cognician-uses-onyx/", 
+    "title": "How Cognician uses Onyx &middot; Robert Stuttaford, Clojure Enthusiast"
 }
