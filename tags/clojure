@@ -1828,4 +1828,10 @@
     "hash": "0066b6e5abf8e17dc37e6a1b07d1549d", 
     "uri": "http://www.stuttaford.me/2016/01/15/how-cognician-uses-onyx/", 
     "title": "How Cognician uses Onyx &middot; Robert Stuttaford, Clojure Enthusiast"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3ce02c18ebbe782a2f2d166f8448ab5", 
+    "uri": "https://github.com/uncomplicate/bayadera", 
+    "title": "GitHub - uncomplicate/bayadera"
 }

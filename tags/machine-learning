@@ -52,4 +52,10 @@
     "hash": "46ba44354a224cc5d882d332dbf68b85", 
     "uri": "https://data-sorcery.org/book-recommendations/", 
     "title": "Book Recommendations | Data Sorcery with Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e3ce02c18ebbe782a2f2d166f8448ab5", 
+    "uri": "https://github.com/uncomplicate/bayadera", 
+    "title": "GitHub - uncomplicate/bayadera"
 }
