@@ -34,4 +34,10 @@
     "hash": "5fcdf12084a4bb2ebdf8135b15e55914", 
     "uri": "http://java.ociweb.com/mark/clojure/article.html", 
     "title": "Clojure - Functional Programming for the JVM"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b012134a1cbb06ac75ec86e9a84b95fb", 
+    "uri": "https://shipilev.net/blog/2014/jmm-pragmatics/", 
+    "title": "Java Memory Model Pragmatics (transcript)"
 }

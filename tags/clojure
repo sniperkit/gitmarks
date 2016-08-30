@@ -1810,4 +1810,10 @@
     "hash": "cf39b759e76a44953e4ea54603f8ec32", 
     "uri": "https://www.reddit.com/r/Clojure/comments/4uvcp4/just_got_my_first_clojure_job_any_tips_for/", 
     "title": "Too Many Requests"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b012134a1cbb06ac75ec86e9a84b95fb", 
+    "uri": "https://shipilev.net/blog/2014/jmm-pragmatics/", 
+    "title": "Java Memory Model Pragmatics (transcript)"
 }
