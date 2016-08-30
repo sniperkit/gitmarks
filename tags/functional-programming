@@ -622,4 +622,10 @@
     "hash": "cbf7274312d920d2446209b8cdbe7e1e", 
     "uri": "http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html", 
     "title": "Functors, Applicatives, And Monads In Pictures - adit.io"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7a0f3426b28874ec540f36585374c784", 
+    "uri": "http://blog.klipse.tech//lambda/2016/07/24/lambda-calculus-1.html", 
+    "title": "Numbers and Arithmetics with functions only: lambda calculus live tutorial"
 }
