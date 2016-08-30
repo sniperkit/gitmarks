@@ -1834,4 +1834,10 @@
     "hash": "e3ce02c18ebbe782a2f2d166f8448ab5", 
     "uri": "https://github.com/uncomplicate/bayadera", 
     "title": "GitHub - uncomplicate/bayadera"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3a1e2d71d09d845a1c39ce0a3a9052cd", 
+    "uri": "https://wickstrom.tech/programming/2016/08/07/generating-sight-reading-exercises-using-constraint-logic-programming-in-clojure-part-1.html", 
+    "title": "Generating Sight-Reading Exercises using Constraint Logic Programming in Clojure, Part 1 | Func Da World"
 }
