@@ -1786,4 +1786,10 @@
     "hash": "83d3ca2dc3fb42162f3086b9d67c2a09", 
     "uri": "https://lambdaisland.com/episodes", 
     "title": "Lambda Island | Episodes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0e4f9cb8bbe3ace40170e393d54983ed", 
+    "uri": "https://stuartsierra.com/2016/clojure-how-to-ns.html", 
+    "title": "How to ns"
 }
