@@ -346,4 +346,10 @@
     "hash": "7be022ebbed4de529a73d17e3dafc56e", 
     "uri": "http://j-core.org", 
     "title": "J-core Open Processor"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7cdc6f6fa1546f88fe04a20b18402fba", 
+    "uri": "http://opencores.org", 
+    "title": "Home :: OpenCores"
 }
