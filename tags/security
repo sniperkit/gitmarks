@@ -340,4 +340,10 @@
     "hash": "56d3b19bebdef25126badbea4c355ae0", 
     "uri": "http://www.cl.cam.ac.uk/research/security/capsicum/", 
     "title": "Computer Laboratory: Capsicum: practical capabilities for UNIX"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7be022ebbed4de529a73d17e3dafc56e", 
+    "uri": "http://j-core.org", 
+    "title": "J-core Open Processor"
 }
