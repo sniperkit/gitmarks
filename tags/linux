@@ -76,4 +76,10 @@
     "hash": "03008f5554aeb9d40a0cbcc0653ddec5", 
     "uri": "http://www.cs.columbia.edu/~tal/3261/fall07/handout/egrep_mini-tutorial.htm", 
     "title": "egrep mini-tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "56d3b19bebdef25126badbea4c355ae0", 
+    "uri": "http://www.cl.cam.ac.uk/research/security/capsicum/", 
+    "title": "Computer Laboratory: Capsicum: practical capabilities for UNIX"
 }

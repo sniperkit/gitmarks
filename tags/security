@@ -334,4 +334,10 @@
     "hash": "b963ce0b173db8f20977420362bc0eea", 
     "uri": "https://www.crowdsupply.com/design-shift/orwl", 
     "title": "ORWL - The First Open Source, Physically Secure Computer | Crowd Supply"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "56d3b19bebdef25126badbea4c355ae0", 
+    "uri": "http://www.cl.cam.ac.uk/research/security/capsicum/", 
+    "title": "Computer Laboratory: Capsicum: practical capabilities for UNIX"
 }
