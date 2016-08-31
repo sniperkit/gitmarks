@@ -16,4 +16,10 @@
     "hash": "666308baed00e4140f1924b9b38b3a7a", 
     "uri": "https://www.diffbot.com", 
     "title": "Automated Web Data Extraction &amp; Web Crawler - Diffbot"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8ad7c9ef384bd47b4b3e4f3e08e13ee8", 
+    "uri": "https://github.com/facebookresearch/fastText", 
+    "title": "GitHub - facebookresearch/fastText: Library for fast text representation and classification."
 }
