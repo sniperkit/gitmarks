@@ -34,4 +34,10 @@
     "hash": "46ba44354a224cc5d882d332dbf68b85", 
     "uri": "https://data-sorcery.org/book-recommendations/", 
     "title": "Book Recommendations | Data Sorcery with Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d745a7f39b540fd2a053fc2b809852a3", 
+    "uri": "blog.revolutionanalytics.com/2016/08/five-great-charts-in-5-lines-of-r-code-each.html", 
+    "title": "[No Title]"
 }
