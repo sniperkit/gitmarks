@@ -178,4 +178,10 @@
     "hash": "1c6d6bd00a8f781ea711b29f9cfdddf5", 
     "uri": "https://github.com/facebookincubator/create-react-app", 
     "title": "GitHub - facebookincubator/create-react-app: Create React apps with no build configuration."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "067e67849080168d5a9fa08b5ab532eb", 
+    "uri": "https://github.com/mars/create-react-app-buildpack", 
+    "title": "GitHub - mars/create-react-app-buildpack: Heroku Buildpack for create-react-app: static hosting for React.js web apps"
 }
