@@ -172,4 +172,10 @@
     "hash": "8624e1e7769e4fae00daf7e095392985", 
     "uri": "https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.xay2s8t5z", 
     "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1c6d6bd00a8f781ea711b29f9cfdddf5", 
+    "uri": "https://github.com/facebookincubator/create-react-app", 
+    "title": "GitHub - facebookincubator/create-react-app: Create React apps with no build configuration."
 }
