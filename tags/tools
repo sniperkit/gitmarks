@@ -472,4 +472,10 @@
     "hash": "3a20a67deff3fdc8cec02d816cb69bb1", 
     "uri": "http://mongotron.io/", 
     "title": "Mongotron - Cross platform MongoDB management"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "98993e825036a2638a6d164ad88f08ec", 
+    "uri": "http://md-note.com/", 
+    "title": "English version - MdNote"
 }
