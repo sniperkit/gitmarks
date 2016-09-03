@@ -46,4 +46,10 @@
     "hash": "18d2aab1b5d67271f84c619faebea188", 
     "uri": "https://devcenter.heroku.com/articles/java-memory-issues", 
     "title": "Troubleshooting Memory Issues in Java Applications | Heroku Dev Center"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "521d9d58c2dc2650c82b8aae1fe48277", 
+    "uri": "http://objectlayout.org/", 
+    "title": "ObjectLayout "
 }

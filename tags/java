@@ -172,4 +172,10 @@
     "hash": "06de4c98edf4358315d193da0dff23b9", 
     "uri": "https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/", 
     "title": "Close Encounters of The Java Memory Model Kind"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "521d9d58c2dc2650c82b8aae1fe48277", 
+    "uri": "http://objectlayout.org/", 
+    "title": "ObjectLayout "
 }
