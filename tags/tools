@@ -520,4 +520,10 @@
     "hash": "dc6ca45b260608522e9dfbe5ffa722e9", 
     "uri": "https://webtorrent.io/desktop/", 
     "title": "WebTorrent Desktop"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "36ad2047246b814362fea228ddb54082", 
+    "uri": "https://github.com/jfbouzereau/explorer", 
+    "title": "GitHub - jfbouzereau/explorer: Data Explorer"
 }
