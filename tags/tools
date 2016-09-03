@@ -592,4 +592,10 @@
     "hash": "d8928fe8ba1124f48fdaa8460fadef43", 
     "uri": "http://developers.gausstoys.com/apps/desktop", 
     "title": "GaussSense Desktop - GaussToys Developers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4e6d473ae322e1b5f15d2a3bb5c75570", 
+    "uri": "http://www.svgs.us/", 
+    "title": "Svgsus - Easier SVG handling for Mac"
 }
