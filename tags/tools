@@ -508,4 +508,10 @@
     "hash": "2e8d94170234ff1149d25d5f7a2f52c0", 
     "uri": "http://1clipboard.io/", 
     "title": "1Clipboard - A universal clipboard managing app that makes it easy to access your clipboard from anywhere on any device."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "12d6d521be66ccb13507cd9371bc96d5", 
+    "uri": "http://electron.atom.io/apps/", 
+    "title": "Apps - Electron"
 }
