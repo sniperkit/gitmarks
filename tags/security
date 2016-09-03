@@ -364,4 +364,10 @@
     "hash": "07578741294fe38516cabf23453f43f5", 
     "uri": "https://brave.com/", 
     "title": "Brave Software | Building a Better Web"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2e8d94170234ff1149d25d5f7a2f52c0", 
+    "uri": "http://1clipboard.io/", 
+    "title": "1Clipboard - A universal clipboard managing app that makes it easy to access your clipboard from anywhere on any device."
 }

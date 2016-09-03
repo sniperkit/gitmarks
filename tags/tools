@@ -502,4 +502,10 @@
     "hash": "ca8f71070832a9c2a133a371110d5e15", 
     "uri": "https://www.tagspaces.org/", 
     "title": "TagSpaces - Your Hackable File Organizer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2e8d94170234ff1149d25d5f7a2f52c0", 
+    "uri": "http://1clipboard.io/", 
+    "title": "1Clipboard - A universal clipboard managing app that makes it easy to access your clipboard from anywhere on any device."
 }
