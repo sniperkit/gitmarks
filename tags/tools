@@ -538,4 +538,10 @@
     "hash": "c7e581e2009aef7ceac13020ba924149", 
     "uri": "https://pilemd.com/", 
     "title": "PileMd: Think with you"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b4d1173afde047e1511abe98228218bb", 
+    "uri": "https://laverna.cc/", 
+    "title": "Laverna - keep your notes private"
 }
