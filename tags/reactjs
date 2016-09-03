@@ -184,4 +184,10 @@
     "hash": "067e67849080168d5a9fa08b5ab532eb", 
     "uri": "https://github.com/mars/create-react-app-buildpack", 
     "title": "GitHub - mars/create-react-app-buildpack: Heroku Buildpack for create-react-app: static hosting for React.js web apps"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2a49874385ee1b8acf56e8b9a20b33fd", 
+    "uri": "https://www.decosoftware.com/", 
+    "title": "Deco - React Native IDE"
 }

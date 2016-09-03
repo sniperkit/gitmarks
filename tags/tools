@@ -568,4 +568,10 @@
     "hash": "fb0f517615c5730d6fe0faba1e85322f", 
     "uri": "http://subordination.cu.cc/", 
     "title": "Subordination"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2a49874385ee1b8acf56e8b9a20b33fd", 
+    "uri": "https://www.decosoftware.com/", 
+    "title": "Deco - React Native IDE"
 }
