@@ -358,4 +358,10 @@
     "hash": "2ef4e516ad563791ef8fea829faf8af1", 
     "uri": "https://keeweb.info/", 
     "title": "Access denied | keeweb.info used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "07578741294fe38516cabf23453f43f5", 
+    "uri": "https://brave.com/", 
+    "title": "Brave Software | Building a Better Web"
 }
