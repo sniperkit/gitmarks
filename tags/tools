@@ -544,4 +544,10 @@
     "hash": "b4d1173afde047e1511abe98228218bb", 
     "uri": "https://laverna.cc/", 
     "title": "Laverna - keep your notes private"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "66426a12e7df6f006f01750c55790644", 
+    "uri": "http://www.amitmerchant.com/electron-markdownify", 
+    "title": "Access denied | www.amitmerchant.com used CloudFlare to restrict access"
 }
