@@ -514,4 +514,10 @@
     "hash": "12d6d521be66ccb13507cd9371bc96d5", 
     "uri": "http://electron.atom.io/apps/", 
     "title": "Apps - Electron"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc6ca45b260608522e9dfbe5ffa722e9", 
+    "uri": "https://webtorrent.io/desktop/", 
+    "title": "WebTorrent Desktop"
 }
