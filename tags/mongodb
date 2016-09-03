@@ -142,4 +142,10 @@
     "hash": "300d928be09a088ba1c6aac178df32db", 
     "uri": "https://docs.mongodb.com/manual/reference/sql-aggregation-comparison/", 
     "title": "SQL to Aggregation Mapping Chart &mdash; MongoDB Manual 3.2"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3a20a67deff3fdc8cec02d816cb69bb1", 
+    "uri": "http://mongotron.io/", 
+    "title": "Mongotron - Cross platform MongoDB management"
 }
