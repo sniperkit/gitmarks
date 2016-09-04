@@ -16,4 +16,10 @@
     "hash": "b238e61f397f4102dde0379346692d67", 
     "uri": "https://vimeo.com/49718712", 
     "title": "Rob Pike - &#039;Concurrency Is Not Parallelism&#039; on Vimeo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8325679c3b26d58600270e49b714e421", 
+    "uri": "https://github.com/tmrts/go-patterns", 
+    "title": "GitHub - tmrts/go-patterns: A curated list of Go patterns and idioms"
 }
