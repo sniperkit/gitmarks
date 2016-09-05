@@ -274,4 +274,10 @@
     "hash": "96f01a6987785c944a616112d55232d3", 
     "uri": "https://leanpub.com/purescript/read", 
     "title": "Read PureScript by Example | Leanpub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "747a6b2754c79ca7d88b329578d7e9bb", 
+    "uri": "https://geekguide.linuxjournal.com/", 
+    "title": "Linux Journal"
 }
