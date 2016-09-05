@@ -64,4 +64,10 @@
     "hash": "a71fc2d26c9b5f177c98618f32d260a9", 
     "uri": "http://pschwarz.bicycle.io/blog/2014/01/28/serial_access_via_clojure.html", 
     "title": "Serial Access via Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "12868ad1455b5e912959b00ddf1a5f94", 
+    "uri": "http://hapkit.stanford.edu/", 
+    "title": "Hapkit"
 }
