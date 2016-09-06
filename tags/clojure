@@ -1858,4 +1858,10 @@
     "hash": "e6fbc5bc86781541b5e12e158ffd8c89", 
     "uri": "https://github.com/weavejester/clj-aws-s3", 
     "title": "GitHub - weavejester/clj-aws-s3: S3 client library for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0da34afb71e82f818772c5beb75e1fcd", 
+    "uri": "https://github.com/technomancy/lein-heroku", 
+    "title": "GitHub - technomancy/lein-heroku: Experimental Leiningen plugin for managing Heroku apps"
 }
