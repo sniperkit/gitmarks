@@ -1900,4 +1900,10 @@
     "hash": "a75af25493065e91ecb61b29ec8a3643", 
     "uri": "https://stuartsierra.com/2013/03/29/perils-of-dynamic-scope", 
     "title": "On the Perils of Dynamic Scope &#8211; Digital Digressions by Stuart Sierra"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "593438afe66366447b9b4a20ca13315c", 
+    "uri": "https://github.com/jafingerhut/thalia/blob/master/doc/other-topics/comparators.md", 
+    "title": "thalia/comparators.md at master \u00b7 jafingerhut/thalia \u00b7 GitHub"
 }
