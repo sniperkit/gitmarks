@@ -1888,4 +1888,10 @@
     "hash": "ecd1353204ae0c3b6a5f46f02e546f8d", 
     "uri": "https://github.com/levand/immuconf", 
     "title": "GitHub - levand/immuconf: A small library for managing config files in Clojure projects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5073fe09a3fe9ebb0c727dad731c5e20", 
+    "uri": "https://github.com/weavejester/environ", 
+    "title": "GitHub - weavejester/environ: Library for managing environment variables in Clojure"
 }
