@@ -352,4 +352,10 @@
     "hash": "ef5c8b46c67d3fafb75e97693e335cb5", 
     "uri": "http://langintro.com/icljs/", 
     "title": "Transforming Data with ClojureScript &mdash; Transforming Data with ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "42a3b6fc55ec432f25090e7ce1ea4b48", 
+    "uri": "https://www.youtube.com/watch?v=wq6ctyZBb0A", 
+    "title": "Introduction to ClojureScript and Reagent - YouTube"
 }
