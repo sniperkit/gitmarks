@@ -1870,4 +1870,10 @@
     "hash": "5b0f01a730ec91433bec1085af622734", 
     "uri": "https://github.com/weavejester/lein-beanstalk", 
     "title": "GitHub - weavejester/lein-beanstalk: Leiningen plugin for Amazon&#39;s Elastic Beanstalk service"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c34dee7f18802377fa7f5de17a1962ef", 
+    "uri": "https://github.com/dakrone/cheshire", 
+    "title": "GitHub - dakrone/cheshire: Clojure JSON and JSON SMILE (binary json format) encoding/decoding"
 }
