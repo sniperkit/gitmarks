@@ -58,4 +58,10 @@
     "hash": "f9fc787946b94e3698968f0e77a950cc", 
     "uri": "https://labs.detectify.com/2016/07/27/how-i-made-lastpass-give-me-all-your-passwords/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1681f1e32a48279146e138ff95979b59", 
+    "uri": "https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html", 
+    "title": "[No Title]"
 }
