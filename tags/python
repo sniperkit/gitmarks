@@ -124,4 +124,10 @@
     "hash": "fed6f5faf3013ab14779249fe02e7ded", 
     "uri": "https://github.com/rcarmo/hy-there", 
     "title": "GitHub - rcarmo/hy-there: A hylang playground"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "725b9f667ed569e88704edef58d1f3f4", 
+    "uri": "https://github.com/mtayseer/infoq-downloader", 
+    "title": "GitHub - mtayseer/infoq-downloader: Download InfoQ presentations, including video &amp; slides, to play them offline"
 }
