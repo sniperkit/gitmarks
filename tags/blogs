@@ -52,4 +52,10 @@
     "hash": "408ae5c49f7ced2e2100e6d712da2c61", 
     "uri": "http://blog.cryptographyengineering.com/2016/08/attack-of-week-64-bit-ciphers-in-tls.html", 
     "title": "A Few Thoughts on Cryptographic Engineering: Attack of the week: 64-bit ciphers in TLS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a75af25493065e91ecb61b29ec8a3643", 
+    "uri": "https://stuartsierra.com/2013/03/29/perils-of-dynamic-scope", 
+    "title": "On the Perils of Dynamic Scope &#8211; Digital Digressions by Stuart Sierra"
 }
