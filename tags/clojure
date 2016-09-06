@@ -1852,4 +1852,10 @@
     "hash": "035a8b4011d784ed2c25e461809ab134", 
     "uri": "http://immutant.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e6fbc5bc86781541b5e12e158ffd8c89", 
+    "uri": "https://github.com/weavejester/clj-aws-s3", 
+    "title": "GitHub - weavejester/clj-aws-s3: S3 client library for Clojure"
 }

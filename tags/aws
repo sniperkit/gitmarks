@@ -16,4 +16,10 @@
     "hash": "446f214cbb47aa3b4a3a1bdb50ed7f49", 
     "uri": "https://aws.amazon.com/lambda/pricing/", 
     "title": "AWS Lambda | Pricing"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e6fbc5bc86781541b5e12e158ffd8c89", 
+    "uri": "https://github.com/weavejester/clj-aws-s3", 
+    "title": "GitHub - weavejester/clj-aws-s3: S3 client library for Clojure"
 }
