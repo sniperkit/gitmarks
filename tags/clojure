@@ -1882,4 +1882,10 @@
     "hash": "114373be1875f2b9146e482fe081a95f", 
     "uri": "https://github.com/jaycfields/expectations", 
     "title": "GitHub - jaycfields/expectations: a minimalist&#39;s unit testing framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ecd1353204ae0c3b6a5f46f02e546f8d", 
+    "uri": "https://github.com/levand/immuconf", 
+    "title": "GitHub - levand/immuconf: A small library for managing config files in Clojure projects"
 }

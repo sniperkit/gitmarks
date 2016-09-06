@@ -610,4 +610,10 @@
     "hash": "60a827535b009d697dfd9bdcdafbe2bd", 
     "uri": "http://freemat.sourceforge.net/", 
     "title": "FreeMat"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ecd1353204ae0c3b6a5f46f02e546f8d", 
+    "uri": "https://github.com/levand/immuconf", 
+    "title": "GitHub - levand/immuconf: A small library for managing config files in Clojure projects"
 }
