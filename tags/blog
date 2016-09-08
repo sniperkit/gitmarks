@@ -76,4 +76,10 @@
     "hash": "60b35e73f60f4cac531c814521b5c9c6", 
     "uri": "http://www.samritchie.io/cascalog-2-0-in-depth/", 
     "title": "Access denied | www.samritchie.io used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c13040e4bddbac5880aa0b4ab98f55e1", 
+    "uri": "http://www.samritchie.io/dynamic-cascalog-queries/", 
+    "title": "Access denied | www.samritchie.io used CloudFlare to restrict access"
 }
