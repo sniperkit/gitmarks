@@ -1906,4 +1906,10 @@
     "hash": "593438afe66366447b9b4a20ca13315c", 
     "uri": "https://github.com/jafingerhut/thalia/blob/master/doc/other-topics/comparators.md", 
     "title": "thalia/comparators.md at master \u00b7 jafingerhut/thalia \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1a4beece8f6ba1ecc7bc251a0ccb38c", 
+    "uri": "https://github.com/SparkFund/spec-tacular", 
+    "title": "GitHub - SparkFund/spec-tacular: Make the border between Clojure and Datomic a more convenient and safe place to live."
 }

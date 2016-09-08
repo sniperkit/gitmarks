@@ -64,4 +64,10 @@
     "hash": "d819061139adcc7ab173c7bb1d7679b7", 
     "uri": "http://blog.datomic.com/2015/01/datalog-enhancements.html", 
     "title": "Datomic: More Power for Datomic Datalog: Negation, Disjunction, and Range Optimizations"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1a4beece8f6ba1ecc7bc251a0ccb38c", 
+    "uri": "https://github.com/SparkFund/spec-tacular", 
+    "title": "GitHub - SparkFund/spec-tacular: Make the border between Clojure and Datomic a more convenient and safe place to live."
 }
