@@ -184,4 +184,10 @@
     "hash": "00905eebec014d123499433702aa379c", 
     "uri": "http://alias-i.com/lingpipe/", 
     "title": "LingPipe Home"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d8fc55408275d74500c1fdf106f55063", 
+    "uri": "http://nlp.stanford.edu/software/index.shtml", 
+    "title": "Software - The Stanford Natural Language Processing Group "
 }

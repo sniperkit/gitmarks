@@ -10,4 +10,10 @@
     "hash": "1559592f315ff93cbbb17105878e96b0", 
     "uri": "http://deepdive.stanford.edu", 
     "title": "DeepDive"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d8fc55408275d74500c1fdf106f55063", 
+    "uri": "http://nlp.stanford.edu/software/index.shtml", 
+    "title": "Software - The Stanford Natural Language Processing Group "
 }
