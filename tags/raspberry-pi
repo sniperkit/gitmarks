@@ -118,4 +118,10 @@
     "hash": "b4a008249cf6574facf2e9343aae384b", 
     "uri": "http://gardenbot.org/", 
     "title": "GardenBot - open source garden automation project"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "03238d1a73eca66531f34a9f5e956d68", 
+    "uri": "https://github.com/valkyriesavage/fluffy-toboggans", 
+    "title": "GitHub - valkyriesavage/fluffy-toboggans: H2O IQ - a remote garden watering and monitoring system"
 }
