@@ -112,4 +112,10 @@
     "hash": "e45f947c3b4002316afb30e31c58b633", 
     "uri": "https://www.packtpub.com/books/content/hacking-raspberry-pi-project-understand-electronics-first", 
     "title": "Hacking a Raspberry Pi project? Understand  | PACKT Books"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b4a008249cf6574facf2e9343aae384b", 
+    "uri": "http://gardenbot.org/", 
+    "title": "GardenBot - open source garden automation project"
 }
