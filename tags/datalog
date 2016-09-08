@@ -58,4 +58,10 @@
     "hash": "f65ee99833f10c016a72fb64b179b555", 
     "uri": "http://www.ccs.neu.edu/home/ramsdell/tools/datalog/datalog.html", 
     "title": "Datalog User Manual"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dc64d74e3458434fa6c333322789a490", 
+    "uri": "https://github.com/fogus/bacwn", 
+    "title": "GitHub - fogus/bacwn: clojure + datalog = &lt;3"
 }
