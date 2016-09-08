@@ -82,4 +82,10 @@
     "hash": "aa6458b74a9ea34ad83b3cefc439caa9", 
     "uri": "https://github.com/zerokarmaleft/similarity", 
     "title": "GitHub - zerokarmaleft/similarity: A Cascalog library for finding similar documents with minhashing/locality-sensitive hashing."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "de412d2b987654742c21ce7c1eb74c99", 
+    "uri": "https://dzone.com/articles/using-lucene-and-cascalog-fast", 
+    "title": "[No Title]"
 }
