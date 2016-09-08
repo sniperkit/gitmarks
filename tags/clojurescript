@@ -364,4 +364,10 @@
     "hash": "f7c12119fd671c27df98f3fd7cc00fcf", 
     "uri": "https://github.com/johnmn3/clgs", 
     "title": "GitHub - johnmn3/clgs: CLJS on Google Apps Script"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "12a5c013243f9e26648a55eb6e2a7e0a", 
+    "uri": "https://github.com/nervous-systems/shapeshiftr", 
+    "title": "GitHub - nervous-systems/shapeshiftr: Clojure/script shapeshift.io client"
 }
