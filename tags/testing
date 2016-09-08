@@ -112,4 +112,10 @@
     "hash": "e8781dba968df5ae04cae48e1bb2a1df", 
     "uri": "https://github.com/F-Secure/mittn", 
     "title": "GitHub - F-Secure/mittn: Mittn: Security test tool runner for test automation in CI"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd0a6dc4e3f1a1c8c25ffd48acc328f5", 
+    "uri": "https://github.com/continuumsecurity/bdd-security", 
+    "title": "GitHub - continuumsecurity/bdd-security: BDD Automated Security Tests for  Web Applications"
 }

@@ -184,4 +184,10 @@
     "hash": "de2f0b7313388f316f2d1d8ba506caff", 
     "uri": "http://robotframework.org", 
     "title": "Robot Framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd0a6dc4e3f1a1c8c25ffd48acc328f5", 
+    "uri": "https://github.com/continuumsecurity/bdd-security", 
+    "title": "GitHub - continuumsecurity/bdd-security: BDD Automated Security Tests for  Web Applications"
 }
