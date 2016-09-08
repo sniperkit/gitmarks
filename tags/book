@@ -184,4 +184,10 @@
     "hash": "ef5c8b46c67d3fafb75e97693e335cb5", 
     "uri": "http://langintro.com/icljs/", 
     "title": "Transforming Data with ClojureScript &mdash; Transforming Data with ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a9aff19e4274adc9f3f1d669aa862da5", 
+    "uri": "http://infolab.stanford.edu/~ullman/focs.html", 
+    "title": "[No Title]"
 }

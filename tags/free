@@ -280,4 +280,10 @@
     "hash": "747a6b2754c79ca7d88b329578d7e9bb", 
     "uri": "https://geekguide.linuxjournal.com/", 
     "title": "Linux Journal"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a9aff19e4274adc9f3f1d669aa862da5", 
+    "uri": "http://infolab.stanford.edu/~ullman/focs.html", 
+    "title": "[No Title]"
 }
