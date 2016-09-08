@@ -88,4 +88,10 @@
     "hash": "de412d2b987654742c21ce7c1eb74c99", 
     "uri": "https://dzone.com/articles/using-lucene-and-cascalog-fast", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5a96473d0afe8e2ae28d795ca160cf0c", 
+    "uri": "https://github.com/sthuebner/cascalog-examples", 
+    "title": "GitHub - sthuebner/cascalog-examples: Some introductory examples for Cascalog"
 }
