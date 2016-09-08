@@ -190,4 +190,10 @@
     "hash": "a9aff19e4274adc9f3f1d669aa862da5", 
     "uri": "http://infolab.stanford.edu/~ullman/focs.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fdc4cf128fde2f31eba233f68a7534b6", 
+    "uri": "http://learnprolognow.org/", 
+    "title": "Learn Prolog Now!"
 }
