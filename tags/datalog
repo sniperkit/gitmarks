@@ -64,4 +64,10 @@
     "hash": "dc64d74e3458434fa6c333322789a490", 
     "uri": "https://github.com/fogus/bacwn", 
     "title": "GitHub - fogus/bacwn: clojure + datalog = &lt;3"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e2469803e18f3d4208044faba58d4b5b", 
+    "uri": "http://fkettelhoit.github.io/bottom-up-datalog-js/docs/dl.html", 
+    "title": "Bottom Up Datalog"
 }
