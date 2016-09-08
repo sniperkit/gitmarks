@@ -82,4 +82,10 @@
     "hash": "c13040e4bddbac5880aa0b4ab98f55e1", 
     "uri": "http://www.samritchie.io/dynamic-cascalog-queries/", 
     "title": "Access denied | www.samritchie.io used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "464e446446a53c0bc0d161a053909bc0", 
+    "uri": "http://entxtech.blogspot.co.uk/2010/12/which-operation-def-macro-should-i-use.html", 
+    "title": "Marc's Tech: Which operation def macro should I use in Cascalog?"
 }
