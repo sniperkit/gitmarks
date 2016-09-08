@@ -40,4 +40,10 @@
     "hash": "ab1cee2dcb3d904da40a8daa4ac4016a", 
     "uri": "http://blog.brunobonacci.com/2014/06/01/cascalog-by-examples-part1/", 
     "title": "Cascalog by examples (part 1)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "60b35e73f60f4cac531c814521b5c9c6", 
+    "uri": "http://www.samritchie.io/cascalog-2-0-in-depth/", 
+    "title": "Access denied | www.samritchie.io used CloudFlare to restrict access"
 }
