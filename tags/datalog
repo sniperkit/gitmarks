@@ -28,4 +28,10 @@
     "hash": "d819061139adcc7ab173c7bb1d7679b7", 
     "uri": "http://blog.datomic.com/2015/01/datalog-enhancements.html", 
     "title": "Datomic: More Power for Datomic Datalog: Negation, Disjunction, and Range Optimizations"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1a5ac50cdd48c01049215873cc266dd5", 
+    "uri": "http://docs.racket-lang.org/datalog/index.html", 
+    "title": "Access denied | docs.racket-lang.org used CloudFlare to restrict access"
 }
