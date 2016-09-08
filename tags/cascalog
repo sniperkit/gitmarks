@@ -106,4 +106,10 @@
     "hash": "4ea56edef197edbe92361fc04db655ef", 
     "uri": "https://dataexcursions.wordpress.com/2012/07/14/cascalog-performance-tuning-or-avoiding-java-reflection-at-all-costs/", 
     "title": "Cascalog Performance Tuning (or avoiding Java reflection at all costs) &laquo; Data Excursions"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a20153ea2b1047ba20b884a88fb70cfc", 
+    "uri": "https://www.infoq.com/presentations/Cascalog-Hadoop", 
+    "title": "Cascalog: Logic Programming over Hadoop"
 }

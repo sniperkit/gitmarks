@@ -46,4 +46,10 @@
     "hash": "583c5280d6185c69cd1e5d01613c3ec9", 
     "uri": "https://www.factual.com/blog/clojure-on-hadoop-a-new-hope", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a20153ea2b1047ba20b884a88fb70cfc", 
+    "uri": "https://www.infoq.com/presentations/Cascalog-Hadoop", 
+    "title": "Cascalog: Logic Programming over Hadoop"
 }
