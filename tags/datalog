@@ -4,4 +4,10 @@
     "hash": "efbb64c43c7036bbe2fd8e38aca31a51", 
     "uri": "http://www.fdi.ucm.es/profesor/fernan/des/index.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "89e22dae5a2b1e53e2ed7a3389b2330b", 
+    "uri": "https://code.google.com/archive/p/clojure-contrib/wikis/DatalogOverview.wiki", 
+    "title": "Google Code Archive - Long-term storage for Google Code Project Hosting."
 }
