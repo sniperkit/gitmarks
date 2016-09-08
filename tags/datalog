@@ -40,4 +40,10 @@
     "hash": "4dab3991bb5c0d025e9576fb3c5bc4fa", 
     "uri": "https://www.infoq.com/presentations/Datalog", 
     "title": "The Reemergence of Datalog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c8772d6abae8a34481c5e5fc9f8912a6", 
+    "uri": "http://datalog.sourceforge.net/", 
+    "title": "[No Title]"
 }
