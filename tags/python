@@ -142,4 +142,10 @@
     "hash": "e8781dba968df5ae04cae48e1bb2a1df", 
     "uri": "https://github.com/F-Secure/mittn", 
     "title": "GitHub - F-Secure/mittn: Mittn: Security test tool runner for test automation in CI"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e65ca0362175b45929000547cd194feb", 
+    "uri": "http://blog.yhat.com/posts/moving-from-r-to-python.html", 
+    "title": "[No Title]"
 }
