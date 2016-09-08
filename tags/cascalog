@@ -100,4 +100,10 @@
     "hash": "9819302229c07228e53c0319f3eb7561", 
     "uri": "https://www.infoq.com/presentations/deforestation", 
     "title": "Global Forest Watch: an Open Source Clojure project to Monitor Deforestation from Satellite Imagery"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4ea56edef197edbe92361fc04db655ef", 
+    "uri": "https://dataexcursions.wordpress.com/2012/07/14/cascalog-performance-tuning-or-avoiding-java-reflection-at-all-costs/", 
+    "title": "Cascalog Performance Tuning (or avoiding Java reflection at all costs) &laquo; Data Excursions"
 }

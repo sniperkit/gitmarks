@@ -52,4 +52,10 @@
     "hash": "521d9d58c2dc2650c82b8aae1fe48277", 
     "uri": "http://objectlayout.org/", 
     "title": "ObjectLayout "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4ea56edef197edbe92361fc04db655ef", 
+    "uri": "https://dataexcursions.wordpress.com/2012/07/14/cascalog-performance-tuning-or-avoiding-java-reflection-at-all-costs/", 
+    "title": "Cascalog Performance Tuning (or avoiding Java reflection at all costs) &laquo; Data Excursions"
 }
