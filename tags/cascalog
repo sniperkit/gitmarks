@@ -70,4 +70,10 @@
     "hash": "d1f2532f3c9ddcd20966707a9e029255", 
     "uri": "http://blog.screen6.io/post/57428073723/introduction-to-testing-cascalog-with-midje", 
     "title": "Screen6 \u2014 Introduction to testing Cascalog with Midje."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "583c5280d6185c69cd1e5d01613c3ec9", 
+    "uri": "https://www.factual.com/blog/clojure-on-hadoop-a-new-hope", 
+    "title": "[No Title]"
 }

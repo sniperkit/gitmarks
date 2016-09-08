@@ -40,4 +40,10 @@
     "hash": "7c37ee2a43390cfda2bcb7b3d5b6f55c", 
     "uri": "https://github.com/Cascading/Impatient", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "583c5280d6185c69cd1e5d01613c3ec9", 
+    "uri": "https://www.factual.com/blog/clojure-on-hadoop-a-new-hope", 
+    "title": "[No Title]"
 }
