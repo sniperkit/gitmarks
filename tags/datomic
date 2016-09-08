@@ -52,4 +52,10 @@
     "hash": "b568e5a352b98bdc789e5864032094c0", 
     "uri": "https://hashrocket.com/blog/posts/using-datomic-as-a-graph-database", 
     "title": "Using Datomic as a Graph Database | The Hashrocket Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d15c0e1742687aa10d339bf02f0baf32", 
+    "uri": "http://docs.datomic.com/query.html", 
+    "title": "Datomic Queries and Rules | Datomic"
 }
