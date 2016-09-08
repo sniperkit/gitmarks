@@ -628,4 +628,10 @@
     "hash": "c77baa6da5a6730cecdd08a7ea9d1ca9", 
     "uri": "http://eslint.org", 
     "title": "ESLint - Pluggable JavaScript linter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "de2f0b7313388f316f2d1d8ba506caff", 
+    "uri": "http://robotframework.org", 
+    "title": "Robot Framework"
 }

@@ -178,4 +178,10 @@
     "hash": "521d9d58c2dc2650c82b8aae1fe48277", 
     "uri": "http://objectlayout.org/", 
     "title": "ObjectLayout "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "de2f0b7313388f316f2d1d8ba506caff", 
+    "uri": "http://robotframework.org", 
+    "title": "Robot Framework"
 }
