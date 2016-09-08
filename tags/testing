@@ -94,4 +94,10 @@
     "hash": "83d68e9f37e506a93a64027eca48ad27", 
     "uri": "http://sritchie.github.io/2012/01/22/cascalog-testing-20/", 
     "title": "Cascalog Testing 2.0"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d1f2532f3c9ddcd20966707a9e029255", 
+    "uri": "http://blog.screen6.io/post/57428073723/introduction-to-testing-cascalog-with-midje", 
+    "title": "Screen6 \u2014 Introduction to testing Cascalog with Midje."
 }
