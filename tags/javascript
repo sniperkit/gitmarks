@@ -592,4 +592,10 @@
     "hash": "f1ad95a0ea627a6b4d7047c7ac67e9d9", 
     "uri": "http://ysangkok.github.io/mitre-datalog.js/wrapper.html", 
     "title": "Datalog.js"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c77baa6da5a6730cecdd08a7ea9d1ca9", 
+    "uri": "http://eslint.org", 
+    "title": "ESLint - Pluggable JavaScript linter"
 }

@@ -622,4 +622,10 @@
     "hash": "5073fe09a3fe9ebb0c727dad731c5e20", 
     "uri": "https://github.com/weavejester/environ", 
     "title": "GitHub - weavejester/environ: Library for managing environment variables in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c77baa6da5a6730cecdd08a7ea9d1ca9", 
+    "uri": "http://eslint.org", 
+    "title": "ESLint - Pluggable JavaScript linter"
 }
