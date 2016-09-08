@@ -34,4 +34,10 @@
     "hash": "1a5ac50cdd48c01049215873cc266dd5", 
     "uri": "http://docs.racket-lang.org/datalog/index.html", 
     "title": "Access denied | docs.racket-lang.org used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "4dab3991bb5c0d025e9576fb3c5bc4fa", 
+    "uri": "https://www.infoq.com/presentations/Datalog", 
+    "title": "The Reemergence of Datalog"
 }
