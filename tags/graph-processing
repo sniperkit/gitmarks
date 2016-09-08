@@ -46,4 +46,10 @@
     "hash": "b568e5a352b98bdc789e5864032094c0", 
     "uri": "https://hashrocket.com/blog/posts/using-datomic-as-a-graph-database", 
     "title": "Using Datomic as a Graph Database | The Hashrocket Blog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ffa01c2759d3c16d14709a654e88db63", 
+    "uri": "http://socialite-lang.github.io/", 
+    "title": "Home | SociaLite"
 }
