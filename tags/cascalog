@@ -34,4 +34,10 @@
     "hash": "79c84ddbe71a7efca0d565b301b99fc4", 
     "uri": "http://cascalog.org/articles/getting_started.html", 
     "title": "Getting Started with Cascalog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ab1cee2dcb3d904da40a8daa4ac4016a", 
+    "uri": "http://blog.brunobonacci.com/2014/06/01/cascalog-by-examples-part1/", 
+    "title": "Cascalog by examples (part 1)"
 }
