@@ -46,4 +46,10 @@
     "hash": "c8772d6abae8a34481c5e5fc9f8912a6", 
     "uri": "http://datalog.sourceforge.net/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f1ad95a0ea627a6b4d7047c7ac67e9d9", 
+    "uri": "http://ysangkok.github.io/mitre-datalog.js/wrapper.html", 
+    "title": "Datalog.js"
 }
