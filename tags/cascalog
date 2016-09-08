@@ -76,4 +76,10 @@
     "hash": "583c5280d6185c69cd1e5d01613c3ec9", 
     "uri": "https://www.factual.com/blog/clojure-on-hadoop-a-new-hope", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "aa6458b74a9ea34ad83b3cefc439caa9", 
+    "uri": "https://github.com/zerokarmaleft/similarity", 
+    "title": "GitHub - zerokarmaleft/similarity: A Cascalog library for finding similar documents with minhashing/locality-sensitive hashing."
 }

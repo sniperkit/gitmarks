@@ -22,4 +22,10 @@
     "hash": "8ad7c9ef384bd47b4b3e4f3e08e13ee8", 
     "uri": "https://github.com/facebookresearch/fastText", 
     "title": "GitHub - facebookresearch/fastText: Library for fast text representation and classification."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "aa6458b74a9ea34ad83b3cefc439caa9", 
+    "uri": "https://github.com/zerokarmaleft/similarity", 
+    "title": "GitHub - zerokarmaleft/similarity: A Cascalog library for finding similar documents with minhashing/locality-sensitive hashing."
 }
