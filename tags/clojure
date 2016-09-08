@@ -1912,4 +1912,10 @@
     "hash": "d1a4beece8f6ba1ecc7bc251a0ccb38c", 
     "uri": "https://github.com/SparkFund/spec-tacular", 
     "title": "GitHub - SparkFund/spec-tacular: Make the border between Clojure and Datomic a more convenient and safe place to live."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9819302229c07228e53c0319f3eb7561", 
+    "uri": "https://www.infoq.com/presentations/deforestation", 
+    "title": "Global Forest Watch: an Open Source Clojure project to Monitor Deforestation from Satellite Imagery"
 }

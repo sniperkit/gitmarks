@@ -94,4 +94,10 @@
     "hash": "5a96473d0afe8e2ae28d795ca160cf0c", 
     "uri": "https://github.com/sthuebner/cascalog-examples", 
     "title": "GitHub - sthuebner/cascalog-examples: Some introductory examples for Cascalog"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9819302229c07228e53c0319f3eb7561", 
+    "uri": "https://www.infoq.com/presentations/deforestation", 
+    "title": "Global Forest Watch: an Open Source Clojure project to Monitor Deforestation from Satellite Imagery"
 }
