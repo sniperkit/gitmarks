@@ -28,4 +28,10 @@
     "hash": "aa6458b74a9ea34ad83b3cefc439caa9", 
     "uri": "https://github.com/zerokarmaleft/similarity", 
     "title": "GitHub - zerokarmaleft/similarity: A Cascalog library for finding similar documents with minhashing/locality-sensitive hashing."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "00905eebec014d123499433702aa379c", 
+    "uri": "http://alias-i.com/lingpipe/", 
+    "title": "LingPipe Home"
 }
