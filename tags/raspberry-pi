@@ -130,4 +130,10 @@
     "hash": "eceb3a5869bf8acbb2e97cdf430ec4ac", 
     "uri": "https://developer.microsoft.com/en-us/windows/iot/samples/Potentiometer.htm", 
     "title": "Potentiometer sensor - Windows IoT"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f31350b41face01a9278421615a8917c", 
+    "uri": "https://microsoft.hackster.io/en-US", 
+    "title": "Microsoft Projects"
 }
