@@ -22,4 +22,10 @@
     "hash": "f9e643dbb463eff74e8fcac8315e0897", 
     "uri": "https://www.visualstudio.com/en-us/features/azure-tools-vs.aspx", 
     "title": "Azure Tools | Visual Studio"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e2a9d7b7498cf99eddf78f068c750c77", 
+    "uri": "https://blogs.windows.com/buildingapps/2016/09/02/announcing-intel-joule-support-in-windows-10-iot-core-anniversary-edition/", 
+    "title": "Microsoft SVG Logo"
 }
