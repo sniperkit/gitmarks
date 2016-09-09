@@ -16,4 +16,10 @@
     "hash": "c88f0df56aec22f2bf6135c6b5ad2200", 
     "uri": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Building-a-Windows-10-IOT-App", 
     "title": "Building a Windows 10 IOT App &#124; Visual Studio Toolbox &#124; Channel 9"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f9e643dbb463eff74e8fcac8315e0897", 
+    "uri": "https://www.visualstudio.com/en-us/features/azure-tools-vs.aspx", 
+    "title": "Azure Tools | Visual Studio"
 }
