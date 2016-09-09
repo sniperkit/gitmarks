@@ -646,4 +646,10 @@
     "hash": "dd0a6dc4e3f1a1c8c25ffd48acc328f5", 
     "uri": "https://github.com/continuumsecurity/bdd-security", 
     "title": "GitHub - continuumsecurity/bdd-security: BDD Automated Security Tests for  Web Applications"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "febc821e84975ab9936861e933b21b7a", 
+    "uri": "https://github.com/warden-stack/Warden", 
+    "title": "GitHub - warden-stack/Warden: Define &quot;health checks&quot; for your applications, resources and infrastructure. Keep your Warden on the watch."
 }
