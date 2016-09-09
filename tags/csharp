@@ -76,4 +76,10 @@
     "hash": "32096464f8e0faef22c8cb3099e1de59", 
     "uri": "https://msdn.microsoft.com/en-us/library/system.collections.immutable.aspx", 
     "title": "System.Collections.Immutable\u2002Namespace"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "eceb3a5869bf8acbb2e97cdf430ec4ac", 
+    "uri": "https://developer.microsoft.com/en-us/windows/iot/samples/Potentiometer.htm", 
+    "title": "Potentiometer sensor - Windows IoT"
 }
