@@ -64,4 +64,10 @@
     "hash": "bb74b765181157d0943dde7ca71be910", 
     "uri": "https://dzone.com/refcardz/getting-started-with-mqtt", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d60c8e7ef2730402127162050a9959e0", 
+    "uri": "https://dzone.com/refcardz/amqp-essentials", 
+    "title": "[No Title]"
 }

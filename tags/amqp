@@ -10,4 +10,10 @@
     "hash": "b7be34843a92dc5dd696171e5dbddfa5", 
     "uri": "http://clojurerabbitmq.info/", 
     "title": "Langohr, an idiomatic Clojure RabbitMQ client | Clojure AMQP 0.9.1 client"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d60c8e7ef2730402127162050a9959e0", 
+    "uri": "https://dzone.com/refcardz/amqp-essentials", 
+    "title": "[No Title]"
 }

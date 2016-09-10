@@ -340,4 +340,10 @@
     "hash": "e6a5d352b694cf23dec1cdb98a3342b7", 
     "uri": "https://dzone.com/refcardz/from-relational-to-graph-a-developers-guide", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d60c8e7ef2730402127162050a9959e0", 
+    "uri": "https://dzone.com/refcardz/amqp-essentials", 
+    "title": "[No Title]"
 }
