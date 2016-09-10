@@ -334,4 +334,10 @@
     "hash": "b7f1bc9a382116a214678797d24a9c74", 
     "uri": "https://dzone.com/refcardz/querying-graphs-neo4j", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e6a5d352b694cf23dec1cdb98a3342b7", 
+    "uri": "https://dzone.com/refcardz/from-relational-to-graph-a-developers-guide", 
+    "title": "[No Title]"
 }
