@@ -1936,4 +1936,10 @@
     "hash": "f5edd8da5a49220589b7dedf8d3fc075", 
     "uri": "https://aphyr.com/posts/306-clojure-from-the-ground-up-state", 
     "title": "Clojure from the ground up: state"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "84ad91f00c4bdb34f4e61841f47393da", 
+    "uri": "https://github.com/r0man/cascalog-nutch", 
+    "title": "GitHub - r0man/cascalog-nutch: Cascading Schemes and Cascalog helpers for Nutch sequence files."
 }

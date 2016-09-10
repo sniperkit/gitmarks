@@ -112,4 +112,10 @@
     "hash": "a20153ea2b1047ba20b884a88fb70cfc", 
     "uri": "https://www.infoq.com/presentations/Cascalog-Hadoop", 
     "title": "Cascalog: Logic Programming over Hadoop"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "84ad91f00c4bdb34f4e61841f47393da", 
+    "uri": "https://github.com/r0man/cascalog-nutch", 
+    "title": "GitHub - r0man/cascalog-nutch: Cascading Schemes and Cascalog helpers for Nutch sequence files."
 }
