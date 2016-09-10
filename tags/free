@@ -310,4 +310,10 @@
     "hash": "ca282bd56a261dbc0c54e657a20b3304", 
     "uri": "https://dzone.com/refcardz/apache-spark", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57b80565b7c142977fd99646c4ed9814", 
+    "uri": "https://dzone.com/refcardz/functional-programming-with-javascript", 
+    "title": "[No Title]"
 }

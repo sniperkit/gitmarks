@@ -598,4 +598,10 @@
     "hash": "c77baa6da5a6730cecdd08a7ea9d1ca9", 
     "uri": "http://eslint.org", 
     "title": "ESLint - Pluggable JavaScript linter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57b80565b7c142977fd99646c4ed9814", 
+    "uri": "https://dzone.com/refcardz/functional-programming-with-javascript", 
+    "title": "[No Title]"
 }

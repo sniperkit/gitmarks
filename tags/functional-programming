@@ -628,4 +628,10 @@
     "hash": "7a0f3426b28874ec540f36585374c784", 
     "uri": "http://blog.klipse.tech//lambda/2016/07/24/lambda-calculus-1.html", 
     "title": "Numbers and Arithmetics with functions only: lambda calculus live tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "57b80565b7c142977fd99646c4ed9814", 
+    "uri": "https://dzone.com/refcardz/functional-programming-with-javascript", 
+    "title": "[No Title]"
 }
