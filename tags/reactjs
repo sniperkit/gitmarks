@@ -196,4 +196,10 @@
     "hash": "c77baa6da5a6730cecdd08a7ea9d1ca9", 
     "uri": "http://eslint.org", 
     "title": "ESLint - Pluggable JavaScript linter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "19e13610b77c58f82783a4ff79dc4e2d", 
+    "uri": "https://dzone.com/refcardz/reactjs-essentials", 
+    "title": "[No Title]"
 }
