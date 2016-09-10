@@ -304,4 +304,10 @@
     "hash": "71b76de223dc2d76c57c944c77efdcf1", 
     "uri": "https://dzone.com/refcardz/core-cpp", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ca282bd56a261dbc0c54e657a20b3304", 
+    "uri": "https://dzone.com/refcardz/apache-spark", 
+    "title": "[No Title]"
 }
