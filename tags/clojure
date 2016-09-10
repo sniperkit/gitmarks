@@ -1924,4 +1924,10 @@
     "hash": "dc64d74e3458434fa6c333322789a490", 
     "uri": "https://github.com/fogus/bacwn", 
     "title": "GitHub - fogus/bacwn: clojure + datalog = &lt;3"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a45fd666f50954145368897f161f438e", 
+    "uri": "https://github.com/tulos/manifail", 
+    "title": "GitHub - tulos/manifail: Failure handling with Manifold"
 }
