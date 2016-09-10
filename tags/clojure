@@ -1948,4 +1948,10 @@
     "hash": "9106b9ce99344b1505d389726f8f5368", 
     "uri": "http://blog.shriphani.com/2015/03/12/leveraging-a-scalable-web-crawler-in-clojure/", 
     "title": "Leveraging a scalable web-crawler in clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "58d9efe4853282e4e05863b8502b5778", 
+    "uri": "https://juxt.pro/blog/posts/opensensors.html", 
+    "title": ""
 }
