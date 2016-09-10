@@ -64,4 +64,10 @@
     "hash": "e65ca0362175b45929000547cd194feb", 
     "uri": "http://blog.yhat.com/posts/moving-from-r-to-python.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1ba25903f01266a0042f61cb76023abf", 
+    "uri": "https://dzone.com/refcardz/distributed-machine-learning", 
+    "title": "[No Title]"
 }
