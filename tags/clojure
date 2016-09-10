@@ -1930,4 +1930,10 @@
     "hash": "a45fd666f50954145368897f161f438e", 
     "uri": "https://github.com/tulos/manifail", 
     "title": "GitHub - tulos/manifail: Failure handling with Manifold"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f5edd8da5a49220589b7dedf8d3fc075", 
+    "uri": "https://aphyr.com/posts/306-clojure-from-the-ground-up-state", 
+    "title": "Clojure from the ground up: state"
 }
