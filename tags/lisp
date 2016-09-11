@@ -142,4 +142,10 @@
     "hash": "a8a8298ddd76a7040af71304639ecbcd", 
     "uri": "http://home.pipeline.com/~hbaker1/Use1Var.html", 
     "title": "'Use-Once' Variables and Linear Objects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1d4ff8490c590a2e1c30e7dcc7b71f59", 
+    "uri": "http://home.pipeline.com/~hbaker1/LQsort.html", 
+    "title": "ACM Sigplan Notices 29, 2 (Feb. 1994), 13-18."
 }
