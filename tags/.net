@@ -190,4 +190,10 @@
     "hash": "470d3e9fdb3011accd067b0606fff708", 
     "uri": "http://dev.clojure.org/display/doc/Getting+Started+with+CLR+and+Visual+Studio", 
     "title": "Getting Started with CLR and Visual Studio - Clojure Documentation - Clojure Development"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "50a7e3c9252e3886bba496d750417232", 
+    "uri": "https://github.com/aaronc/nleiningen", 
+    "title": "GitHub - aaronc/nleiningen: Build tool for ClojureCLR"
 }
