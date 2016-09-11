@@ -1966,4 +1966,10 @@
     "hash": "84f49817987be57ae62753cdd12b5480", 
     "uri": "https://github.com/datacrypt-project/hitchhiker-tree", 
     "title": "GitHub - datacrypt-project/hitchhiker-tree: Functional, persistent, off-heap, high performance data structure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9362e22a356a6fcb6e2c16499dbdaf3f", 
+    "uri": "https://github.com/replikativ/durable-persistence", 
+    "title": "GitHub - replikativ/durable-persistence: Explorations in durable persistent datastructures for Clojure."
 }
