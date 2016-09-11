@@ -178,4 +178,10 @@
     "hash": "fbdcaf84097e06027104539431c2113e", 
     "uri": "http://fernmac.blogspot.com/2012/02/clojure-clr-examples.html", 
     "title": "Stuff++: Clojure-clr examples"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dfb9a3e45866630caa6d5d827e301fe8", 
+    "uri": "http://www.myclojureadventure.com/p/clojureclr-ports-page-purpose-of-this.html", 
+    "title": "My Clojure Adventure: ClojureCLR Contrib Lib Porting Status"
 }
