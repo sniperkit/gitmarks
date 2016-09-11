@@ -196,4 +196,10 @@
     "hash": "50a7e3c9252e3886bba496d750417232", 
     "uri": "https://github.com/aaronc/nleiningen", 
     "title": "GitHub - aaronc/nleiningen: Build tool for ClojureCLR"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "aea0b4b421bf6e2506d44f9aefc78a0e", 
+    "uri": "http://www.myclojureadventure.com/2012/01/intro-to-clojure-clr-creating-ui-with.html", 
+    "title": "My Clojure Adventure: Intro to Clojure-clr: Creating a UI with Windows.Forms"
 }
