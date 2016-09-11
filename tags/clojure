@@ -2008,4 +2008,10 @@
     "hash": "dfb9a3e45866630caa6d5d827e301fe8", 
     "uri": "http://www.myclojureadventure.com/p/clojureclr-ports-page-purpose-of-this.html", 
     "title": "My Clojure Adventure: ClojureCLR Contrib Lib Porting Status"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "470d3e9fdb3011accd067b0606fff708", 
+    "uri": "http://dev.clojure.org/display/doc/Getting+Started+with+CLR+and+Visual+Studio", 
+    "title": "Getting Started with CLR and Visual Studio - Clojure Documentation - Clojure Development"
 }
