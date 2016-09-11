@@ -154,4 +154,10 @@
     "hash": "ce48d2506f7806273ed12e6aed9f15ae", 
     "uri": "http://home.pipeline.com/~hbaker1/LBoyer.html", 
     "title": "ACM Sigplan Lisp Pointers VI, 4 (Oct/Dec 1993), 3-10."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2cacb9f0fb53d2ef61d091acae004737", 
+    "uri": "http://home.pipeline.com/~hbaker1/LFrpoly.html", 
+    "title": "ACM Sigsam Bull. 27, 4 (Dec. 1993), 10-14."
 }
