@@ -2050,4 +2050,10 @@
     "hash": "2df5e8b01b59b54545a940cdab59afb7", 
     "uri": "https://github.com/mjul/docjure", 
     "title": "GitHub - mjul/docjure: Read and write Office documents from Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7a40f88db1eb879f7ccbf2134559252c", 
+    "uri": "https://github.com/sneerteam/sneer", 
+    "title": "GitHub - sneerteam/sneer: A Platform for Sovereign Computing Apps."
 }
