@@ -58,4 +58,10 @@
     "hash": "bac1dd0d72ec8d2805f715a644152bc2", 
     "uri": "http://greenteapress.com/thinkstats2/html/index.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cf9655b41d24a70ae2f0872b4730f70c", 
+    "uri": "http://tech.metail.com/think-stats-in-clojure-i/", 
+    "title": "403 Forbidden"
 }
