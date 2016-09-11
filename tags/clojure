@@ -2044,4 +2044,10 @@
     "hash": "bb93d9435e0d92d80548687c9668136e", 
     "uri": "https://clojure.zeef.com/vlad.bokov", 
     "title": "Clojure by Vlad Bokov | ZEEF"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2df5e8b01b59b54545a940cdab59afb7", 
+    "uri": "https://github.com/mjul/docjure", 
+    "title": "GitHub - mjul/docjure: Read and write Office documents from Clojure"
 }
