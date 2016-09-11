@@ -382,4 +382,10 @@
     "hash": "3d9f99facdc00baf63a740376772bea7", 
     "uri": "dippl.org", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d5f052234c7ff2a76762120645396433", 
+    "uri": "http://probabilistic-programming.org/wiki/Home", 
+    "title": "Probabilistic Programming"
 }
