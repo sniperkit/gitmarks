@@ -1960,4 +1960,10 @@
     "hash": "c46ba410611f2485cf5bcf1aab381ffc", 
     "uri": "https://github.com/dakrone/cld", 
     "title": "GitHub - dakrone/cld: Language detection for Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "84f49817987be57ae62753cdd12b5480", 
+    "uri": "https://github.com/datacrypt-project/hitchhiker-tree", 
+    "title": "GitHub - datacrypt-project/hitchhiker-tree: Functional, persistent, off-heap, high performance data structure"
 }
