@@ -1972,4 +1972,10 @@
     "hash": "9362e22a356a6fcb6e2c16499dbdaf3f", 
     "uri": "https://github.com/replikativ/durable-persistence", 
     "title": "GitHub - replikativ/durable-persistence: Explorations in durable persistent datastructures for Clojure."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "38d334e03b24b4ccefd4b73ac68fc724", 
+    "uri": "https://bcbio.wordpress.com/2012/03/04/extending-the-gatk-for-custom-variant-comparisons-using-clojure/", 
+    "title": "Extending the GATK for custom variant comparisons using Clojure | Blue Collar Bioinformatics"
 }
