@@ -202,4 +202,10 @@
     "hash": "aea0b4b421bf6e2506d44f9aefc78a0e", 
     "uri": "http://www.myclojureadventure.com/2012/01/intro-to-clojure-clr-creating-ui-with.html", 
     "title": "My Clojure Adventure: Intro to Clojure-clr: Creating a UI with Windows.Forms"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0052f3b87719d2f275366fa7381d45f5", 
+    "uri": "http://www.myclojureadventure.com/2011/10/getting-started-with-clojure-clr.html", 
+    "title": "My Clojure Adventure: Getting Started with Clojure-clr"
 }
