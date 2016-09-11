@@ -1996,4 +1996,10 @@
     "hash": "119d1be14e6b8e5d6292100d5a2336e8", 
     "uri": "https://github.com/clojure/clojure-clr/wiki/Using-ClojureCLR-in-a-C%23-project", 
     "title": "Using ClojureCLR in a C# project \u00b7 clojure/clojure-clr Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fbdcaf84097e06027104539431c2113e", 
+    "uri": "http://fernmac.blogspot.com/2012/02/clojure-clr-examples.html", 
+    "title": "Stuff++: Clojure-clr examples"
 }
