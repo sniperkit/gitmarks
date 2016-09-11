@@ -388,4 +388,10 @@
     "hash": "d5f052234c7ff2a76762120645396433", 
     "uri": "http://probabilistic-programming.org/wiki/Home", 
     "title": "Probabilistic Programming"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bac1dd0d72ec8d2805f715a644152bc2", 
+    "uri": "http://greenteapress.com/thinkstats2/html/index.html", 
+    "title": "[No Title]"
 }
