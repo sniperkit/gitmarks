@@ -52,4 +52,10 @@
     "hash": "83d3ca2dc3fb42162f3086b9d67c2a09", 
     "uri": "https://lambdaisland.com/episodes", 
     "title": "Lambda Island | Episodes"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bc3de1d1d704474ec120ad41e76ce5c3", 
+    "uri": "https://www.livecoding.tv/slightlycyborg/videos/", 
+    "title": "Access denied | www.livecoding.tv used CloudFlare to restrict access"
 }
