@@ -2080,4 +2080,10 @@
     "hash": "bc3de1d1d704474ec120ad41e76ce5c3", 
     "uri": "https://www.livecoding.tv/slightlycyborg/videos/", 
     "title": "Access denied | www.livecoding.tv used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47e31fd013d2b75bfa0a5b27492c0ea4", 
+    "uri": "https://medium.com/@mickduprez/clojure-clr-from-scratch-part-1-the-tools-6037311b815e", 
+    "title": "Access denied | medium.com used CloudFlare to restrict access"
 }
