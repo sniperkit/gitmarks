@@ -1984,4 +1984,10 @@
     "hash": "afb91b3e8fd2085c8d89ebaead154777", 
     "uri": "https://juxt.pro/radar.html", 
     "title": "JUXT Radar"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7c781bff24b28aa841e49943ccecd011", 
+    "uri": "http://clojureclr.blogspot.com/", 
+    "title": "ClojureCLR"
 }

@@ -160,4 +160,10 @@
     "hash": "e641bad552d5e111ea729873a0adb098", 
     "uri": "https://github.com/StackExchange/dapper-dot-net", 
     "title": "GitHub - StackExchange/dapper-dot-net: Dapper - a simple object mapper for .Net"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7c781bff24b28aa841e49943ccecd011", 
+    "uri": "http://clojureclr.blogspot.com/", 
+    "title": "ClojureCLR"
 }
