@@ -1954,4 +1954,10 @@
     "hash": "58d9efe4853282e4e05863b8502b5778", 
     "uri": "https://juxt.pro/blog/posts/opensensors.html", 
     "title": ""
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c46ba410611f2485cf5bcf1aab381ffc", 
+    "uri": "https://github.com/dakrone/cld", 
+    "title": "GitHub - dakrone/cld: Language detection for Clojure"
 }
