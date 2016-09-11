@@ -136,4 +136,10 @@
     "hash": "b302aec19648f5590e37346adeca6219", 
     "uri": "https://github.com/pkrumins/the-little-schemer", 
     "title": "GitHub - pkrumins/the-little-schemer: All the Scheme code examples from the book &quot;The Little Schemer&quot;"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a8a8298ddd76a7040af71304639ecbcd", 
+    "uri": "http://home.pipeline.com/~hbaker1/Use1Var.html", 
+    "title": "'Use-Once' Variables and Linear Objects"
 }
