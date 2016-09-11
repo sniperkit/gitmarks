@@ -2038,4 +2038,10 @@
     "hash": "5c81c5da6bc32c43a847d30b862297fa", 
     "uri": "https://www.eduonix.com/courses/Software-Development/clojure-fundamentals-for-beginners?coupon_code=vnlive7", 
     "title": "Learn Clojure Functional Programming Course Online"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bb93d9435e0d92d80548687c9668136e", 
+    "uri": "https://clojure.zeef.com/vlad.bokov", 
+    "title": "Clojure by Vlad Bokov | ZEEF"
 }
