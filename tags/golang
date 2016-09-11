@@ -22,4 +22,10 @@
     "hash": "8325679c3b26d58600270e49b714e421", 
     "uri": "https://github.com/tmrts/go-patterns", 
     "title": "GitHub - tmrts/go-patterns: A curated list of Go patterns and idioms"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b7ae1fd098e37911dfe6999175d9cda2", 
+    "uri": "medium.com/@benbjohnson/go-walkthrough-strconv-7a24632a9e73", 
+    "title": "[No Title]"
 }
