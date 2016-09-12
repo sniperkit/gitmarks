@@ -136,4 +136,10 @@
     "hash": "57c145314c77164736b72fa2995afc70", 
     "uri": "https://github.com/jonase/learndatalogtoday", 
     "title": "GitHub - jonase/learndatalogtoday: Interactive Datalog Tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd70cbc7bc2e90687a59ef950cfb529e", 
+    "uri": "http://docs.datomic.com/tutorial.html", 
+    "title": "Tutorial | Datomic"
 }
