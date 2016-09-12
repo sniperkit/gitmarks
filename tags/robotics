@@ -76,4 +76,10 @@
     "hash": "cd6940c691b67fd490a2baeb35e21826", 
     "uri": "https://cylonjs.com/", 
     "title": "Access denied | cylonjs.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "119f5d1a0c807c33e65c78bd3a27e0b7", 
+    "uri": "https://github.com/david-mcneil/bolo", 
+    "title": "GitHub - david-mcneil/bolo: Toy DSL for robot tanks"
 }
