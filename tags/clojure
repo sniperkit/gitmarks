@@ -2098,4 +2098,10 @@
     "hash": "119f5d1a0c807c33e65c78bd3a27e0b7", 
     "uri": "https://github.com/david-mcneil/bolo", 
     "title": "GitHub - david-mcneil/bolo: Toy DSL for robot tanks"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fee4518ce03b9b97b7a27644bfb6d2b0", 
+    "uri": "https://github.com/franks42/clj-ns-browser", 
+    "title": "GitHub - franks42/clj-ns-browser: Smalltalk-like namespace/class/var/function browser for clojure docs and source-code based on seesaw"
 }

@@ -658,4 +658,10 @@
     "hash": "35d54a2fade05239ae23eae147ff1abf", 
     "uri": "https://blog.maartenballiauw.be/post/2016/08/17/building-nuget-netcore-using-atlassian-bitbucket-pipelines.html", 
     "title": "Access denied | blog.maartenballiauw.be used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fee4518ce03b9b97b7a27644bfb6d2b0", 
+    "uri": "https://github.com/franks42/clj-ns-browser", 
+    "title": "GitHub - franks42/clj-ns-browser: Smalltalk-like namespace/class/var/function browser for clojure docs and source-code based on seesaw"
 }

@@ -130,4 +130,10 @@
     "hash": "dc6ca45b260608522e9dfbe5ffa722e9", 
     "uri": "https://webtorrent.io/desktop/", 
     "title": "WebTorrent Desktop"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fee4518ce03b9b97b7a27644bfb6d2b0", 
+    "uri": "https://github.com/franks42/clj-ns-browser", 
+    "title": "GitHub - franks42/clj-ns-browser: Smalltalk-like namespace/class/var/function browser for clojure docs and source-code based on seesaw"
 }
