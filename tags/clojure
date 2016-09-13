@@ -2116,4 +2116,10 @@
     "hash": "3078e0420265ebe7b55c5ffac8de7196", 
     "uri": "http://www.deadcoderising.com/2015-09-22-concurrency-made-easy-with-clojure-and-pulsar/", 
     "title": "Concurrency made easy with Clojure and Pulsar"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0dc439ca53b53b8e581cb4f6c0dc8d3", 
+    "uri": "http://alexkehayias.tumblr.com/post/28783286946/a-simple-real-time-chat-server-using-clojure-and", 
+    "title": "Alex Kehayias's Blog &bull; A simple real-time chat server using Clojure and..."
 }
