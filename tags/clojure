@@ -2122,4 +2122,10 @@
     "hash": "a0dc439ca53b53b8e581cb4f6c0dc8d3", 
     "uri": "http://alexkehayias.tumblr.com/post/28783286946/a-simple-real-time-chat-server-using-clojure-and", 
     "title": "Alex Kehayias's Blog &bull; A simple real-time chat server using Clojure and..."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fa354fc2287557aa336c056ae3258142", 
+    "uri": "https://github.com/juxt/chatserver", 
+    "title": "GitHub - juxt/chatserver"
 }
