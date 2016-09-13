@@ -2110,4 +2110,10 @@
     "hash": "7caece84ed52fc7307afa302db360095", 
     "uri": "https://clojars.org/repo/", 
     "title": "Index of /repo/"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3078e0420265ebe7b55c5ffac8de7196", 
+    "uri": "http://www.deadcoderising.com/2015-09-22-concurrency-made-easy-with-clojure-and-pulsar/", 
+    "title": "Concurrency made easy with Clojure and Pulsar"
 }
