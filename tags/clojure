@@ -2128,4 +2128,10 @@
     "hash": "fa354fc2287557aa336c056ae3258142", 
     "uri": "https://github.com/juxt/chatserver", 
     "title": "GitHub - juxt/chatserver"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd3db247d7536906de8c5d340af64ec0", 
+    "uri": "https://github.com/yieldbot/flambo", 
+    "title": "GitHub - yieldbot/flambo: A Clojure DSL for Apache Spark"
 }

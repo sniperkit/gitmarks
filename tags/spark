@@ -46,4 +46,10 @@
     "hash": "ca282bd56a261dbc0c54e657a20b3304", 
     "uri": "https://dzone.com/refcardz/apache-spark", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd3db247d7536906de8c5d340af64ec0", 
+    "uri": "https://github.com/yieldbot/flambo", 
+    "title": "GitHub - yieldbot/flambo: A Clojure DSL for Apache Spark"
 }
