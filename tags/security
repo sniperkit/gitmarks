@@ -418,4 +418,10 @@
     "hash": "02164d1024226ad043a306986fb2c151", 
     "uri": "http://raspberrypi.stackexchange.com/questions/10489/how-does-raspberry-pi-boot", 
     "title": "kernel - How does Raspberry Pi boot? - Raspberry Pi Stack Exchange"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ff7266977a2ebe17ffa5a53bbdadb876", 
+    "uri": "http://raspberrypi.stackexchange.com/questions/7122/level-of-hackability-of-raspberry-pi", 
+    "title": "boot - Level of Hackability of raspberry pi - Raspberry Pi Stack Exchange"
 }
