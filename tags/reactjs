@@ -214,4 +214,10 @@
     "hash": "5f2d54b8efb5116229c2698007f1314c", 
     "uri": "http://www.material-ui.com/", 
     "title": "Material-UI"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a1d05102865709cc0679e22a2b230cfa", 
+    "uri": "https://github.com/active-group/reacl", 
+    "title": "GitHub - active-group/reacl: ClojureScript library for interfacing with React framework"
 }

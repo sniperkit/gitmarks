@@ -370,4 +370,10 @@
     "hash": "12a5c013243f9e26648a55eb6e2a7e0a", 
     "uri": "https://github.com/nervous-systems/shapeshiftr", 
     "title": "GitHub - nervous-systems/shapeshiftr: Clojure/script shapeshift.io client"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a1d05102865709cc0679e22a2b230cfa", 
+    "uri": "https://github.com/active-group/reacl", 
+    "title": "GitHub - active-group/reacl: ClojureScript library for interfacing with React framework"
 }
