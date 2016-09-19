@@ -160,4 +160,10 @@
     "hash": "2cacb9f0fb53d2ef61d091acae004737", 
     "uri": "http://home.pipeline.com/~hbaker1/LFrpoly.html", 
     "title": "ACM Sigsam Bull. 27, 4 (Dec. 1993), 10-14."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b98b7431295cbf91f241925f0a953fda", 
+    "uri": "https://github.com/Sauermann/emacs-aes", 
+    "title": "GitHub - Sauermann/emacs-aes: Emacs Lisp implementation of AES"
 }

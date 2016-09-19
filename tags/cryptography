@@ -310,4 +310,10 @@
     "hash": "a8a8298ddd76a7040af71304639ecbcd", 
     "uri": "http://home.pipeline.com/~hbaker1/Use1Var.html", 
     "title": "'Use-Once' Variables and Linear Objects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b98b7431295cbf91f241925f0a953fda", 
+    "uri": "https://github.com/Sauermann/emacs-aes", 
+    "title": "GitHub - Sauermann/emacs-aes: Emacs Lisp implementation of AES"
 }
