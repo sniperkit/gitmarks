@@ -10,4 +10,10 @@
     "hash": "678f00b4039097aa9cef35988c2e070a", 
     "uri": "https://regexone.com/", 
     "title": "RegexOne - Learn Regular Expressions - Lesson 1: An Introduction, and the ABCs"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c61db2aa341937a61b3380ceceab67dd", 
+    "uri": "http://www.gamedev.net/page/resources/_/technical/general-programming/finite-state-machines-and-regular-expressions-r3176", 
+    "title": "Article: Finite State Machines and Regular Expressions - Finite State Machines and Regular Expressions - General Programming - Articles - Articles - GameDev.net"
 }
