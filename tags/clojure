@@ -2146,4 +2146,10 @@
     "hash": "9eeb476cb11e444cb025feefc3023acd", 
     "uri": "http://neuronrobotics.com/", 
     "title": "Neuron Robotics Cooperative"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2b8597f00f64fba9f27dd3946e177c19", 
+    "uri": "https://github.com/yogthos/clojure-error-message-catalog", 
+    "title": "GitHub - yogthos/clojure-error-message-catalog: a catalog of common Clojure errors and their meaning"
 }
