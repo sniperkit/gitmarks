@@ -208,4 +208,10 @@
     "hash": "92930bf9809b4f61d15c0cc1a6b57206", 
     "uri": "http://protege.stanford.edu/", 
     "title": "prot&eacute;g&eacute;"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "273aaece54d653038707ca67ea3d8bf1", 
+    "uri": "http://open-source.braveclojure.com/", 
+    "title": "Open Source Clojure Projects"
 }
