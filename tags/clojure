@@ -2134,4 +2134,10 @@
     "hash": "dd3db247d7536906de8c5d340af64ec0", 
     "uri": "https://github.com/yieldbot/flambo", 
     "title": "GitHub - yieldbot/flambo: A Clojure DSL for Apache Spark"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "de66350a195fe4f4377b4693837ead34", 
+    "uri": "http://hoplon.io/", 
+    "title": "Hoplon, a ClojureScript Web Framework"
 }
