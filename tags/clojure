@@ -2140,4 +2140,10 @@
     "hash": "de66350a195fe4f4377b4693837ead34", 
     "uri": "http://hoplon.io/", 
     "title": "Hoplon, a ClojureScript Web Framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9eeb476cb11e444cb025feefc3023acd", 
+    "uri": "http://neuronrobotics.com/", 
+    "title": "Neuron Robotics Cooperative"
 }
