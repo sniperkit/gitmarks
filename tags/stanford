@@ -16,4 +16,10 @@
     "hash": "d8fc55408275d74500c1fdf106f55063", 
     "uri": "http://nlp.stanford.edu/software/index.shtml", 
     "title": "Software - The Stanford Natural Language Processing Group "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "92930bf9809b4f61d15c0cc1a6b57206", 
+    "uri": "http://protege.stanford.edu/", 
+    "title": "prot&eacute;g&eacute;"
 }
