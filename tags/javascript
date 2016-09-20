@@ -616,4 +616,10 @@
     "hash": "48bbe93b2d8315d58e74958732306796", 
     "uri": "http://leafletjs.com", 
     "title": "Leaflet - a JavaScript library for interactive maps"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bfcde03dc79bde166808f6df3b63a65f", 
+    "uri": "https://cljsjs.github.io/", 
+    "title": "Javascript Libraries packaged for ClojureScript"
 }

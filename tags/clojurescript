@@ -376,4 +376,10 @@
     "hash": "a1d05102865709cc0679e22a2b230cfa", 
     "uri": "https://github.com/active-group/reacl", 
     "title": "GitHub - active-group/reacl: ClojureScript library for interfacing with React framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bfcde03dc79bde166808f6df3b63a65f", 
+    "uri": "https://cljsjs.github.io/", 
+    "title": "Javascript Libraries packaged for ClojureScript"
 }
