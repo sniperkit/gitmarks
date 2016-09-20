@@ -2152,4 +2152,10 @@
     "hash": "2b8597f00f64fba9f27dd3946e177c19", 
     "uri": "https://github.com/yogthos/clojure-error-message-catalog", 
     "title": "GitHub - yogthos/clojure-error-message-catalog: a catalog of common Clojure errors and their meaning"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "85c12dee86ebf5ee2b72d5aeac9e53c5", 
+    "uri": "http://clojurians.net/", 
+    "title": "[No Title]"
 }
