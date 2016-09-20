@@ -382,4 +382,10 @@
     "hash": "bfcde03dc79bde166808f6df3b63a65f", 
     "uri": "https://cljsjs.github.io/", 
     "title": "Javascript Libraries packaged for ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "059c9c32a94e558ad0e2c01ced866ee3", 
+    "uri": "http://escherize.com/cljsfiddle/", 
+    "title": "CLJS Fiddle"
 }
