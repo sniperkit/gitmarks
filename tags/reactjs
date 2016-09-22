@@ -226,4 +226,10 @@
     "hash": "059c9c32a94e558ad0e2c01ced866ee3", 
     "uri": "http://escherize.com/cljsfiddle/", 
     "title": "CLJS Fiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cd9ee099b1b77b9891297355b3f0bdd0", 
+    "uri": "http://www.reactboilerplate.com", 
+    "title": "React.js Boilerplate"
 }
