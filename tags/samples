@@ -10,4 +10,10 @@
     "hash": "a8f9c70ea92bfcf4ed6565ce29faf328", 
     "uri": "https://github.com/clojure-cookbook/cascalog-samples", 
     "title": "GitHub - clojure-cookbook/cascalog-samples: Cascalog samples for the Distributed Computing chapter"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cf7dd1f95a535195385c870760ff36e6", 
+    "uri": "https://myminutes.wordpress.com/2013/10/22/simple-caldav4j-example-in-java-and-clojure/", 
+    "title": "Simple caldav4j example in java and clojure | My Minutes (Benjamin Peter)"
 }
