@@ -310,4 +310,10 @@
     "hash": "3e02447aeb1b82e81fd711b99b7f93c8", 
     "uri": "https://github.com/fuzion24", 
     "title": "Fuzion24 (Ryan Welton) \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "597cddc37fd8aae84cc4f9d92f3ae700", 
+    "uri": "http://caldav.calconnect.org/implementations/clients.html", 
+    "title": "CalDAV Clients"
 }

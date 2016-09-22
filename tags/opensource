@@ -214,4 +214,10 @@
     "hash": "273aaece54d653038707ca67ea3d8bf1", 
     "uri": "http://open-source.braveclojure.com/", 
     "title": "Open Source Clojure Projects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "597cddc37fd8aae84cc4f9d92f3ae700", 
+    "uri": "http://caldav.calconnect.org/implementations/clients.html", 
+    "title": "CalDAV Clients"
 }
