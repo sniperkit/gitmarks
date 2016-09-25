@@ -238,4 +238,10 @@
     "hash": "424d8bc0f2bc4e66f266412eddb67568", 
     "uri": "http://www.c-sharpcorner.com/UploadFile/vendettamit/create-secure-wcf-rest-api-with-custom-basic-authentication/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "23215ffcb4a345146765da9cf11eb9ea", 
+    "uri": "https://github.com/pcibraro/hawknet/", 
+    "title": "GitHub - pcibraro/hawknet: Hawk protocol implementation for .NET"
 }

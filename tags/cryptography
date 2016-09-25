@@ -322,4 +322,10 @@
     "hash": "004769f25956cf48fa31a965f4bcd8ab", 
     "uri": "https://github.com/hueniverse/hawk", 
     "title": "GitHub - hueniverse/hawk: HTTP Holder-Of-Key Authentication Scheme"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "23215ffcb4a345146765da9cf11eb9ea", 
+    "uri": "https://github.com/pcibraro/hawknet/", 
+    "title": "GitHub - pcibraro/hawknet: Hawk protocol implementation for .NET"
 }
