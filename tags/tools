@@ -682,4 +682,10 @@
     "hash": "24b8ce845313f6bf92ba0e2f633332bb", 
     "uri": "http://gitup.co/", 
     "title": "GitUp"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "811296ed974b4de24275be8a2c64c861", 
+    "uri": "https://github.com/mikefourie/MSBuildExtensionPack", 
+    "title": "GitHub - mikefourie/MSBuildExtensionPack"
 }
