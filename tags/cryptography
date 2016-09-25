@@ -316,4 +316,10 @@
     "hash": "b98b7431295cbf91f241925f0a953fda", 
     "uri": "https://github.com/Sauermann/emacs-aes", 
     "title": "GitHub - Sauermann/emacs-aes: Emacs Lisp implementation of AES"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "004769f25956cf48fa31a965f4bcd8ab", 
+    "uri": "https://github.com/hueniverse/hawk", 
+    "title": "GitHub - hueniverse/hawk: HTTP Holder-Of-Key Authentication Scheme"
 }
