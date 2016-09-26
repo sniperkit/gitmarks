@@ -34,4 +34,10 @@
     "hash": "8325679c3b26d58600270e49b714e421", 
     "uri": "https://github.com/tmrts/go-patterns", 
     "title": "GitHub - tmrts/go-patterns: A curated list of Go patterns and idioms"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "47603dd12416e33aae081c865c4d65f0", 
+    "uri": "http://martinfowler.com/articles/injection.html", 
+    "title": "[No Title]"
 }
