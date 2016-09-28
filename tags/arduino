@@ -70,4 +70,10 @@
     "hash": "12868ad1455b5e912959b00ddf1a5f94", 
     "uri": "http://hapkit.stanford.edu/", 
     "title": "Hapkit"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ae80bbfe236eb3065a25d88b026d0794", 
+    "uri": "http://garduino.dirtnail.com/", 
+    "title": "Garduino"
 }
