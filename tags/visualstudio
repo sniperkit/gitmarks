@@ -28,4 +28,10 @@
     "hash": "e2a9d7b7498cf99eddf78f068c750c77", 
     "uri": "https://blogs.windows.com/buildingapps/2016/09/02/announcing-intel-joule-support-in-windows-10-iot-core-anniversary-edition/", 
     "title": "Microsoft SVG Logo"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5507244949c46acbc1f6fd2d6e2bfb46", 
+    "uri": "https://code.visualstudio.com/docs?start=true", 
+    "title": "Documentation for Visual Studio Code"
 }
