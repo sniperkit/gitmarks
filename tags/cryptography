@@ -328,4 +328,10 @@
     "hash": "23215ffcb4a345146765da9cf11eb9ea", 
     "uri": "https://github.com/pcibraro/hawknet/", 
     "title": "GitHub - pcibraro/hawknet: Hawk protocol implementation for .NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "202aed043892cc51d5f760b637466641", 
+    "uri": "https://github.com/cryptolok/CryptoTrooper", 
+    "title": "GitHub - cryptolok/CryptoTrooper: CryptoTrooper was the world&#39;s first Linux white-box ransomware for learning purpose"
 }
