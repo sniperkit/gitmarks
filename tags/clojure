@@ -2170,4 +2170,10 @@
     "hash": "cf7dd1f95a535195385c870760ff36e6", 
     "uri": "https://myminutes.wordpress.com/2013/10/22/simple-caldav4j-example-in-java-and-clojure/", 
     "title": "Simple caldav4j example in java and clojure | My Minutes (Benjamin Peter)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e518a9e5d52ba3404cf66ce02b7da6bf", 
+    "uri": "http://clojure.org/guides/threading_macros", 
+    "title": "Clojure - Threading Macros Guide"
 }
