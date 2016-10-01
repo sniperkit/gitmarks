@@ -388,4 +388,10 @@
     "hash": "059c9c32a94e558ad0e2c01ced866ee3", 
     "uri": "http://escherize.com/cljsfiddle/", 
     "title": "CLJS Fiddle"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bfefbba312376294b3c912f26591de67", 
+    "uri": "http://respo.site", 
+    "title": "Respo: an MVC library in ClojureScript"
 }
