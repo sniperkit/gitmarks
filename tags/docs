@@ -148,4 +148,10 @@
     "hash": "e518a9e5d52ba3404cf66ce02b7da6bf", 
     "uri": "http://clojure.org/guides/threading_macros", 
     "title": "Clojure - Threading Macros Guide"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "81cf8989a4b2ae9530f6f35d16779f4f", 
+    "uri": "https://github.com/LonoCloud/synthread", 
+    "title": "GitHub - LonoCloud/synthread: Syntax threading macros for Clojure"
 }
