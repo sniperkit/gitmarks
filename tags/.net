@@ -262,4 +262,10 @@
     "hash": "ace4db56bee01079ec5e1f535555dcb6", 
     "uri": "https://leastprivilege.com/2012/06/25/important-setting-the-client-principal-in-asp-net-web-api/", 
     "title": "Important: Setting the Client Principal in ASP.NET Web API | leastprivilege.com"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "3fb87a28e19c50a88a34009e7aff5506", 
+    "uri": "https://leastprivilege.com/2013/03/11/alternative-to-thread-currentprincipal-in-asp-net-web-api/", 
+    "title": "Alternative to Thread.CurrentPrincipal in ASP.NET Web API | leastprivilege.com"
 }
