@@ -442,4 +442,10 @@
     "hash": "7c79d9fe1cb3acd4d2f0989b94428985", 
     "uri": "https://github.com/IdentityModel", 
     "title": "IdentityModel \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ace4db56bee01079ec5e1f535555dcb6", 
+    "uri": "https://leastprivilege.com/2012/06/25/important-setting-the-client-principal-in-asp-net-web-api/", 
+    "title": "Important: Setting the Client Principal in ASP.NET Web API | leastprivilege.com"
 }
