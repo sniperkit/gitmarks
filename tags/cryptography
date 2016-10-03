@@ -334,4 +334,10 @@
     "hash": "202aed043892cc51d5f760b637466641", 
     "uri": "https://github.com/cryptolok/CryptoTrooper", 
     "title": "GitHub - cryptolok/CryptoTrooper: CryptoTrooper was the world&#39;s first Linux white-box ransomware for learning purpose"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a2979644558fa1837d2847c40e30bec5", 
+    "uri": "https://www.agwa.name/blog/post/duplicate_signature_key_selection_attack_in_lets_encrypt", 
+    "title": "Duplicate Signature Key Selection Attack in Let's Encrypt"
 }
