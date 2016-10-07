@@ -340,4 +340,10 @@
     "hash": "a2979644558fa1837d2847c40e30bec5", 
     "uri": "https://www.agwa.name/blog/post/duplicate_signature_key_selection_attack_in_lets_encrypt", 
     "title": "Duplicate Signature Key Selection Attack in Let's Encrypt"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fd3b289055ee9e929a7ec8d6ec5ea966", 
+    "uri": "https://github.com/WhisperSystems/Signal-Desktop", 
+    "title": "GitHub - WhisperSystems/Signal-Desktop: Signal Private Messenger for the Desktop"
 }
