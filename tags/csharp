@@ -100,4 +100,10 @@
     "hash": "16a589e01b350444c58c220880a31fe8", 
     "uri": "https://github.com/Clayster", 
     "title": "Clayster \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "804dbc05ceebeb133e7571c7c0951632", 
+    "uri": "https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-C%23-6", 
+    "title": "New Language Features in C# 6 \u00b7 dotnet/roslyn Wiki \u00b7 GitHub"
 }
