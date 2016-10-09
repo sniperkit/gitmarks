@@ -700,4 +700,10 @@
     "hash": "2631c4e0da8d13b648430a313cfb3ad0", 
     "uri": "http://www.dotnetcurry.com/aspnet/1234/aspnet5-apps-using-visual-studio-code-vscode-yeoman", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59dbd8c65866ea904d881e5dec06fed2", 
+    "uri": "https://github.com/cloverage/cloverage", 
+    "title": "GitHub - cloverage/cloverage: Clojure test coverage tool"
 }

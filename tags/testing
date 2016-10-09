@@ -124,4 +124,10 @@
     "hash": "87cd70f13f7f843a43069ec1eb0cef5d", 
     "uri": "http://www.mbtest.org/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "59dbd8c65866ea904d881e5dec06fed2", 
+    "uri": "https://github.com/cloverage/cloverage", 
+    "title": "GitHub - cloverage/cloverage: Clojure test coverage tool"
 }
