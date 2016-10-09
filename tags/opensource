@@ -226,4 +226,10 @@
     "hash": "e049a4ff296ed137ecfc9d3a3cc70c2d", 
     "uri": "http://swagger.io/getting-started/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f3887fc5e6b601b2f8213b0fb63592a", 
+    "uri": "https://juxt.pro/blog/opensource", 
+    "title": "JUXT Opensource"
 }

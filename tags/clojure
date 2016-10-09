@@ -2194,4 +2194,10 @@
     "hash": "59dbd8c65866ea904d881e5dec06fed2", 
     "uri": "https://github.com/cloverage/cloverage", 
     "title": "GitHub - cloverage/cloverage: Clojure test coverage tool"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f3887fc5e6b601b2f8213b0fb63592a", 
+    "uri": "https://juxt.pro/blog/opensource", 
+    "title": "JUXT Opensource"
 }
