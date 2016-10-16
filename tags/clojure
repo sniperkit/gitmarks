@@ -2212,4 +2212,10 @@
     "hash": "cc1c5e3212c2a0ca79e46aadd8e65de3", 
     "uri": "http://www.meetup.com/Clojure-Toronto/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9933099f441e484eeee4e5cf5799a8cf", 
+    "uri": "https://tbaldridge.pivotshare.com/", 
+    "title": "Clojure Tutorials - with Tim Baldridge | Logic Programming, Core.Async, Transients, and more | Watch Online Videos for Just $3.99"
 }
