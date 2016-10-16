@@ -2218,4 +2218,10 @@
     "hash": "9933099f441e484eeee4e5cf5799a8cf", 
     "uri": "https://tbaldridge.pivotshare.com/", 
     "title": "Clojure Tutorials - with Tim Baldridge | Logic Programming, Core.Async, Transients, and more | Watch Online Videos for Just $3.99"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f4d21b8893cde246a5cc6d3d721d2a85", 
+    "uri": "https://github.com/thinktopic/cortex", 
+    "title": "GitHub - thinktopic/cortex: Machine learning in Clojure"
 }

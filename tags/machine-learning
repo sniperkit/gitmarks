@@ -100,4 +100,10 @@
     "hash": "d5f052234c7ff2a76762120645396433", 
     "uri": "http://probabilistic-programming.org/wiki/Home", 
     "title": "Probabilistic Programming"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f4d21b8893cde246a5cc6d3d721d2a85", 
+    "uri": "https://github.com/thinktopic/cortex", 
+    "title": "GitHub - thinktopic/cortex: Machine learning in Clojure"
 }
