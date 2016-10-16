@@ -76,4 +76,10 @@
     "hash": "bd70cbc7bc2e90687a59ef950cfb529e", 
     "uri": "http://docs.datomic.com/tutorial.html", 
     "title": "Tutorial | Datomic"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d62acb0c38705f978bf88d7cbe7cd129", 
+    "uri": "http://vvvvalvalval.github.io/posts/2016-07-24-datomic-web-app-a-practical-guide.html", 
+    "title": "Val on Programming: Using Datomic in your app: a practical guide"
 }
