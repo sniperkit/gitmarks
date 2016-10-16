@@ -2224,4 +2224,10 @@
     "hash": "f4d21b8893cde246a5cc6d3d721d2a85", 
     "uri": "https://github.com/thinktopic/cortex", 
     "title": "GitHub - thinktopic/cortex: Machine learning in Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1e89c171ba571c521dc2814196a51191", 
+    "uri": "https://github.com/Day8/re-com", 
+    "title": "GitHub - Day8/re-com: A ClojureScript library of reusable components for Reagent"
 }

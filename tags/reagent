@@ -34,4 +34,10 @@
     "hash": "c8d3b49e0c9eb405b76c321e0da41116", 
     "uri": "https://github.com/madvas/cljs-react-material-ui", 
     "title": "GitHub - madvas/cljs-react-material-ui: Clojurescript library for using material-ui.com"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1e89c171ba571c521dc2814196a51191", 
+    "uri": "https://github.com/Day8/re-com", 
+    "title": "GitHub - Day8/re-com: A ClojureScript library of reusable components for Reagent"
 }
