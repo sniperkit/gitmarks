@@ -16,4 +16,10 @@
     "hash": "03f6b11fadcd790f65506e3138fed2b9", 
     "uri": "http://www.oame.on.ca/main/index1.php", 
     "title": "OAME Welcome"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cc1c5e3212c2a0ca79e46aadd8e65de3", 
+    "uri": "http://www.meetup.com/Clojure-Toronto/", 
+    "title": "[No Title]"
 }
