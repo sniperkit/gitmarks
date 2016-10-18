@@ -2236,4 +2236,10 @@
     "hash": "23a1f5bb974d7c135bd490463fc554b2", 
     "uri": "https://medium.com/@matus.lestan/how-to-create-decentralised-apps-with-clojurescript-re-frame-and-ethereum-81de24d72ff5#.t9j1dc3r0", 
     "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9d6d5e70edabd05518dfc87d1f4d8760", 
+    "uri": "http://numergent.com/2016-10/Deploying-a-Clojure-application-from-Gitlab-CI-to-Heroku.html", 
+    "title": "Deploying a Clojure application from Gitlab CI to Heroku | Numergent"
 }
