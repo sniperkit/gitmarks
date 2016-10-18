@@ -352,4 +352,10 @@
     "hash": "5a5fffa0d7f61686b990b7846fdbd52b", 
     "uri": "https://bada55.cr.yp.to", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b5f9c192fdb1cb40a573ae60f8ad3d95", 
+    "uri": "http://thehackernews.com/2016/10/nsa-crack-encryption.html", 
+    "title": "Researchers Demonstrated How NSA Broke Trillions of Encrypted Connections"
 }
