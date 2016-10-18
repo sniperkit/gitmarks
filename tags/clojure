@@ -2242,4 +2242,10 @@
     "hash": "9d6d5e70edabd05518dfc87d1f4d8760", 
     "uri": "http://numergent.com/2016-10/Deploying-a-Clojure-application-from-Gitlab-CI-to-Heroku.html", 
     "title": "Deploying a Clojure application from Gitlab CI to Heroku | Numergent"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec13148a9057721bb6deac841f1b24eb", 
+    "uri": "yogthos.net/posts/2016-10-15-AtomWithLuminus.html", 
+    "title": "[No Title]"
 }

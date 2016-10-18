@@ -706,4 +706,10 @@
     "hash": "59dbd8c65866ea904d881e5dec06fed2", 
     "uri": "https://github.com/cloverage/cloverage", 
     "title": "GitHub - cloverage/cloverage: Clojure test coverage tool"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ec13148a9057721bb6deac841f1b24eb", 
+    "uri": "yogthos.net/posts/2016-10-15-AtomWithLuminus.html", 
+    "title": "[No Title]"
 }
