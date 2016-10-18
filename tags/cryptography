@@ -358,4 +358,10 @@
     "hash": "b5f9c192fdb1cb40a573ae60f8ad3d95", 
     "uri": "http://thehackernews.com/2016/10/nsa-crack-encryption.html", 
     "title": "Researchers Demonstrated How NSA Broke Trillions of Encrypted Connections"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "39bdff7d1797abce37af2f27a77297ce", 
+    "uri": "https://github.com/google/trillian", 
+    "title": "GitHub - google/trillian"
 }
