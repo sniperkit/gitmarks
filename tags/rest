@@ -10,4 +10,10 @@
     "hash": "4ee1b26873d192f2d0b588711d8c49c2", 
     "uri": "https://github.com/clojure-liberator/liberator", 
     "title": "GitHub - clojure-liberator/liberator: Liberator is a Clojure library for building RESTful applications."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e049a4ff296ed137ecfc9d3a3cc70c2d", 
+    "uri": "http://swagger.io/getting-started/", 
+    "title": "403 Forbidden"
 }
