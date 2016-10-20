@@ -16,4 +16,10 @@
     "hash": "cf7dd1f95a535195385c870760ff36e6", 
     "uri": "https://myminutes.wordpress.com/2013/10/22/simple-caldav4j-example-in-java-and-clojure/", 
     "title": "Simple caldav4j example in java and clojure | My Minutes (Benjamin Peter)"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "770b6c2195c286d903a12950f9db7925", 
+    "uri": "https://github.com/petabridge/akkadotnet-code-samples/tree/master/Cluster.WebCrawler", 
+    "title": "akkadotnet-code-samples/Cluster.WebCrawler at master \u00b7 petabridge/akkadotnet-code-samples \u00b7 GitHub"
 }
