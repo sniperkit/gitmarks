@@ -2248,4 +2248,10 @@
     "hash": "ec13148a9057721bb6deac841f1b24eb", 
     "uri": "yogthos.net/posts/2016-10-15-AtomWithLuminus.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "68c95b9c78136ee09d4fbd69c3ee4a81", 
+    "uri": "https://github.com/mcohen01/amazonica", 
+    "title": "GitHub - mcohen01/amazonica: A comprehensive Clojure client for the entire Amazon AWS api."
 }
