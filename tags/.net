@@ -280,4 +280,10 @@
     "hash": "770b6c2195c286d903a12950f9db7925", 
     "uri": "https://github.com/petabridge/akkadotnet-code-samples/tree/master/Cluster.WebCrawler", 
     "title": "akkadotnet-code-samples/Cluster.WebCrawler at master \u00b7 petabridge/akkadotnet-code-samples \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b9fe10e1ac6aa611d8ef44784a818ac9", 
+    "uri": "https://petabridge.com/blog/top-akkadotnet-design-patterns/", 
+    "title": "Access denied | petabridge.com used CloudFlare to restrict access"
 }
