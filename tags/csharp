@@ -106,4 +106,10 @@
     "hash": "804dbc05ceebeb133e7571c7c0951632", 
     "uri": "https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-C%23-6", 
     "title": "New Language Features in C# 6 \u00b7 dotnet/roslyn Wiki \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "12ca7f4efe1cc3449eb039ca703e9868", 
+    "uri": "http://stackoverflow.com/questions/11841540/setting-the-user-agent-header-for-a-webclient-request", 
+    "title": "c# - Setting the User-Agent header for a WebClient request - Stack Overflow"
 }
