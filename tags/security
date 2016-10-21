@@ -460,4 +460,10 @@
     "hash": "0d518cd31867fc17b9889ced5d86696d", 
     "uri": "http://www.canadianminingjournal.com/features/staying-a-step-ahead-of-cyber-attackers/", 
     "title": "Staying a step ahead of cyber attackers &#124; Canadian Mining Journal"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a1df589382d63bcb244c6051830917b1", 
+    "uri": "https://github.com/sshnet/SSH.NET", 
+    "title": "GitHub - sshnet/SSH.NET: SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism."
 }
