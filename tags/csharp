@@ -208,4 +208,10 @@
     "hash": "a2904a3f484273b3bcf0f9e5b3499e16", 
     "uri": "http://specsfor.com/", 
     "title": "Welcome - SpecsFor - The Best BDD Framework for .NET Developers!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "618fd9815a891bedde30ad5fc92385de", 
+    "uri": "https://github.com/anjdreas/UnitsNet", 
+    "title": "GitHub - anjdreas/UnitsNet: Makes life working with units of measurement just a little bit better."
 }
