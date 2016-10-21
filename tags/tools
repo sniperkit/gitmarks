@@ -724,4 +724,10 @@
     "hash": "a1df589382d63bcb244c6051830917b1", 
     "uri": "https://github.com/sshnet/SSH.NET", 
     "title": "GitHub - sshnet/SSH.NET: SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "618b4aa3106cbe009eca33d4dd1309ce", 
+    "uri": "https://github.com/octokit/octokit.net", 
+    "title": "GitHub - octokit/octokit.net: A GitHub API client library for .NET"
 }

@@ -322,4 +322,10 @@
     "hash": "1991f9405b89c867702136275d1bc961", 
     "uri": "https://dynamic-data.org/", 
     "title": "Dynamic Data | dynamic data brings the power of reactive (rx) to collections"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "618b4aa3106cbe009eca33d4dd1309ce", 
+    "uri": "https://github.com/octokit/octokit.net", 
+    "title": "GitHub - octokit/octokit.net: A GitHub API client library for .NET"
 }
