@@ -70,4 +70,10 @@
     "hash": "94af9d6cd73b9cdc092eed138558fd6b", 
     "uri": "https://mran.microsoft.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "216a52975702e55da50e0aef785825f7", 
+    "uri": "http://bluemountaincapital.github.io/FSharpRProvider/", 
+    "title": "[No Title]"
 }
