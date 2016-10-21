@@ -10,4 +10,10 @@
     "hash": "42b80e772a29f29d3c90563bb80a3e41", 
     "uri": "https://blog.i3arnon.com/2015/12/16/async-linq-to-objects-over-mongodb/", 
     "title": "Async LINQ To Objects Over MongoDB | Bar Arnon"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "98b3046f9264ea879603b7d11842cdf8", 
+    "uri": "https://github.com/aloisdg/awesome-linq", 
+    "title": "GitHub - aloisdg/awesome-linq: A curated collection of awesome LINQ libraries, tools, and more."
 }

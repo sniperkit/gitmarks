@@ -346,4 +346,10 @@
     "hash": "7ab905618189cc68d99afeef16f6ead4", 
     "uri": "https://suave.io/", 
     "title": "Suave.IO"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "98b3046f9264ea879603b7d11842cdf8", 
+    "uri": "https://github.com/aloisdg/awesome-linq", 
+    "title": "GitHub - aloisdg/awesome-linq: A curated collection of awesome LINQ libraries, tools, and more."
 }
