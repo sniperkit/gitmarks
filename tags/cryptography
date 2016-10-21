@@ -370,4 +370,10 @@
     "hash": "a1df589382d63bcb244c6051830917b1", 
     "uri": "https://github.com/sshnet/SSH.NET", 
     "title": "GitHub - sshnet/SSH.NET: SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "059429130006e90e0e99654603290dd3", 
+    "uri": "https://github.com/adamcaudill/libsodium-net", 
+    "title": "GitHub - adamcaudill/libsodium-net: libsodium for .NET - A secure cryptographic library"
 }

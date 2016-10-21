@@ -184,4 +184,10 @@
     "hash": "2f172c9846c46f5cddad7f96e37ee4df", 
     "uri": "https://github.com/AngleSharp/AngleSharp", 
     "title": "GitHub - AngleSharp/AngleSharp: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "059429130006e90e0e99654603290dd3", 
+    "uri": "https://github.com/adamcaudill/libsodium-net", 
+    "title": "GitHub - adamcaudill/libsodium-net: libsodium for .NET - A secure cryptographic library"
 }
