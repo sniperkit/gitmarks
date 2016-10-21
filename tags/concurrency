@@ -22,4 +22,10 @@
     "hash": "6f25c8a2835d943c72682caa6e0f163b", 
     "uri": "http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "305e773fc44e8993d8366e832342ae19", 
+    "uri": "https://github.com/jbakic/Shielded", 
+    "title": "GitHub - jbakic/Shielded: A strict and mostly lock-free Software Transactional Memory (STM) for .NET"
 }

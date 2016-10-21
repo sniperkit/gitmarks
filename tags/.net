@@ -292,4 +292,10 @@
     "hash": "7f1f82843e36ae0439e717727624f911", 
     "uri": "https://reactiveetl.codeplex.com/", 
     "title": "ReactiveETL - Home"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "305e773fc44e8993d8366e832342ae19", 
+    "uri": "https://github.com/jbakic/Shielded", 
+    "title": "GitHub - jbakic/Shielded: A strict and mostly lock-free Software Transactional Memory (STM) for .NET"
 }
