@@ -712,4 +712,10 @@
     "hash": "ec13148a9057721bb6deac841f1b24eb", 
     "uri": "yogthos.net/posts/2016-10-15-AtomWithLuminus.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "515ff193b98c9eee6d6fbe7a357e1ab4", 
+    "uri": "https://github.com/kappy/FlatMapper", 
+    "title": "GitHub - kappy/FlatMapper: FlatMapper is a library to import and export data from and to plain text files."
 }

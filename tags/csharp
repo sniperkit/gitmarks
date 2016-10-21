@@ -130,4 +130,10 @@
     "hash": "efe3afe841804518c557e9089f0a7297", 
     "uri": "https://github.com/naudio/NAudio", 
     "title": "GitHub - naudio/NAudio: Audio and MIDI library for .NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "515ff193b98c9eee6d6fbe7a357e1ab4", 
+    "uri": "https://github.com/kappy/FlatMapper", 
+    "title": "GitHub - kappy/FlatMapper: FlatMapper is a library to import and export data from and to plain text files."
 }
