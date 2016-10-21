@@ -142,4 +142,10 @@
     "hash": "a1df589382d63bcb244c6051830917b1", 
     "uri": "https://github.com/sshnet/SSH.NET", 
     "title": "GitHub - sshnet/SSH.NET: SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1991f9405b89c867702136275d1bc961", 
+    "uri": "https://dynamic-data.org/", 
+    "title": "Dynamic Data | dynamic data brings the power of reactive (rx) to collections"
 }

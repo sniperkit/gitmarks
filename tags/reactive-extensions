@@ -274,4 +274,10 @@
     "hash": "fa7241411fe381622160cc727e4d584b", 
     "uri": "http://stackoverflow.com/questions/tagged/rx-android", 
     "title": "Access denied | stackoverflow.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1991f9405b89c867702136275d1bc961", 
+    "uri": "https://dynamic-data.org/", 
+    "title": "Dynamic Data | dynamic data brings the power of reactive (rx) to collections"
 }
