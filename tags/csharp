@@ -250,4 +250,10 @@
     "hash": "67da0ee702cacd85f95670e54850c598", 
     "uri": "https://github.com/kriasoft/aspnet-starter-kit", 
     "title": "GitHub - kriasoft/aspnet-starter-kit: Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "303ddc42f4a14f0e4fd5a9ec89691fbc", 
+    "uri": "https://github.com/benoitjadinon/awesome-xamarin", 
+    "title": "GitHub - benoitjadinon/awesome-xamarin: A collection of interesting libraries/tools for Xamarin mobile projects"
 }
