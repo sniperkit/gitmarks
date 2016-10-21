@@ -178,4 +178,10 @@
     "hash": "a3369baf5f4a0f35dcfe1a977cb38490", 
     "uri": "https://github.com/thangchung/awesome-dotnet-core", 
     "title": "GitHub - thangchung/awesome-dotnet-core: A collection of awesome .NET core libraries, tools, frameworks and software"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2f172c9846c46f5cddad7f96e37ee4df", 
+    "uri": "https://github.com/AngleSharp/AngleSharp", 
+    "title": "GitHub - AngleSharp/AngleSharp: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications."
 }

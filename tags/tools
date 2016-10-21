@@ -748,4 +748,10 @@
     "hash": "5c9c8019688bbfa9ebf9a12410470a2e", 
     "uri": "https://github.com/sjdirect/abot", 
     "title": "GitHub - sjdirect/abot: C# web crawler built for speed and flexibility. Please star this project! +1. Contact me with exciting opportunities!!"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2f172c9846c46f5cddad7f96e37ee4df", 
+    "uri": "https://github.com/AngleSharp/AngleSharp", 
+    "title": "GitHub - AngleSharp/AngleSharp: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications."
 }
