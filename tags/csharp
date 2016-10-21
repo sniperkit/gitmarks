@@ -196,4 +196,10 @@
     "hash": "fe5387e52cb6f3a279d37f0a2235069e", 
     "uri": "https://github.com/amageed/Regextra", 
     "title": "GitHub - amageed/Regextra: Regextra simplifies some tasks typically solved via regex so that you no longer have (problems){2}"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c910a36ae9ecbba77c32cbace10f65de", 
+    "uri": "http://hangfire.io/", 
+    "title": "Hangfire \u2013 Background jobs and workers for ASP.NET"
 }

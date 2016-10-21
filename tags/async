@@ -16,4 +16,10 @@
     "hash": "b391b61883de360abda196a5558c326f", 
     "uri": "https://msdn.microsoft.com/magazine/jj991977", 
     "title": "Async/Await - Best Practices in Asynchronous Programming"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "c910a36ae9ecbba77c32cbace10f65de", 
+    "uri": "http://hangfire.io/", 
+    "title": "Hangfire \u2013 Background jobs and workers for ASP.NET"
 }
