@@ -136,4 +136,10 @@
     "hash": "b347a6d5f27d51ba1e4ba0480d5cad6a", 
     "uri": "https://saucelabs.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe5387e52cb6f3a279d37f0a2235069e", 
+    "uri": "https://github.com/amageed/Regextra", 
+    "title": "GitHub - amageed/Regextra: Regextra simplifies some tasks typically solved via regex so that you no longer have (problems){2}"
 }

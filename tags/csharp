@@ -190,4 +190,10 @@
     "hash": "059429130006e90e0e99654603290dd3", 
     "uri": "https://github.com/adamcaudill/libsodium-net", 
     "title": "GitHub - adamcaudill/libsodium-net: libsodium for .NET - A secure cryptographic library"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "fe5387e52cb6f3a279d37f0a2235069e", 
+    "uri": "https://github.com/amageed/Regextra", 
+    "title": "GitHub - amageed/Regextra: Regextra simplifies some tasks typically solved via regex so that you no longer have (problems){2}"
 }
