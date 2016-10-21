@@ -226,4 +226,10 @@
     "hash": "1e36d1d9cece66e69034c9ab54adb253", 
     "uri": "https://en.wikipedia.org/wiki/Software_transactional_memory", 
     "title": "Software transactional memory - Wikipedia"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e377ecf6f95aa6cbd74cfacdfce78292", 
+    "uri": "https://components.xamarin.com/gettingstarted/rxforxamarin", 
+    "title": "Getting Started with Reactive Extensions (Rx) for Xamarin"
 }

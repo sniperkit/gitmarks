@@ -280,4 +280,10 @@
     "hash": "1991f9405b89c867702136275d1bc961", 
     "uri": "https://dynamic-data.org/", 
     "title": "Dynamic Data | dynamic data brings the power of reactive (rx) to collections"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e377ecf6f95aa6cbd74cfacdfce78292", 
+    "uri": "https://components.xamarin.com/gettingstarted/rxforxamarin", 
+    "title": "Getting Started with Reactive Extensions (Rx) for Xamarin"
 }
