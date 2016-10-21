@@ -202,4 +202,10 @@
     "hash": "c910a36ae9ecbba77c32cbace10f65de", 
     "uri": "http://hangfire.io/", 
     "title": "Hangfire \u2013 Background jobs and workers for ASP.NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a2904a3f484273b3bcf0f9e5b3499e16", 
+    "uri": "http://specsfor.com/", 
+    "title": "Welcome - SpecsFor - The Best BDD Framework for .NET Developers!"
 }
