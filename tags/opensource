@@ -238,4 +238,10 @@
     "hash": "b347a6d5f27d51ba1e4ba0480d5cad6a", 
     "uri": "https://saucelabs.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "68933bd5d1dabc96c3ff2cfe9c36e56c", 
+    "uri": "https://goparallel.sourceforge.net/machine-learning-pattern-python/", 
+    "title": "Machine Learning with \u201cPattern\u201d for Python - Go Parallel"
 }

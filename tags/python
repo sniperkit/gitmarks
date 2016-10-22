@@ -154,4 +154,10 @@
     "hash": "bac1dd0d72ec8d2805f715a644152bc2", 
     "uri": "http://greenteapress.com/thinkstats2/html/index.html", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "68933bd5d1dabc96c3ff2cfe9c36e56c", 
+    "uri": "https://goparallel.sourceforge.net/machine-learning-pattern-python/", 
+    "title": "Machine Learning with \u201cPattern\u201d for Python - Go Parallel"
 }
