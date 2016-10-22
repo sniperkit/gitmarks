@@ -34,4 +34,10 @@
     "hash": "68c95b9c78136ee09d4fbd69c3ee4a81", 
     "uri": "https://github.com/mcohen01/amazonica", 
     "title": "GitHub - mcohen01/amazonica: A comprehensive Clojure client for the entire Amazon AWS api."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "154097fdec48a75f31addb536821015b", 
+    "uri": "https://github.com/open-guides/og-aws", 
+    "title": "GitHub - open-guides/og-aws: \ud83d\udcd9 Amazon Web Services \u2014 a practical guide"
 }
