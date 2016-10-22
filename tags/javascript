@@ -628,4 +628,10 @@
     "hash": "1d88e462563b43276fe54c4565b4271f", 
     "uri": "http://cerebral.github.io/cerebral-website/", 
     "title": "Cerebral"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "de5988ff32fb6103b74f4ce00d82be3a", 
+    "uri": "https://github.com/reactjs/redux/", 
+    "title": "GitHub - reactjs/redux: Predictable state container for JavaScript apps"
 }
