@@ -16,4 +16,10 @@
     "hash": "46b1969950726d948e2d9a9621dd097e", 
     "uri": "http://www.mscs.dal.ca/~selinger/papers/", 
     "title": "Peter Selinger: Papers"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f8541926acf02e0c8b8aa0019e7bdf8d", 
+    "uri": "https://github.com/aphyr/distsys-class", 
+    "title": "GitHub - aphyr/distsys-class: Class materials for a distributed systems lecture series"
 }
