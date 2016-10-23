@@ -400,4 +400,10 @@
     "hash": "1628712455673a3a9e03d7f5e9300792", 
     "uri": "https://github.com/tonsky/rum", 
     "title": "GitHub - tonsky/rum: Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "416756c0b979b79eceb79b0980826d77", 
+    "uri": "https://www.youtube.com/watch?v=RqHnxkU9TZE", 
+    "title": "Rum workshop - YouTube"
 }
