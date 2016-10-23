@@ -2266,4 +2266,10 @@
     "hash": "a30a89faa4d207202f0dcbc204531db3", 
     "uri": "https://github.com/danielsz/system", 
     "title": "GitHub - danielsz/system: Reloaded components \u00e0 la carte"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1628712455673a3a9e03d7f5e9300792", 
+    "uri": "https://github.com/tonsky/rum", 
+    "title": "GitHub - tonsky/rum: Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript"
 }

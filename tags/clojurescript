@@ -394,4 +394,10 @@
     "hash": "bfefbba312376294b3c912f26591de67", 
     "uri": "http://respo.site", 
     "title": "Respo: an MVC library in ClojureScript"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1628712455673a3a9e03d7f5e9300792", 
+    "uri": "https://github.com/tonsky/rum", 
+    "title": "GitHub - tonsky/rum: Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript"
 }
