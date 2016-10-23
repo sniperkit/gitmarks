@@ -2260,4 +2260,10 @@
     "hash": "d2b9b0abc94ae6e68ee80f885178ce84", 
     "uri": "http://dragan.rocks/talks/EuroClojure2016/clojure-is-not-afraid-of-the-gpu.html", 
     "title": "Clojure is not afraid of the GPU"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a30a89faa4d207202f0dcbc204531db3", 
+    "uri": "https://github.com/danielsz/system", 
+    "title": "GitHub - danielsz/system: Reloaded components \u00e0 la carte"
 }
