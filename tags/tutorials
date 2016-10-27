@@ -40,4 +40,10 @@
     "hash": "ed92ebe40ef93366811cd9a09d575e18", 
     "uri": "https://www.youtube.com/results?search_query=how+to+edit+videos+in+blender+.72b", 
     "title": "how to edit videos in blender .72b - YouTube"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "97562ab025c7c767b8b0bdcac2f65543", 
+    "uri": "http://blog.klipse.tech//clojure/2016/10/25/core-match.html", 
+    "title": "Core.match interactive tutorial"
 }
