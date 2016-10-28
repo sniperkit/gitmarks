@@ -412,4 +412,10 @@
     "hash": "63910d7631e820f65acfedb0a071c26d", 
     "uri": "http://www.multunus.com/blog/2016/02/noobs-walkthrough-re-frame-app/", 
     "title": "403 Forbidden"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ee31bcb2d49a5921593d99751c8029ab", 
+    "uri": "https://precursorapp.com/", 
+    "title": "Precursor&mdash;fast prototyping web app, makes collaboration easy."
 }
