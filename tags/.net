@@ -352,4 +352,10 @@
     "hash": "98b3046f9264ea879603b7d11842cdf8", 
     "uri": "https://github.com/aloisdg/awesome-linq", 
     "title": "GitHub - aloisdg/awesome-linq: A curated collection of awesome LINQ libraries, tools, and more."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "18adfd801ed3dfe28a76271490b11f61", 
+    "uri": "https://servicestack.net/download", 
+    "title": "Simple and fast .NET Web Services framework"
 }
