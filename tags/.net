@@ -358,4 +358,10 @@
     "hash": "18adfd801ed3dfe28a76271490b11f61", 
     "uri": "https://servicestack.net/download", 
     "title": "Simple and fast .NET Web Services framework"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d9e0055b9abc5a56aa8f9698d4fdfb40", 
+    "uri": "http://www.hanselman.com/blog/ExploringServiceStacksSimpleAndFastWebServicesOnNETCore.aspx", 
+    "title": "Exploring ServiceStack's simple and fast web services on .NET Core - Scott Hanselman"
 }
