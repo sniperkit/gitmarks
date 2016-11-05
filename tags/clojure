@@ -2296,4 +2296,10 @@
     "hash": "3aa65a356e20d50718a0d68a52b7d75a", 
     "uri": "https://christopherdbui.com/clojure-repl-workflow/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9ef122a79ed4126e440ca506e70eb096", 
+    "uri": "https://github.com/replikativ/superv.async", 
+    "title": "GitHub - replikativ/superv.async: This is a Clojure(Script) library that extends core.async with error handling and includes a number of convenience functions and macros."
 }
