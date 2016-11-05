@@ -244,4 +244,10 @@
     "hash": "68933bd5d1dabc96c3ff2cfe9c36e56c", 
     "uri": "https://goparallel.sourceforge.net/machine-learning-pattern-python/", 
     "title": "Machine Learning with \u201cPattern\u201d for Python - Go Parallel"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "124495ed8e01eb7d2cac4d308caf5b78", 
+    "uri": "http://mariolukas.github.io/FabScanPi-Server/", 
+    "title": "FabScanPi"
 }
