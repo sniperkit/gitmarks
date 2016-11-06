@@ -256,4 +256,10 @@
     "hash": "303ddc42f4a14f0e4fd5a9ec89691fbc", 
     "uri": "https://github.com/benoitjadinon/awesome-xamarin", 
     "title": "GitHub - benoitjadinon/awesome-xamarin: A collection of interesting libraries/tools for Xamarin mobile projects"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "a0d3ee5691606118cac8dc332acde640", 
+    "uri": "https://github.com/shimat/opencvsharp", 
+    "title": "GitHub - shimat/opencvsharp: .NET Framework wrapper for OpenCV"
 }
