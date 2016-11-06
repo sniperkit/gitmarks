@@ -316,4 +316,10 @@
     "hash": "597cddc37fd8aae84cc4f9d92f3ae700", 
     "uri": "http://caldav.calconnect.org/implementations/clients.html", 
     "title": "CalDAV Clients"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ff1558be34abf0bffd4c2735513f1fd7", 
+    "uri": "http://pscout.csl.toronto.edu/", 
+    "title": "PScout"
 }
