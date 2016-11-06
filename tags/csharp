@@ -280,4 +280,10 @@
     "hash": "bd3267bb27cea6e094bf57b4a11dd3ac", 
     "uri": "https://github.com/Microsoft/Cognitive-face-windows", 
     "title": "GitHub - Microsoft/Cognitive-Face-Windows: Windows SDK for the Microsoft Face API, part of Cognitive Services"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7a7b6fd3942ed930932573c41864aaa9", 
+    "uri": "https://github.com/ms-iot/Facial-Recognition-Door", 
+    "title": "GitHub - ms-iot/Facial-Recognition-Door"
 }
