@@ -112,4 +112,10 @@
     "hash": "03f6b11fadcd790f65506e3138fed2b9", 
     "uri": "http://www.oame.on.ca/main/index1.php", 
     "title": "OAME Welcome"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "098ed503ead17f9444cf3694d280aa0a", 
+    "uri": "https://open.umich.edu/find/open-educational-resources/mathematics/math-679-elliptic-curves", 
+    "title": "Math 679 - Elliptic Curves | Open Michigan"
 }
