@@ -2302,4 +2302,10 @@
     "hash": "9ef122a79ed4126e440ca506e70eb096", 
     "uri": "https://github.com/replikativ/superv.async", 
     "title": "GitHub - replikativ/superv.async: This is a Clojure(Script) library that extends core.async with error handling and includes a number of convenience functions and macros."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "d52a452c78c3bdd68e97f79b9f245c30", 
+    "uri": "http://www.upgradingdave.com/blog/index.html", 
+    "title": "Upgrading Dave"
 }
