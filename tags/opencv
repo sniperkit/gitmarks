@@ -10,4 +10,10 @@
     "hash": "4a687cac25a56fb5f6ddf58f4dc260fb", 
     "uri": "https://github.com/Microsoft/Cognitive-Samples-VideoFrameAnalysis/", 
     "title": "GitHub - Microsoft/Cognitive-Samples-VideoFrameAnalysis: A library with sample apps for continuous analysis of live video, using the Microsoft Cognitive Services Vision APIs."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5823283832fe082ba5a378bb5deb3412", 
+    "uri": "https://github.com/pierceboggan/smarter-apps", 
+    "title": "GitHub - pierceboggan/smarter-apps: Learn how to build smarter mobile apps using Microsoft Cognitive Services &amp; Xamarin."
 }
