@@ -2308,4 +2308,10 @@
     "hash": "d52a452c78c3bdd68e97f79b9f245c30", 
     "uri": "http://www.upgradingdave.com/blog/index.html", 
     "title": "Upgrading Dave"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ea09662c7f1dff25f7d8aa7df71b90c1", 
+    "uri": "https://github.com/davidsantiago/hickory", 
+    "title": "GitHub - davidsantiago/hickory: HTML as data"
 }
