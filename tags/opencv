@@ -16,4 +16,10 @@
     "hash": "5823283832fe082ba5a378bb5deb3412", 
     "uri": "https://github.com/pierceboggan/smarter-apps", 
     "title": "GitHub - pierceboggan/smarter-apps: Learn how to build smarter mobile apps using Microsoft Cognitive Services &amp; Xamarin."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd3267bb27cea6e094bf57b4a11dd3ac", 
+    "uri": "https://github.com/Microsoft/Cognitive-face-windows", 
+    "title": "GitHub - Microsoft/Cognitive-Face-Windows: Windows SDK for the Microsoft Face API, part of Cognitive Services"
 }
