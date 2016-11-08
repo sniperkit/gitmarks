@@ -16,4 +16,10 @@
     "hash": "94af9d6cd73b9cdc092eed138558fd6b", 
     "uri": "https://mran.microsoft.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "93c6e244ddddd4f5777a859e173b93fd", 
+    "uri": "https://concept.research.microsoft.com/Home/Introduction", 
+    "title": "Microsoft Concept Graph and Concept Tagging Release"
 }
