@@ -634,4 +634,10 @@
     "hash": "de5988ff32fb6103b74f4ce00d82be3a", 
     "uri": "https://github.com/reactjs/redux/", 
     "title": "GitHub - reactjs/redux: Predictable state container for JavaScript apps"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e44e47970396c0ef63e4d57d1b8a7061", 
+    "uri": "https://docs.getexponent.com/versions/v11.0.0/index.html", 
+    "title": "Learn Exponent &mdash; Exponent v11.0.0 documentation"
 }

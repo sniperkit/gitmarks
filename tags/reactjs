@@ -238,4 +238,10 @@
     "hash": "67da0ee702cacd85f95670e54850c598", 
     "uri": "https://github.com/kriasoft/aspnet-starter-kit", 
     "title": "GitHub - kriasoft/aspnet-starter-kit: Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate."
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e44e47970396c0ef63e4d57d1b8a7061", 
+    "uri": "https://docs.getexponent.com/versions/v11.0.0/index.html", 
+    "title": "Learn Exponent &mdash; Exponent v11.0.0 documentation"
 }
