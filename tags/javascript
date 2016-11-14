@@ -646,4 +646,10 @@
     "hash": "9454a8fc1a4ba754c937a72ada910fea", 
     "uri": "https://medium.com/@tiensonqin/why-exponent-on-react-native-especially-for-clojurescript-9bb1417c0c65", 
     "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7e55a713b825a6d3b9cb84fb224902af", 
+    "uri": "http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html", 
+    "title": "Understanding Monads With JavaScript \u2014 igstan.ro"
 }

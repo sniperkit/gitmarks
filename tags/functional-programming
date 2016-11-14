@@ -634,4 +634,10 @@
     "hash": "57b80565b7c142977fd99646c4ed9814", 
     "uri": "https://dzone.com/refcardz/functional-programming-with-javascript", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7e55a713b825a6d3b9cb84fb224902af", 
+    "uri": "http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html", 
+    "title": "Understanding Monads With JavaScript \u2014 igstan.ro"
 }
