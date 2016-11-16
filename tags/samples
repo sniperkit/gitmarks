@@ -28,4 +28,10 @@
     "hash": "b9fe10e1ac6aa611d8ef44784a818ac9", 
     "uri": "https://petabridge.com/blog/top-akkadotnet-design-patterns/", 
     "title": "Access denied | petabridge.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b5129ab92da3fe4124a946f28c2ca798", 
+    "uri": "https://github.com/azure/azure-webjobs-sdk-samples", 
+    "title": "GitHub - Azure/azure-webjobs-sdk-samples: Microsoft Azure WebJobs SDK Samples"
 }

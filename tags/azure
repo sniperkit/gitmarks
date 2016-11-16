@@ -52,4 +52,10 @@
     "hash": "c202b5ddd9d560e5588ca697a243fd6a", 
     "uri": "http://www.hanselman.com/blog/IntroducingWindowsAzureWebJobs.aspx", 
     "title": "Introducing Windows Azure WebJobs - Scott Hanselman"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b5129ab92da3fe4124a946f28c2ca798", 
+    "uri": "https://github.com/azure/azure-webjobs-sdk-samples", 
+    "title": "GitHub - Azure/azure-webjobs-sdk-samples: Microsoft Azure WebJobs SDK Samples"
 }
