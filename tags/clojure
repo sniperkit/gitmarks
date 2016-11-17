@@ -2332,4 +2332,10 @@
     "hash": "8f84245ba3212bfa095d755746184793", 
     "uri": "http://blog.shriphani.com/2016/11/16/a-clojure-dsl-for-web-crawling/", 
     "title": "A Clojure DSL for Web-Crawling"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dcb4a54a2283eef06ec81b8b098a1399", 
+    "uri": "http://z.caudate.me/hara-security-making-sense-of-the-jca/", 
+    "title": "hara.security - making sense of the JCA"
 }

@@ -400,4 +400,10 @@
     "hash": "098ed503ead17f9444cf3694d280aa0a", 
     "uri": "https://open.umich.edu/find/open-educational-resources/mathematics/math-679-elliptic-curves", 
     "title": "Math 679 - Elliptic Curves | Open Michigan"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dcb4a54a2283eef06ec81b8b098a1399", 
+    "uri": "http://z.caudate.me/hara-security-making-sense-of-the-jca/", 
+    "title": "hara.security - making sense of the JCA"
 }
