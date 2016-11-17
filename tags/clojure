@@ -2326,4 +2326,10 @@
     "hash": "2ff7ab643d73a71de8f645babfdf0b06", 
     "uri": "https://www.amazon.com/gp/richpub/listmania/fullview/R3LG3ZBZS4GCTH", 
     "title": "Amazon.com: Listmania!  "
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "8f84245ba3212bfa095d755746184793", 
+    "uri": "http://blog.shriphani.com/2016/11/16/a-clojure-dsl-for-web-crawling/", 
+    "title": "A Clojure DSL for Web-Crawling"
 }
