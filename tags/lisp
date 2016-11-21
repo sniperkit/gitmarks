@@ -166,4 +166,10 @@
     "hash": "b98b7431295cbf91f241925f0a953fda", 
     "uri": "https://github.com/Sauermann/emacs-aes", 
     "title": "GitHub - Sauermann/emacs-aes: Emacs Lisp implementation of AES"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "cc14ba988c6fa75196c732d0e916e749", 
+    "uri": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html", 
+    "title": "[No Title]"
 }
