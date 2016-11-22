@@ -58,4 +58,10 @@
     "hash": "b5129ab92da3fe4124a946f28c2ca798", 
     "uri": "https://github.com/azure/azure-webjobs-sdk-samples", 
     "title": "GitHub - Azure/azure-webjobs-sdk-samples: Microsoft Azure WebJobs SDK Samples"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "50ebf7afe785fca6cb6736ea4fa7ac08", 
+    "uri": "https://github.com/Azure/azure-functions", 
+    "title": "GitHub - Azure/Azure-Functions"
 }
