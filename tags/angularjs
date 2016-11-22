@@ -100,4 +100,10 @@
     "hash": "25fde6096fcddce3a48d3c1668d4c6b6", 
     "uri": "http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html", 
     "title": "Getting Started with Django Rest Framework and AngularJS"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "2aa187607568a4c12fc82b060f2c9a8c", 
+    "uri": "http://houssein.me/angular2-hacker-news", 
+    "title": "Access denied | houssein.me used CloudFlare to restrict access"
 }
