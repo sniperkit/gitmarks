@@ -106,4 +106,10 @@
     "hash": "2aa187607568a4c12fc82b060f2c9a8c", 
     "uri": "http://houssein.me/angular2-hacker-news", 
     "title": "Access denied | houssein.me used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5c80c3fbbf1de1d676fd851617879d84", 
+    "uri": "https://github.com/ngrx/store", 
+    "title": "GitHub - ngrx/store: RxJS powered state management for Angular applications, inspired by Redux"
 }

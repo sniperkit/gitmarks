@@ -316,4 +316,10 @@
     "hash": "1b297f64c7b051c8ef32ff17756c3278", 
     "uri": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754", 
     "title": "The introduction to Reactive Programming you&#39;ve been missing \u00b7 GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "5c80c3fbbf1de1d676fd851617879d84", 
+    "uri": "https://github.com/ngrx/store", 
+    "title": "GitHub - ngrx/store: RxJS powered state management for Angular applications, inspired by Redux"
 }
