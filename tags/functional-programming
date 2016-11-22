@@ -640,4 +640,10 @@
     "hash": "7e55a713b825a6d3b9cb84fb224902af", 
     "uri": "http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html", 
     "title": "Understanding Monads With JavaScript \u2014 igstan.ro"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "0aacc10e513e2052247096a5fd3d148c", 
+    "uri": "https://github.com/kachayev/fn.py", 
+    "title": "GitHub - kachayev/fn.py: Functional programming in Python: implementation of missing features to enjoy FP"
 }
