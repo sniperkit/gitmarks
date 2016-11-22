@@ -52,4 +52,10 @@
     "hash": "5f3e5cb0bb359c0c08b3f90eaa621bf5", 
     "uri": "http://lisperati.com/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "842a67bc37ac5d5966f1385d32f8d20e", 
+    "uri": "https://github.com/haskell-crypto/cryptonite", 
+    "title": "GitHub - haskell-crypto/cryptonite: lowlevel set of cryptographic primitives for haskell"
 }

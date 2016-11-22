@@ -412,4 +412,10 @@
     "hash": "5ecc782d6157a9c19426833835decc60", 
     "uri": "https://cryptech.is", 
     "title": "CrypTech.is &#8211; Making the Internet a little bit safer"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "842a67bc37ac5d5966f1385d32f8d20e", 
+    "uri": "https://github.com/haskell-crypto/cryptonite", 
+    "title": "GitHub - haskell-crypto/cryptonite: lowlevel set of cryptographic primitives for haskell"
 }
