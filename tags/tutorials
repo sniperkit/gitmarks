@@ -52,4 +52,10 @@
     "hash": "3aa65a356e20d50718a0d68a52b7d75a", 
     "uri": "https://christopherdbui.com/clojure-repl-workflow/", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1b297f64c7b051c8ef32ff17756c3278", 
+    "uri": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754", 
+    "title": "The introduction to Reactive Programming you&#39;ve been missing \u00b7 GitHub"
 }

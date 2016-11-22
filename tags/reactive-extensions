@@ -310,4 +310,10 @@
     "hash": "2aa187607568a4c12fc82b060f2c9a8c", 
     "uri": "http://houssein.me/angular2-hacker-news", 
     "title": "Access denied | houssein.me used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "1b297f64c7b051c8ef32ff17756c3278", 
+    "uri": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754", 
+    "title": "The introduction to Reactive Programming you&#39;ve been missing \u00b7 GitHub"
 }
