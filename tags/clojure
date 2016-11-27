@@ -4,4 +4,10 @@
     "hash": "2528060dfe9a2453b49ce5ef10827896", 
     "uri": "http://www.sicpdistilled.com", 
     "title": "Access denied | www.sicpdistilled.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f535fae0ed7eb392fd8ecf3630f0be6", 
+    "uri": "http://mooc.fi/courses/2014/clojure/index.html", 
+    "title": "Functional programming with Clojure"
 }
