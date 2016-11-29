@@ -10,4 +10,10 @@
     "hash": "9f535fae0ed7eb392fd8ecf3630f0be6", 
     "uri": "http://mooc.fi/courses/2014/clojure/index.html", 
     "title": "Functional programming with Clojure"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "f5170587646b38fd1d239c08097a8a9b", 
+    "uri": "https://www.geekbooks.me/book/view/clojure-high-performance-programming-2nd-edition", 
+    "title": "Clojure High Performance Programming, 2nd Edition - GeekBooks - Free Tech PDF eBook Library"
 }
