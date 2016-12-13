@@ -4,4 +4,10 @@
     "hash": "df0d508fa0d0628dd0d0c8271bb450b8", 
     "uri": "http://www.cs.ox.ac.uk/people/samson.abramsky/calco05.pdf", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ddf6f4d4f75e5c5e9da26ac284ae476e", 
+    "uri": "https://arxiv.org/abs/quant-ph/0402130", 
+    "title": "[quant-ph/0402130] A categorical semantics of quantum protocols"
 }
