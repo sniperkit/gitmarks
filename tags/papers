@@ -4,4 +4,10 @@
     "hash": "ddf6f4d4f75e5c5e9da26ac284ae476e", 
     "uri": "https://arxiv.org/abs/quant-ph/0402130", 
     "title": "[quant-ph/0402130] A categorical semantics of quantum protocols"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ecdbc18d9b677582eb89164e6e2faa6e", 
+    "uri": "https://arxiv.org/abs/quant-ph/0512114", 
+    "title": "[quant-ph/0512114] A Categorical Quantum Logic"
 }
