@@ -4,4 +4,10 @@
     "hash": "b93196c639c0d78e1bc7d3e4481c6787", 
     "uri": "http://www.math.stonybrook.edu/~kirillov/tensor/tensor.html", 
     "title": "Lectures on tensor categories and modular functor"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd895a80d4aee9a5888c381d9bbcffc5", 
+    "uri": "http://theory.caltech.edu/people/preskill/ph229/", 
+    "title": "Physics 219 Course Information"
 }
