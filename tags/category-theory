@@ -22,4 +22,10 @@
     "hash": "e6a4dd2b0b5a28541532f095f3d0e5f7", 
     "uri": "http://www.cs.ox.ac.uk/people/bob.coecke/AbrNikos.pdf", 
     "title": "[No Title]"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "b93196c639c0d78e1bc7d3e4481c6787", 
+    "uri": "http://www.math.stonybrook.edu/~kirillov/tensor/tensor.html", 
+    "title": "Lectures on tensor categories and modular functor"
 }
