@@ -10,4 +10,10 @@
     "hash": "1f02e3832308a592653c87fe1569fb04", 
     "uri": "https://reactjs.net/getting-started/aspnetcore.html", 
     "title": "Getting Started on ASP.NET Core | ReactJS.NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "868bbb3a75d31c617e6193426bbe2bcd", 
+    "uri": "https://egghead.io/lessons/react-hello-world-first-component", 
+    "title": "Write a &quot;Hello World&quot; React Component - react Video Tutorial #free @eggheadio"
 }
