@@ -10,4 +10,10 @@
     "hash": "fe8af4c1635f2789402fc5dfd4f0cd52", 
     "uri": "https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f", 
     "title": "Access denied | medium.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "060f630e2d39da0f16e7eaf4715c9fb5", 
+    "uri": "https://github.com/staltz/xstream", 
+    "title": "GitHub - staltz/xstream: An extremely intuitive, small, and fast functional reactive stream library for JavaScript"
 }
