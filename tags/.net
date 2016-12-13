@@ -4,4 +4,10 @@
     "hash": "1f02e3832308a592653c87fe1569fb04", 
     "uri": "https://reactjs.net/getting-started/aspnetcore.html", 
     "title": "Getting Started on ASP.NET Core | ReactJS.NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "e4f614590f46bd3a74a4cc2dbc40e747", 
+    "uri": "https://github.com/NancyFx/Nancy", 
+    "title": "GitHub - NancyFx/Nancy: Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono"
 }
