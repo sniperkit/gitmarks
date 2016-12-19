@@ -4,4 +4,10 @@
     "hash": "ce7e93cdf2304fe114ab173a4df3fe20", 
     "uri": "http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html", 
     "title": "Full-Stack Redux Tutorial"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "15702cb850f4f01e5ce48e5022ae1c83", 
+    "uri": "https://github.com/cyclejs-community/awesome-cyclejs", 
+    "title": "GitHub - cyclejs-community/awesome-cyclejs: A curated list of awesome Cycle.js resources"
 }
