@@ -22,4 +22,10 @@
     "hash": "a0ffd4cbd19d1620502b9fc0952e6542", 
     "uri": "https://github.com/Reactive-Extensions/RxJSKoans", 
     "title": "GitHub - Reactive-Extensions/RxJSKoans: RxJS Koans"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "bd187f7a7084151e6fb3829f2ef057de", 
+    "uri": "https://bsideup.gitbooks.io/rxconnect/content/", 
+    "title": "Introduction \u00b7 RxConnect"
 }
