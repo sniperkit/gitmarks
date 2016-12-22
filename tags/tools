@@ -10,4 +10,10 @@
     "hash": "531dcafb4786a9b9ca23dc913099bf93", 
     "uri": "http://arstechnica.com/security/2016/12/op-ed-im-giving-up-on-pgp/", 
     "title": "Op-ed: I\u2019m throwing in the towel on PGP, and I work in security | Ars Technica"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "920a4df46ca4d2412f176a8c8eeebb0d", 
+    "uri": "https://blog.filippo.io/giving-up-on-long-term-pgp/", 
+    "title": "I&#x27;m giving up on PGP"
 }
