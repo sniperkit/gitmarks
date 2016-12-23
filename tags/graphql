@@ -22,4 +22,10 @@
     "hash": "7bdea8a7c5a6f3686e2488cf328ff25f", 
     "uri": "https://github.com/ckimes89/graphql-net", 
     "title": "GitHub - ckimes89/graphql-net: Convert GraphQL to IQueryable"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "dd1de65de093c201d658286d09b9822f", 
+    "uri": "https://learngraphql.com/basics/introduction", 
+    "title": "[No Title]"
 }
