@@ -16,4 +16,10 @@
     "hash": "9f244a7157fddf90a7d4310f3aa3ab30", 
     "uri": "https://github.com/chentsulin/awesome-graphql", 
     "title": "GitHub - chentsulin/awesome-graphql: Awesome list of GraphQL &amp; Relay"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7bdea8a7c5a6f3686e2488cf328ff25f", 
+    "uri": "https://github.com/ckimes89/graphql-net", 
+    "title": "GitHub - ckimes89/graphql-net: Convert GraphQL to IQueryable"
 }

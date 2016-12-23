@@ -10,4 +10,10 @@
     "hash": "e4f614590f46bd3a74a4cc2dbc40e747", 
     "uri": "https://github.com/NancyFx/Nancy", 
     "title": "GitHub - NancyFx/Nancy: Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "7bdea8a7c5a6f3686e2488cf328ff25f", 
+    "uri": "https://github.com/ckimes89/graphql-net", 
+    "title": "GitHub - ckimes89/graphql-net: Convert GraphQL to IQueryable"
 }
