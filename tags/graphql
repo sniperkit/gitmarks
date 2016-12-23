@@ -10,4 +10,10 @@
     "hash": "5c052b42503381bd2c029ba69ae0289f", 
     "uri": "http://graphql.org/code/", 
     "title": "Code | GraphQL"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "9f244a7157fddf90a7d4310f3aa3ab30", 
+    "uri": "https://github.com/chentsulin/awesome-graphql", 
+    "title": "GitHub - chentsulin/awesome-graphql: Awesome list of GraphQL &amp; Relay"
 }
