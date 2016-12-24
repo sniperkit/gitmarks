@@ -40,4 +40,10 @@
     "hash": "f1039ef0af37c3f30fb62e38bcd959fb", 
     "uri": "https://github.com/pH200/cycle-react", 
     "title": "GitHub - pH200/cycle-react: Rx functional interface to Facebook&#39;s React"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ced638833f46fb7567354afa5789b927", 
+    "uri": "https://github.com/ReactTraining/react-router", 
+    "title": "GitHub - ReactTraining/react-router: Declarative routing for React"
 }
