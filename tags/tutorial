@@ -16,4 +16,10 @@
     "hash": "cc8d33f9705a844e2d34481471966b9f", 
     "uri": "https://github.com/reflux/refluxjs", 
     "title": "GitHub - reflux/refluxjs: A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ce028e6e1b6c1ea475f8407af822c51b", 
+    "uri": "https://www.learnrxjs.io/", 
+    "title": null
 }
