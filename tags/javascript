@@ -16,4 +16,10 @@
     "hash": "895850ac8066e6da121cd073ee88497b", 
     "uri": "http://qunitjs.com/", 
     "title": "Access denied | qunitjs.com used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "45b8aa73ee546cad0d9ad9d83ab7fe7b", 
+    "uri": "http://tobiasahlin.com/spinkit/", 
+    "title": "SpinKit | Simple CSS Spinners"
 }
