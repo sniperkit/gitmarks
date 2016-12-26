@@ -22,4 +22,10 @@
     "hash": "45b8aa73ee546cad0d9ad9d83ab7fe7b", 
     "uri": "http://tobiasahlin.com/spinkit/", 
     "title": "SpinKit | Simple CSS Spinners"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "869ffceff0f9f3b81b508a0c6e0f0313", 
+    "uri": "http://leafletjs.com/plugins.html", 
+    "title": "Plugins - Leaflet - a JavaScript library for interactive maps"
 }
