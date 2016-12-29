@@ -40,4 +40,10 @@
     "hash": "bfd531ffee54f7e9d11760c882fbd80b", 
     "uri": "https://webpack.js.org/get-started/", 
     "title": "Access denied | webpack.js.org used CloudFlare to restrict access"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "ae7a1799a169ba0b3ab01c3e2bb4078f", 
+    "uri": "https://github.com/thejameskyle/the-super-tiny-compiler/blob/master/super-tiny-compiler.js", 
+    "title": "the-super-tiny-compiler/super-tiny-compiler.js at master \u00b7 thejameskyle/the-super-tiny-compiler \u00b7 GitHub"
 }
