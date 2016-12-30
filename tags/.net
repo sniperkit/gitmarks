@@ -22,4 +22,10 @@
     "hash": "ddad5a0092d807b5ebfc295dcaab84dc", 
     "uri": "https://reactjs.net/getting-started/tutorial.html", 
     "title": "Tutorial (ASP.NET Core) | ReactJS.NET"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "alansamet", 
+    "hash": "275ed8d3048808b387d8dea29c523178", 
+    "uri": "https://github.com/paulcbetts/refit", 
+    "title": "GitHub - paulcbetts/refit: The automatic type-safe REST library for Xamarin and .NET"
 }
