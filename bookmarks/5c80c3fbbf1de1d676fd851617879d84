@@ -1,9 +1,1 @@
-{
-    "hash": "5c80c3fbbf1de1d676fd851617879d84", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/ngrx/store", 
-    "private": false, 
-    "time": "2016-11-22T16:16:04Z", 
-    "title": "GitHub - ngrx/store: RxJS powered state management for Angular applications, inspired by Redux"
-}
+{"hash":"5C80C3FBBF1DE1D676FD851617879D84","rights":"CC BY","creator":"batch","uri":"https://github.com/ngrx/store","time":"2017-05-12","title":"GitHub - ngrx/store: RxJS powered state management for Angular applications, inspired by Redux"}

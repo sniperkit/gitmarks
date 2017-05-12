@@ -1,9 +1,1 @@
-{
-    "hash": "060f630e2d39da0f16e7eaf4715c9fb5", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "https://github.com/staltz/xstream", 
-    "private": false, 
-    "time": "2016-12-13T23:53:33Z", 
-    "title": "GitHub - staltz/xstream: An extremely intuitive, small, and fast functional reactive stream library for JavaScript"
-}
+{"hash":"060F630E2D39DA0F16E7EAF4715C9FB5","rights":"CC BY","creator":"batch","uri":"https://github.com/staltz/xstream","time":"2017-05-12","title":"GitHub - staltz/xstream: An extremely intuitive, small, and fast functional reactive stream library for JavaScript"}

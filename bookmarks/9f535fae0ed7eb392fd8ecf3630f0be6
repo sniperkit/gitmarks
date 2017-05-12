@@ -1,9 +1,1 @@
-{
-    "hash": "9f535fae0ed7eb392fd8ecf3630f0be6", 
-    "rights": "CC BY", 
-    "creator": "alansamet", 
-    "uri": "http://mooc.fi/courses/2014/clojure/index.html", 
-    "private": false, 
-    "time": "2016-11-27T20:49:51Z", 
-    "title": "Functional programming with Clojure"
-}
+{"hash":"9F535FAE0ED7EB392FD8ECF3630F0BE6","rights":"CC BY","creator":"batch","uri":"http://mooc.fi/courses/2014/clojure/index.html","time":"2017-05-12","title":"Functional programming with Clojure"}
